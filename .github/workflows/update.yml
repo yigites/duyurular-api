@@ -37,5 +37,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data public
-          git commit -m "Auto update multi duyurular" || echo "No changes"
+          git commit -m "Auto update duyurular" || echo "No changes"
           git push https://x-access-token:${PUSH_TOKEN}@github.com/${{ github.repository }} HEAD:main
