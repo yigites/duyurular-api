@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://KULLANICIADI.github.io/multi-duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Dec 2025 16:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 11:20:52 GMT</lastBuildDate>
         <atom:link href="https://KULLANICIADI.github.io/multi-duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[2025/2. Dönem Tıbbi ve Ekonomik Değerlendirme Komisyonu Kararlarına İstinaden Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/20252-Donem-Tibbi-ve-Ekonomik-Degerlendirme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-2025-12-17-09-29-10</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/20252-Donem-Tibbi-ve-Ekonomik-Degerlendirme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-2025-12-17-09-29-10</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 Yılı Sosyal Güvenlik Kurumu Ayakta Tedavide Kullanılan Hazır Tıbbi Malzemelerin Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/FaturaRecete-ve-Eki-Belgelerin-Is-ve-Islemleri-2025-12-05-01-44-55</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/48]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202548-2025-12-03-04-32-09</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202548-2025-12-03-04-32-09</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
