@@ -4,7 +4,7 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://KULLANICIADI.github.io/multi-duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 11:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 11:23:52 GMT</lastBuildDate>
         <atom:link href="https://KULLANICIADI.github.io/multi-duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
