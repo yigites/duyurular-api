@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[TÜRMOB Haberler]]></title>
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
-        <link>https://KULLANICIADI.github.io/multi-duyurular-api/turmob</link>
+        <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 11:23:53 GMT</lastBuildDate>
-        <atom:link href="https://KULLANICIADI.github.io/multi-duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Dec 2025 11:28:17 GMT</lastBuildDate>
+        <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
             <title><![CDATA[2025 Yılına İlişkin Envanter Defterlerin Noter Tasdik İşlemleri Hakkında Duyuru]]></title>
