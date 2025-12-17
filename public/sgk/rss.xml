@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[SGK Güncel Duyurular]]></title>
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
-        <link>https://KULLANICIADI.github.io/multi-duyurular-api/sgk</link>
+        <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 11:23:52 GMT</lastBuildDate>
-        <atom:link href="https://KULLANICIADI.github.io/multi-duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Dec 2025 11:28:15 GMT</lastBuildDate>
+        <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
             <title><![CDATA[2025/2. Dönem Tıbbi ve Ekonomik Değerlendirme Komisyonu Kararlarına İstinaden Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru]]></title>

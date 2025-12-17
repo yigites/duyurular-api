@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[GİB Güncel Duyurular]]></title>
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
-        <link>https://KULLANICIADI.github.io/multi-duyurular-api/gib</link>
+        <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 11:23:51 GMT</lastBuildDate>
-        <atom:link href="https://KULLANICIADI.github.io/multi-duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Dec 2025 11:28:13 GMT</lastBuildDate>
+        <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
             <title><![CDATA[Aylık Değerlendirme Toplantımızı Gerçekleştirdik]]></title>
