@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 11:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 06:29:55 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/50]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202550-2025-12-17-04-54-02</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202550-2025-12-17-04-54-02</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2025/2. Dönem Tıbbi ve Ekonomik Değerlendirme Komisyonu Kararlarına İstinaden Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/10122025-Tarihli-ve-33103-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-10-03-34-56</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fatura/Reçete ve Eki Belgelerin İş ve İşlemleri]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/FaturaRecete-ve-Eki-Belgelerin-Is-ve-Islemleri-2025-12-05-01-44-55</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/FaturaRecete-ve-Eki-Belgelerin-Is-ve-Islemleri-2025-12-05-01-44-55</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
