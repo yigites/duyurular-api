@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2025 06:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 06:29:04 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Sözleşmeli Personel Alımına İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sozlesmeli-Personel-Alimina-Iliskin-Duyuru-2025-12-18-12-26-08</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sozlesmeli-Personel-Alimina-Iliskin-Duyuru-2025-12-18-12-26-08</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/50]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -76,14 +84,6 @@
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
             <link>https://www.sgk.gov.tr/Duyuru/Detay/10122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-10-03-35-49</link>
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/10122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-10-03-35-49</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10/12/2025 Tarihli ve 33103 Sayılı Resmî Gazete’de Yayımlanan “Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ"]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/10122025-Tarihli-ve-33103-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-10-03-34-56</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/10122025-Tarihli-ve-33103-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-10-03-34-56</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
