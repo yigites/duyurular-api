@@ -4,9 +4,25 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 06:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 06:28:05 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[586 Sayılı VUK Genel Tebliği’ne Karşı Haklı Mücadelemiz Kamuoyunda Geniş Yankı Buldu!...]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/5f0d770f-928f-45b1-be5b-3d1272591096/-586-sayili-vuk-genel-tebligi-ne-karsi-hakli-mucadelemiz-kamuoyunda-genis-yanki-buldu----</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5f0d770f-928f-45b1-be5b-3d1272591096/-586-sayili-vuk-genel-tebligi-ne-karsi-hakli-mucadelemiz-kamuoyunda-genis-yanki-buldu----</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KAMUOYUNA DUYURU]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/1904d626-e3dc-4687-bbbc-67f4af84492c/kamuoyuna-duyuru</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1904d626-e3dc-4687-bbbc-67f4af84492c/kamuoyuna-duyuru</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 yılı uygulanması gereken Asgari Ücret Tarifeleri, e-Birlik Sistemi’ne eklenmiştir.]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/d7c61415-b0d8-4688-8028-5c7f05e9f743/etik-brosurlere-genel-bakis</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kooperatifler İçin Dış Denetçi Eğitimleri Devam Ediyor]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/0a355dcc-eb90-48e0-9ebb-b56167ab6f87/kooperatifler-icin-dis-denetci-egitimleri-devam-ediyor</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0a355dcc-eb90-48e0-9ebb-b56167ab6f87/kooperatifler-icin-dis-denetci-egitimleri-devam-ediyor</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sürekli Mesleki Geliştirme Eğitimleri Devam Ediyor]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/8b9510a4-3985-4682-ae44-8046c380a542/surekli-mesleki-gelistirme-egitimleri-devam-ediyor</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/8b9510a4-3985-4682-ae44-8046c380a542/surekli-mesleki-gelistirme-egitimleri-devam-ediyor</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

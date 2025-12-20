@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 06:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 06:28:02 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,46 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15385_aylik_degerlendirme_toplantimizi_gerceklestirdik</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sinop Defterdarı Sayın Mithat ÖNALAN'a Veda Yemegi Düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15485_sinop_defterdari_sayin_mithat_onalana_veda_yemegi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15485_sinop_defterdari_sayin_mithat_onalana_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mehmet Vehbi Bolak Mesleki ve Teknik Anadolu Lisesinin Defterdarlığımıza Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15487_mehmet_vehbi_bolak_mesleki_ve_teknik_anadolu_lisesinin_defterdarligimiza_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15487_mehmet_vehbi_bolak_mesleki_ve_teknik_anadolu_lisesinin_defterdarligimiza_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15484_mukellef_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15484_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15483_mukellef_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15483_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER Başkanlığında 2025 Yıl Sonu Değerlendirme Toplantısı Gerçekleştirilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15486_corum_defterdari_sayin_erkan_ciger_baskanliginda_2025_yil_sonu_degerlendirme_toplantisi_gerceklestirilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15486_corum_defterdari_sayin_erkan_ciger_baskanliginda_2025_yil_sonu_degerlendirme_toplantisi_gerceklestirilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7566 Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Resmi Gazete’de Yayımlandı]]></title>
@@ -52,14 +92,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15479_emekliye_ayrilan_personelimizden_defterdarimizi_ziyaret.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15479_emekliye_ayrilan_personelimizden_defterdarimizi_ziyaret.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15478_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15478_mukellef_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
         </item>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15439_agri_serbest_muhasebeci_ve_mali_musavirler_temsilciliginin_defterdarligimiza_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15439_agri_serbest_muhasebeci_ve_mali_musavirler_temsilciliginin_defterdarligimiza_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, TAGEM Tarımsal Araştırma Enstitüsünün 100. Yıl Etkinliğine Katıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15427_defterdarimiz_sn._cemil_musevitoglu%2C_tagem_tarimsal_arastirma_enstitusunun_100._yil_etkinligine_katildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15427_defterdarimiz_sn._cemil_musevitoglu%2C_tagem_tarimsal_arastirma_enstitusunun_100._yil_etkinligine_katildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi Uygulama Genel Tebliği Yayımlanmak Üzere Cumhurbaşkanlığı’na Gönderilmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15424_yerel_ve_kuresel_asgari_tamamlayici_kurumlar_vergisi_uygulama_genel_tebligi_yayimlanmak_uzere_cumhurbaskanligina_gonderilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15424_yerel_ve_kuresel_asgari_tamamlayici_kurumlar_vergisi_uygulama_genel_tebligi_yayimlanmak_uzere_cumhurbaskanligina_gonderilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Veda Yemeği]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15425_veda_yemegi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15425_veda_yemegi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mükelleflerimize Duyuru]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15426_mukelleflerimize_duyuru</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15426_mukelleflerimize_duyuru</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
