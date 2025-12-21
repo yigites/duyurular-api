@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Dec 2025 06:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Dec 2025 06:27:29 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15385_aylik_degerlendirme_toplantimizi_gerceklestirdik</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denetim Ve Koordinasyon Müdürlüğü Faaliyetlerine İlişkin Yıl Sonu Değerlendirme Toplantısı Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15489_denetim_ve_koordinasyon_mudurlugu_faaliyetlerine_iliskin_yil_sonu_degerlendirme_toplantisi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15489_denetim_ve_koordinasyon_mudurlugu_faaliyetlerine_iliskin_yil_sonu_degerlendirme_toplantisi_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sinop Defterdarı Sayın Mithat ÖNALAN'a Veda Yemegi Düzenlendi.]]></title>
@@ -28,6 +36,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15487_mehmet_vehbi_bolak_mesleki_ve_teknik_anadolu_lisesinin_defterdarligimiza_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15487_mehmet_vehbi_bolak_mesleki_ve_teknik_anadolu_lisesinin_defterdarligimiza_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali uyum seviyesi yüksek mükelleflerimiz işyerlerinde ziyaret edilerek Teşekkür Belgesi ile onurlandırıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15488_mali_uyum_seviyesi_yuksek_mukelleflerimiz_isyerlerinde_ziyaret_edilerek_tesekkur_belgesi_ile_onurlandirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15488_mali_uyum_seviyesi_yuksek_mukelleflerimiz_isyerlerinde_ziyaret_edilerek_tesekkur_belgesi_ile_onurlandirildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15431_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15431_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Menkul Mal Satış İlanı (38AAP223 ve 65DS718)]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15428_menkul_mal_satis_ilani_38aap223_ve_65ds718</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15428_menkul_mal_satis_ilani_38aap223_ve_65ds718</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AĞRI SERBEST MUHASEBECİ VE MALİ MÜŞAVİRLER TEMSİLCİLİĞİNİN DEFTERDARLIĞIMIZA ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15439_agri_serbest_muhasebeci_ve_mali_musavirler_temsilciliginin_defterdarligimiza_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15439_agri_serbest_muhasebeci_ve_mali_musavirler_temsilciliginin_defterdarligimiza_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
