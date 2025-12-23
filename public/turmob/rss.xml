@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Dec 2025 06:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 06:30:47 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Basit Usulden Gerçek Usule Geçiş Excel Tespit Robotunun Kullanıma Açılması Hakkında Duyuru]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/4e1705ad-7785-475a-bf86-7e92b07f6dd3/basit-usulden-gercek-usule-gecis-excel-tespit-robotunun-kullanima-acilmasi-hakkinda-duyuru</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/4e1705ad-7785-475a-bf86-7e92b07f6dd3/basit-usulden-gercek-usule-gecis-excel-tespit-robotunun-kullanima-acilmasi-hakkinda-duyuru</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[586 Sayılı VUK Genel Tebliği’ne Karşı Haklı Mücadelemiz Kamuoyunda Geniş Yankı Buldu!...]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/53eb5b72-cdf2-45a9-a6dd-da4dc3c1f889/turmob--da-yeni-donem</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Etik Broşürlere Genel Bakış]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/d7c61415-b0d8-4688-8028-5c7f05e9f743/etik-brosurlere-genel-bakis</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/d7c61415-b0d8-4688-8028-5c7f05e9f743/etik-brosurlere-genel-bakis</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
