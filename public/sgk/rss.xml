@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Dec 2025 06:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 06:30:29 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Gayrimenkul Satış İlanı]]></title>
+            <description><![CDATA[Kaynak: İNŞAAT VE EMLAK DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Gayrimenkul-Satis-Ilani-2025-12-23-01-53-23</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Gayrimenkul-Satis-Ilani-2025-12-23-01-53-23</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[İlaçlarda Uygulanacak Kamu Kurum İskontosu Baremlerinin Değiştirilmesi]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu--Vakif-Universiteleri-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-38-00</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/49]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202549-2025-12-10-06-51-08</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202549-2025-12-10-06-51-08</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
