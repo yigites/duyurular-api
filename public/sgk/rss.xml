@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 06:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 06:29:55 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/51]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202551-2025-12-24-05-10-15</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202551-2025-12-24-05-10-15</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gayrimenkul Satış İlanı]]></title>
             <description><![CDATA[Kaynak: İNŞAAT VE EMLAK DAİRE BAŞKANLIĞI]]></description>
@@ -76,14 +84,6 @@
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
             <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ozel-Saglik-Hizmeti-Sunucularindan-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-41-44</link>
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ozel-Saglik-Hizmeti-Sunucularindan-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-41-44</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Sosyal Güvenlik Kurumu / Vakıf Üniversiteleri Sağlık Hizmeti Satın Alım Sözleşmesi Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu--Vakif-Universiteleri-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-38-00</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu--Vakif-Universiteleri-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-38-00</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
