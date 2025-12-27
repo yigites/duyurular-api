@@ -4,9 +4,33 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Dec 2025 06:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 06:28:16 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Kahramanmaraş’ta Meydana Gelen Depremlerden Etkilenen Bazı Yerler İçin 2025 Yılı Kasım Ayına/Dönemine İlişkin Aylık Prim ve Hizmet Belgelerinin/ Muhtasar ve Prim Hizmet Beyannamelerinin Son Verilme ve İlgili Aya/Döneme İlişkin Primlerin Son Ödeme Tarihlerinin Uzatılmasına İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: SİGORTA PRİMLERİ GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Kahramanmarasta-Meydana-Gelen-Depremlerden-Etkilenen-Bazi-Yerler-Icin-2025-Yili-Kasim-AyinaDonemine-Iliskin-Aylik-Prim-ve-Hizmet-Belgelerinin-2025-12-26-04-25-35</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Kahramanmarasta-Meydana-Gelen-Depremlerden-Etkilenen-Bazi-Yerler-Icin-2025-Yili-Kasim-AyinaDonemine-Iliskin-Aylik-Prim-ve-Hizmet-Belgelerinin-2025-12-26-04-25-35</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sosyal Güvenlik Kurumu İle Resmi Kurumlar/Resmi Sağlık Kurumları Arasında Ismarlama Protez ve Ortez Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Resmi-KurumlarResmi-Saglik-Kurumlari-Arasinda-Ismarlama-Protez-ve-Ortez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-12</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Resmi-KurumlarResmi-Saglik-Kurumlari-Arasinda-Ismarlama-Protez-ve-Ortez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-12</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sosyal Güvenlik Kurumu İle Ismarlama Protez ve Ortez Merkezleri Arasında Protez/Ortez Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Ismarlama-Protez-ve-Ortez-Merkezleri-Arasinda-ProtezOrtez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-36</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Ismarlama-Protez-ve-Ortez-Merkezleri-Arasinda-ProtezOrtez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-36</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/51]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -60,30 +84,6 @@
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
             <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ayakta-Tedavide-Kullanilan-Hazir-Tibbi-Malzemelerin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-46-38</link>
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ayakta-Tedavide-Kullanilan-Hazir-Tibbi-Malzemelerin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-46-38</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Sosyal Güvenlik Kurumu İşitmeye Yardımcı Cihazların Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Isitmeye-Yardimci-Cihazlarin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-42-31</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Isitmeye-Yardimci-Cihazlarin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-42-31</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Sosyal Güvenlik Kurumu Görmeye Yardımcı Tıbbi Malzemelerin Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Gormeye-Yardimci-Tibbi-Malzemelerin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-43-07</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Gormeye-Yardimci-Tibbi-Malzemelerin-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-12-04-43-07</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Sosyal Güvenlik Kurumu Özel Sağlık Hizmeti Sunucularından Sağlık Hizmeti Satın Alım Sözleşmesi Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ozel-Saglik-Hizmeti-Sunucularindan-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-41-44</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2026-Yili-Sosyal-Guvenlik-Kurumu-Ozel-Saglik-Hizmeti-Sunucularindan-Saglik-Hizmeti-Satin-Alim-Sozlesmesi-Hakkinda-Duyuru-2025-12-12-04-41-44</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>

@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Dec 2025 06:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 06:28:15 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,12 +16,140 @@
             <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Türk Büro-Sen'den Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15580_turk_burosenden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15580_turk_burosenden_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aksaray Barosundan Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15572_aksaray_barosundan_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15572_aksaray_barosundan_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Ocak 2026 Tarihinde Yapılacak Vergi Dairesi Müdür Yardımcılığı Sınavına Katılacak Adaylar ile Sınav Giriş Yerleri Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15578_10_ocak_2026_tarihinde_yapilacak_vergi_dairesi_mudur_yardimciligi_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15578_10_ocak_2026_tarihinde_yapilacak_vergi_dairesi_mudur_yardimciligi_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aksaray Serbest Muhasebeci Mali Müşavirler Odasından Defterdarımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15576_aksaray_serbest_muhasebeci_mali_musavirler_odasindan_defterdarimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15576_aksaray_serbest_muhasebeci_mali_musavirler_odasindan_defterdarimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DUYURU]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15577_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15577_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızda Yangın Tatbikatı Gerçekleştirilmiştir]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15570_defterdarligimizda_yangin_tatbikati_gerceklestirilmistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15570_defterdarligimizda_yangin_tatbikati_gerceklestirilmistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Büro Memur-Sen'den Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15566_buro_memursenden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15566_buro_memursenden_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Denetimleri Devam Ediyor]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15564_vergi_denetimleri_devam_ediyor</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15564_vergi_denetimleri_devam_ediyor</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eski Bakanımız Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15560_eski_bakanimiz_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15560_eski_bakanimiz_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Valimizi Makamında Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15555_defterdarimiz_valimizi_makaminda_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15555_defterdarimiz_valimizi_makaminda_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yukatel Merkezefendi Belediyesi Basket’den Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15571_yukatel_merkezefendi_belediyesi_basketden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15571_yukatel_merkezefendi_belediyesi_basketden_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aday Memurluk Yemin Töreni]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15553_aday_memurluk_yemin_toreni</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15553_aday_memurluk_yemin_toreni</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız İlhan AKÇAY, Muğla Valiliğince düzenlenen dart turnuvasında takım halinde 2. olan çalışma arkadaşlarımızı makamında kabul etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15554_defterdarimiz_ilhan_akcay%2C_mugla_valiligince_duzenlenen_dart_turnuvasinda_takim_halinde_2._olan_calisma_arkadaslarimizi_makaminda_kabul_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15554_defterdarimiz_ilhan_akcay%2C_mugla_valiligince_duzenlenen_dart_turnuvasinda_takim_halinde_2._olan_calisma_arkadaslarimizi_makaminda_kabul_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi Uygulama Genel Tebliği Resmi Gazete'de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15551_yerel_ve_kuresel_asgari_tamamlayici_kurumlar_vergisi_uygulama_genel_tebligi_resmi_gazetede_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15551_yerel_ve_kuresel_asgari_tamamlayici_kurumlar_vergisi_uygulama_genel_tebligi_resmi_gazetede_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın İhsan MİNTAŞ ve Gelir İdaresi Grup Müdürü Sayın Mehmet DOĞAN ile Kurum Müdürlerimizin  katılımıyla mükellef ziyaretleri devam etmektedir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15230_defterdarimiz_sayin_ihsan_mintas_ve_gelir_idaresi_grup_muduru_sayin_mehmet_dogan_ile_kurum_mudurlerimizin__katilimiyla_mukellef_ziyaretleri_devam_etmektedir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15230_defterdarimiz_sayin_ihsan_mintas_ve_gelir_idaresi_grup_muduru_sayin_mehmet_dogan_ile_kurum_mudurlerimizin__katilimiyla_mukellef_ziyaretleri_devam_etmektedir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Damızlık Sığır Yetiştiricileri Birliği Başkanı Yılmaz KAYA'yı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15565_corum_defterdari_sayin_erkan_ciger%2C_damizlik_sigir_yetistiricileri_birligi_baskani_yilmaz_kayayi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15565_corum_defterdari_sayin_erkan_ciger%2C_damizlik_sigir_yetistiricileri_birligi_baskani_yilmaz_kayayi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hazine ve Maliye Bakanlığı Bakan Yardımcısı Sayın Dr. İsmail İlhan HATİPOĞLU Defterdarlığımızı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15575_hazine_ve_maliye_bakanligi_bakan_yardimcisi_sayin_dr._ismail_ilhan_hatipoglu_defterdarligimizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15575_hazine_ve_maliye_bakanligi_bakan_yardimcisi_sayin_dr._ismail_ilhan_hatipoglu_defterdarligimizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bolu Milletvekili Sayın İsmail AKGÜL Defterdarımız Sayın Mustafa ÇELİK'i makamında ziyaret etti.]]></title>
@@ -88,6 +216,14 @@
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA["Vergi Bilinci" Konulu Seminer Düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15569_vergi_bilinci_konulu_seminer_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15569_vergi_bilinci_konulu_seminer_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarlığımız Vergi Bilinci Takım Üyeleri İle Birlikte 2025-2026 Eğitim Öğretim Yılı Vergi Bilinci Eğitimleri Kapsamında Ayşegül Kaman Anadolu Lisesi Ziyaret Edildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15550_defterdarligimiz_vergi_bilinci_takim_uyeleri_ile_birlikte_20252026_egitim_ogretim_yili_vergi_bilinci_egitimleri_kapsaminda_aysegul_kaman_anadolu_lisesi_ziyaret_edildi.</link>
@@ -136,10 +272,10 @@
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Fikret TEPENÇELİK'i Ziyaret Etti.]]></title>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Mükellefimiz Fikret TEPENÇELİK'i Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15545_corum_defterdari_sayin_erkan_ciger%2C_fikret_tepenceliki_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15545_corum_defterdari_sayin_erkan_ciger%2C_fikret_tepenceliki_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15545_corum_defterdari_sayin_erkan_ciger%2C_mukellefimiz_fikret_tepenceliki_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15545_corum_defterdari_sayin_erkan_ciger%2C_mukellefimiz_fikret_tepenceliki_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
@@ -200,6 +336,14 @@
             <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Denizli İl Tarım ve Orman Müdürlüğü’nden Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15568_denizli_il_tarim_ve_orman_mudurlugunden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15568_denizli_il_tarim_ve_orman_mudurlugunden_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 587) Resmi Gazete’de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15517_vergi_usul_kanunu_genel_tebligi_sira_no%3A_587_resmi_gazetede_yayimlandi</link>
@@ -240,6 +384,14 @@
             <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[VERGİ BİLİNCİ EĞİTİMLERİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15579_vergi_bilinci_egitimleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15579_vergi_bilinci_egitimleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Kavsan Ayakkabı Sanayi ve Ticaret A.Ş.'ni Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15514_corum_defterdari_sayin_erkan_ciger%2C_kavsan_ayakkabi_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</link>
@@ -254,158 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15515_usak_il_jandarma_komutanligindan_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sayın Muharrem COŞKUN ile Serbest Muhasebeci ve Mali Müşavirler Odası Başkanı Sayın Hasan KAHVECİ; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15506_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_muharrem_coskun_ile_serbest_muhasebeci_ve_mali_musavirler_odasi_baskani_sayin_hasan_kahveci%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15506_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_muharrem_coskun_ile_serbest_muhasebeci_ve_mali_musavirler_odasi_baskani_sayin_hasan_kahveci%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15509_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15509_mukellef_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsun Valisi Sayın Orhan TAVLI Defterdarlığımızı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15507_samsun_valisi_sayin_orhan_tavli_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15507_samsun_valisi_sayin_orhan_tavli_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Bilincini Geliştirme Seminerleri]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15510_vergi_bilincini_gelistirme_seminerleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15510_vergi_bilincini_gelistirme_seminerleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15508_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15508_mukellef_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İmamoğlu Kaymakamı Sayın Osman ŞAHİN'den Defterdarımız Sayın Ahmet BALIKCI'ya ziyaret.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15512_imamoglu_kaymakami_sayin_osman_sahinden_defterdarimiz_sayin_ahmet_balikciya_ziyaret.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15512_imamoglu_kaymakami_sayin_osman_sahinden_defterdarimiz_sayin_ahmet_balikciya_ziyaret.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İlimiz Kadastro Müdürü iken, Antalya Kadastro Müdürü olarak atanan Sayın Burak AN, Defterdarımız Sayın Doğan ADIGÜZEL’e veda ziyaretinde bulundu. Kendisine yeni görev yerinde başarılar dileriz.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15522_ilimiz_kadastro_muduru_iken%2C_antalya_kadastro_muduru_olarak_atanan_sayin_burak_an%2C_defterdarimiz_sayin_dogan_adiguzele_veda_ziyaretinde_bulundu._kendisine_yeni_gorev_yerinde_basarilar_dileriz.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15522_ilimiz_kadastro_muduru_iken%2C_antalya_kadastro_muduru_olarak_atanan_sayin_burak_an%2C_defterdarimiz_sayin_dogan_adiguzele_veda_ziyaretinde_bulundu._kendisine_yeni_gorev_yerinde_basarilar_dileriz.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adana Yeminli Mali Müşavirler Odası’ndan Defterdarımız Sayın Ahmet ÇELİK’e Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15528_adana_yeminli_mali_musavirler_odasindan_defterdarimiz_sayin_ahmet_celike_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15528_adana_yeminli_mali_musavirler_odasindan_defterdarimiz_sayin_ahmet_celike_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Çalışanlarından Habib GÜVEN’in Veda Yemeği]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15513_defterdarligimiz_calisanlarindan_habib_guvenin_veda_yemegi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15513_defterdarligimiz_calisanlarindan_habib_guvenin_veda_yemegi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Büro Memur-sen Genel Başkanı Sayın Yusuf YAZGAN, Genel Başkan Yardımcısı Sayın Mahmut ERGEN ve 8 No’lu Şube Başkanı Sayın İlhami YÜCEL, Ankara Defterdarı Sayın Yüksel DUMAN’a nezaket ziyaretinde bulunmuşlardır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15503_buro_memursen_genel_baskani_sayin_yusuf_yazgan%2C_genel_baskan_yardimcisi_sayin_mahmut_ergen_ve_8_nolu_sube_baskani_sayin_ilhami_yucel%2C_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmuslardir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15503_buro_memursen_genel_baskani_sayin_yusuf_yazgan%2C_genel_baskan_yardimcisi_sayin_mahmut_ergen_ve_8_nolu_sube_baskani_sayin_ilhami_yucel%2C_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmuslardir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YILBAŞI DENETİMLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15505_yilbasi_denetimleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15505_yilbasi_denetimleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İlçe Vergi Dairelerine ziyaretler kapsamında Defterdarımız Sayın Sezer SARI Derinkuyu Vergi Dairesi Müdürlüğüne bir ziyaret gerçekleştirdi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15497_ilce_vergi_dairelerine_ziyaretler_kapsaminda_defterdarimiz_sayin_sezer_sari_derinkuyu_vergi_dairesi_mudurlugune_bir_ziyaret_gerceklestirdi_</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15497_ilce_vergi_dairelerine_ziyaretler_kapsaminda_defterdarimiz_sayin_sezer_sari_derinkuyu_vergi_dairesi_mudurlugune_bir_ziyaret_gerceklestirdi_</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erbaa Vergi Dairesi adres değişikliği.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15500_erbaa_vergi_dairesi_adres_degisikligi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15500_erbaa_vergi_dairesi_adres_degisikligi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İl Özel İdaresi Genel Sekreteri Sayın Ahmet Güral KARAYILMAZ, Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15496_il_ozel_idaresi_genel_sekreteri_sayin_ahmet_gural_karayilmaz%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15496_il_ozel_idaresi_genel_sekreteri_sayin_ahmet_gural_karayilmaz%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca mükellef ziyaretinde bulunulmuştur.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15499_defterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15499_defterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Bilinci Eğitimi Yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15495_vergi_bilinci_egitimi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15495_vergi_bilinci_egitimi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız İlhan Karayılan'ın Başkanlığında, Merkez Vergi Dairesi Müdürlerimizin katılımıyla, 2025 yılı Tahsilat ve Denetim Değerlendirme Toplantısı gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15502_defterdarimiz_ilhan_karayilanin_baskanliginda%2C_merkez_vergi_dairesi_mudurlerimizin_katilimiyla%2C_2025_yili_tahsilat_ve_denetim_degerlendirme_toplantisi_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15502_defterdarimiz_ilhan_karayilanin_baskanliginda%2C_merkez_vergi_dairesi_mudurlerimizin_katilimiyla%2C_2025_yili_tahsilat_ve_denetim_degerlendirme_toplantisi_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Denetim Koordinasyon Müdürlüğü Personeli İle Değerlendirme Toplantısı Yaptı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15504_defterdarimiz_sn._cemil_musevitoglu%2C_denetim_koordinasyon_mudurlugu_personeli_ile_degerlendirme_toplantisi_yapti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15504_defterdarimiz_sn._cemil_musevitoglu%2C_denetim_koordinasyon_mudurlugu_personeli_ile_degerlendirme_toplantisi_yapti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, ISV Saniter Seramik San. A.Ş.'ni Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15501_corum_defterdari_sayin_erkan_ciger%2C_isv_saniter_seramik_san._a.s.ni_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15501_corum_defterdari_sayin_erkan_ciger%2C_isv_saniter_seramik_san._a.s.ni_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
