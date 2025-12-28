@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Dec 2025 06:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 06:28:26 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -180,6 +180,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15541_194_sira_nolu_vergi_usul_kanunu_sirkuleri_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15541_194_sira_nolu_vergi_usul_kanunu_sirkuleri_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kilis Valiliği ve Defterdarlığımız koordinasyonunda Hazine ve Maliye Bakanlığı Muhasebat Başkontrolörü Sayın Yusuf AKKOYUN'un sunumuyla, Tasarruf Tedbirleri Bilgilendirme Toplantısı düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15581_kilis_valiligi_ve_defterdarligimiz_koordinasyonunda_hazine_ve_maliye_bakanligi_muhasebat_baskontroloru_sayin_yusuf_akkoyunun_sunumuyla%2C_tasarruf_tedbirleri_bilgilendirme_toplantisi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15581_kilis_valiligi_ve_defterdarligimiz_koordinasyonunda_hazine_ve_maliye_bakanligi_muhasebat_baskontroloru_sayin_yusuf_akkoyunun_sunumuyla%2C_tasarruf_tedbirleri_bilgilendirme_toplantisi_duzenlendi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15514_corum_defterdari_sayin_erkan_ciger%2C_kavsan_ayakkabi_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15514_corum_defterdari_sayin_erkan_ciger%2C_kavsan_ayakkabi_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uşak İl Jandarma Komutanlığından Defterdarlığımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15515_usak_il_jandarma_komutanligindan_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15515_usak_il_jandarma_komutanligindan_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
         </item>
