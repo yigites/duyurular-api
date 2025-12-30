@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Dec 2025 06:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Dec 2025 06:29:43 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,46 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15492_gayrimenkul_satis_ilani</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esnaf Denetimleri]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15588_esnaf_denetimleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15588_esnaf_denetimleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bahçeşehir Üniversitesi Hukuk Fakültesi Öğrencisi Sn. Ramazan Talha KABALI Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Nezaket Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15599_bahcesehir_universitesi_hukuk_fakultesi_ogrencisi_sn._ramazan_talha_kabali_defterdarimiz_sn._cemil_musevitogluna_nezaket_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15599_bahcesehir_universitesi_hukuk_fakultesi_ogrencisi_sn._ramazan_talha_kabali_defterdarimiz_sn._cemil_musevitogluna_nezaket_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Müdür Yardımcılığı Sınavını Kazanarak Defterdarlığımızdan Yeni Görevine Başlamak Üzere İlişiğini Kesen Çalışma Arkadaşımız Sn. Muhammet Demiröz Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Veda Ziyareti Yaptı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15598_mudur_yardimciligi_sinavini_kazanarak_defterdarligimizdan_yeni_gorevine_baslamak_uzere_ilisigini_kesen_calisma_arkadasimiz_sn._muhammet_demiroz_defterdarimiz_sn._cemil_musevitogluna_veda_ziyareti_yapti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15598_mudur_yardimciligi_sinavini_kazanarak_defterdarligimizdan_yeni_gorevine_baslamak_uzere_ilisigini_kesen_calisma_arkadasimiz_sn._muhammet_demiroz_defterdarimiz_sn._cemil_musevitogluna_veda_ziyareti_yapti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musiad Denizli Şubesi’ne İadeiziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15583_musiad_denizli_subesine_iadeiziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15583_musiad_denizli_subesine_iadeiziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7440 Sayılı Yapılandırma Kanunu Taksit Ödemelerine İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15582_7440_sayili_yapilandirma_kanunu_taksit_odemelerine_iliskin_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15582_7440_sayili_yapilandirma_kanunu_taksit_odemelerine_iliskin_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Türk Büro-Sen'den Defterdarlığımıza Ziyaret]]></title>
@@ -366,46 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15516_yeminli_mali_musavirlik_tasdik_raporlarina_eklenen_karsit_inceleme_tutanaklarinin_elektronik_ortamda_gonderilmesi_hakkinda_teblig_sira_no%3A_1_resm_gazetede_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Türkaylar Tekstili Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15530_defterdarimiz_turkaylar_tekstili_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15530_defterdarimiz_turkaylar_tekstili_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız faaliyetlerinin değerlendirilmesi amacıyla birim amirlerinin katılımıyla 24.12.2025 tarihinde Gölyaka Vergi Dairesi Müdürlüğünde değerlendirme toplantısı yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15527_defterdarligimiz_faaliyetlerinin_degerlendirilmesi_amaciyla_birim_amirlerinin_katilimiyla_24.12.2025_tarihinde_golyaka_vergi_dairesi_mudurlugunde_degerlendirme_toplantisi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15527_defterdarligimiz_faaliyetlerinin_degerlendirilmesi_amaciyla_birim_amirlerinin_katilimiyla_24.12.2025_tarihinde_golyaka_vergi_dairesi_mudurlugunde_degerlendirme_toplantisi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TOPLANTI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15543_toplanti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15543_toplanti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ BİLİNCİ EĞİTİMLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15579_vergi_bilinci_egitimleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15579_vergi_bilinci_egitimleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Kavsan Ayakkabı Sanayi ve Ticaret A.Ş.'ni Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15514_corum_defterdari_sayin_erkan_ciger%2C_kavsan_ayakkabi_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15514_corum_defterdari_sayin_erkan_ciger%2C_kavsan_ayakkabi_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
