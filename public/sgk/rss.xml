@@ -4,9 +4,33 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 31 Dec 2025 06:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 06:30:02 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[31/12/2025 SUT Değişiklik Tebliği İşlenmiş Güncel 2013 SUT]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/31122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-31-03-30-44</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/31122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-31-03-30-44</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[31/12/2025 Tarihli ve 33124 Sayılı Resmî Gazete’de Yayımlanan “Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ"]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/31122025-Tarihli-ve-33124-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-31-12-00-47</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/31122025-Tarihli-ve-33124-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-31-12-00-47</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/1]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20261-2025-12-31-11-43-52</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20261-2025-12-31-11-43-52</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sosyal Güvenlik Kurumuna Ödenecek Başvuru, Aidat, İşlem ve Sözleşme Ücretlerine İlişkin Usul ve Esaslar Kapsamında Ödenecek “Sosyal Güvenlik Kurumu Başvuru Fiyat Tarifesi” Hakkında Duyuru]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -62,30 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Ilaclarda-Uygulanacak-Kamu-Kurum-Iskontosu-Baremlerinin-Degistirilmesi-2025-12-19-04-12-24</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sözleşmeli Personel Alımına İlişkin Duyuru]]></title>
-            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sozlesmeli-Personel-Alimina-Iliskin-Duyuru-2025-12-18-12-26-08</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sozlesmeli-Personel-Alimina-Iliskin-Duyuru-2025-12-18-12-26-08</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2025/50]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202550-2025-12-17-04-54-02</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202550-2025-12-17-04-54-02</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025/2. Dönem Tıbbi ve Ekonomik Değerlendirme Komisyonu Kararlarına İstinaden Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/20252-Donem-Tibbi-ve-Ekonomik-Degerlendirme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-2025-12-17-09-29-10</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/20252-Donem-Tibbi-ve-Ekonomik-Degerlendirme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-2025-12-17-09-29-10</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
