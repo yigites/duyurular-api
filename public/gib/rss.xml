@@ -4,17 +4,9 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Jan 2026 06:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 06:30:15 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
-        <item>
-            <title><![CDATA[GAYRİMENKUL SATIŞ İLANI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15492_gayrimenkul_satis_ilani</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15492_gayrimenkul_satis_ilani</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bazı Kanun ve Tebliğlerde Yer Alan Maktu Had ve Tutarların Yeniden Belirlenmesine İlişkin Tebliğler Resmi Gazete’ de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -22,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15639_bazi_kanun_ve_tebliglerde_yer_alan_maktu_had_ve_tutarlarin_yeniden_belirlenmesine_iliskin_tebligler_resmi_gazete_de_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motorlu Taşıtlar Vergisi 1. Taksit Ödeme Dönemi Başladı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15642_motorlu_tasitlar_vergisi_1._taksit_odeme_donemi_basladi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15642_motorlu_tasitlar_vergisi_1._taksit_odeme_donemi_basladi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10799 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı]]></title>
