@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Jan 2026 06:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 06:36:02 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15639_bazi_kanun_ve_tebliglerde_yer_alan_maktu_had_ve_tutarlarin_yeniden_belirlenmesine_iliskin_tebligler_resmi_gazete_de_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Daireleri Kuruluş ve Görev Yönetmeliği Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15655_vergi_daireleri_kurulus_ve_gorev_yonetmeligi_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15655_vergi_daireleri_kurulus_ve_gorev_yonetmeligi_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2026 Yılı Enerji Verimliliği Haftası]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15573_2026_yili_enerji_verimliligi_haftasi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15573_2026_yili_enerji_verimliligi_haftasi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Tarımex İç ve Dış Ticaret A.Ş. Yönetim Kurulu Başkanı Mustafa BOYRAZ'ı Ziyaret Etti.]]></title>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15599_bahcesehir_universitesi_hukuk_fakultesi_ogrencisi_sn._ramazan_talha_kabali_defterdarimiz_sn._cemil_musevitogluna_nezaket_ziyaretinde_bulundu.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15599_bahcesehir_universitesi_hukuk_fakultesi_ogrencisi_sn._ramazan_talha_kabali_defterdarimiz_sn._cemil_musevitogluna_nezaket_ziyaretinde_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkiye Şoförler ve Otomobilciler Federasyonu Başkanı Sayın Mehmet YİĞİNER, Ankara Defterdarı Sayın Yüksel DUMAN’ a nezaket ziyaretinde bulunmuştur.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15633_turkiye_soforler_ve_otomobilciler_federasyonu_baskani_sayin_mehmet_yiginer%2C_ankara_defterdari_sayin_yuksel_duman_a_nezaket_ziyaretinde_bulunmustur.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15633_turkiye_soforler_ve_otomobilciler_federasyonu_baskani_sayin_mehmet_yiginer%2C_ankara_defterdari_sayin_yuksel_duman_a_nezaket_ziyaretinde_bulunmustur.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uludağ Gümrük ve Dış Ticaret Bölge Müdürü Sayın Mehmet Tuncay BAYRAKTAR'dan Defterdarlığımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15612_uludag_gumruk_ve_dis_ticaret_bolge_muduru_sayin_mehmet_tuncay_bayraktardan_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15612_uludag_gumruk_ve_dis_ticaret_bolge_muduru_sayin_mehmet_tuncay_bayraktardan_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
         </item>
