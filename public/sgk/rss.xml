@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 06:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 06:31:30 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Sosyal Güvenlik Denetmen Yardımcılığı Giriş Sınavı Sonuçlarına İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Denetmen-Yardimciligi-Giris-Sinavi-Sonuclarina-Iliskin-Duyuru-2026-01-05-07-11-23</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Denetmen-Yardimciligi-Giris-Sinavi-Sonuclarina-Iliskin-Duyuru-2026-01-05-07-11-23</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[31/12/2025 SUT Değişiklik Tebliği İşlenmiş Güncel 2013 SUT]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Gayrimenkul-Satis-Ilani-2025-12-23-01-53-23</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İlaçlarda Uygulanacak Kamu Kurum İskontosu Baremlerinin Değiştirilmesi]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Ilaclarda-Uygulanacak-Kamu-Kurum-Iskontosu-Baremlerinin-Degistirilmesi-2025-12-19-04-12-24</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Ilaclarda-Uygulanacak-Kamu-Kurum-Iskontosu-Baremlerinin-Degistirilmesi-2025-12-19-04-12-24</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
