@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jan 2026 06:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 06:30:23 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[ACCA Mart 2026 Sınav Dönemi Eğitimleri Başlıyor!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/0e0cf423-0d80-43b8-8ab2-37a7e8532630/acca-mart-2026-sinav-donemi-egitimleri-basliyor-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0e0cf423-0d80-43b8-8ab2-37a7e8532630/acca-mart-2026-sinav-donemi-egitimleri-basliyor-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Serbest Muhasebeci Mali Müşavirleri YOK SAYAMAZSINIZ!... Mesleki Kamuoyunun Bilgisine]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/ec7e0e02-23d3-4568-afa4-9bd868b4b853/mali-musavirlerin-yetki-ve-sorumluluklari-kisi-veya-kurumlara-devredilemez-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İşveren ve İşveren Vekillerine Yönelik, İş Sağlığı ve Güvenliği Eğitimi Başladı!]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/9ad50322-adbe-474d-bac0-cb0d0bd389a9/isveren-ve-isveren-vekillerine-yonelik--is-sagligi-ve-guvenligi-egitimi-basladi--</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/9ad50322-adbe-474d-bac0-cb0d0bd389a9/isveren-ve-isveren-vekillerine-yonelik--is-sagligi-ve-guvenligi-egitimi-basladi--</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
