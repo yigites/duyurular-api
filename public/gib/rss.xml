@@ -4,9 +4,33 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jan 2026 06:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 06:31:09 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Enerji Verimliliği Haftası]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15687_enerji_verimliligi_haftasi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15687_enerji_verimliligi_haftasi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ticaret Odası Başkanı Sn. Metin GÜLER ve Meclis Üyesi Sn. Murat DESTİCİ Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15686_ticaret_odasi_baskani_sn._metin_guler_ve_meclis_uyesi_sn._murat_destici_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15686_ticaret_odasi_baskani_sn._metin_guler_ve_meclis_uyesi_sn._murat_destici_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çalışma Arkadaşlarımıza Temel İş Sağlığı ve Güvenliği Eğitimi Veriliyor.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15685_calisma_arkadaslarimiza_temel_is_sagligi_ve_guvenligi_egitimi_veriliyor.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15685_calisma_arkadaslarimiza_temel_is_sagligi_ve_guvenligi_egitimi_veriliyor.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[İlimiz  Esnaf ve Sanatkârlar Odalar Birliği Başkanı Sayın İskender ALİHANOĞLU ve Yönetim Kurulu üyeleri Defterdarımız Sayın Barış SÖNMEZ'i makamında ziyaret etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -136,6 +160,14 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kocaeli Seyyar Esnafı ve Pazarcılar Esnaf Odası Defterdarımızı Ziyaret Ettiler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15683_kocaeli_seyyar_esnafi_ve_pazarcilar_esnaf_odasi_defterdarimizi_ziyaret_ettiler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15683_kocaeli_seyyar_esnafi_ve_pazarcilar_esnaf_odasi_defterdarimizi_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2026Yılı Enerji Verimliliği Haftası]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15661_2026yili_enerji_verimliligi_haftasi_</link>
@@ -164,6 +196,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15662_0511_ocak_2026_enerji_verimliligi_haftasi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15662_0511_ocak_2026_enerji_verimliligi_haftasi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enerji Verimliliği Haftası :  05–11 Ocak 2026]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15684_enerji_verimliligi_haftasi_%3A__0511_ocak_2026</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15684_enerji_verimliligi_haftasi_%3A__0511_ocak_2026</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
         </item>
@@ -364,46 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15667_defterdarligimizda_yilbasi_denetimleri_kapsaminda_toplanti_duzenlendi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15667_defterdarligimizda_yilbasi_denetimleri_kapsaminda_toplanti_duzenlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denetim ve Koordinasyon Müdürlüğü Faaliyetlerine İlişkin Yıl Sonu Değerlendirme Toplantısı Gerçekleştirildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15632_denetim_ve_koordinasyon_mudurlugu_faaliyetlerine_iliskin_yil_sonu_degerlendirme_toplantisi_gerceklestirildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15632_denetim_ve_koordinasyon_mudurlugu_faaliyetlerine_iliskin_yil_sonu_degerlendirme_toplantisi_gerceklestirildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Vergi Takvimi Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15614_2026_yili_vergi_takvimi_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15614_2026_yili_vergi_takvimi_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Okullarda Verilen "Yüzyüze Vergi Bilinci Eğitimi"ne Katılan Çalışma Arkadaşlarımıza Teşekkür Belgeleri Defterdarımız Sn. Cemil MÜSEVİTOĞLU Tarafından Verildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15630_okullarda_verilen_yuzyuze_vergi_bilinci_egitimine_katilan_calisma_arkadaslarimiza_tesekkur_belgeleri_defterdarimiz_sn._cemil_musevitoglu_tarafindan_verildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15630_okullarda_verilen_yuzyuze_vergi_bilinci_egitimine_katilan_calisma_arkadaslarimiza_tesekkur_belgeleri_defterdarimiz_sn._cemil_musevitoglu_tarafindan_verildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yılbaşı Yoğunluğu Nedeniyle Denetim Koordinasyon Müdürlüğümüzde Görev Yapan Çalışma Arkadaşlarımız Yaygın ve Yoğun Denetimlerine Devam Ediyor.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15631_yilbasi_yogunlugu_nedeniyle_denetim_koordinasyon_mudurlugumuzde_gorev_yapan_calisma_arkadaslarimiz_yaygin_ve_yogun_denetimlerine_devam_ediyor.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15631_yilbasi_yogunlugu_nedeniyle_denetim_koordinasyon_mudurlugumuzde_gorev_yapan_calisma_arkadaslarimiz_yaygin_ve_yogun_denetimlerine_devam_ediyor.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sayın Defterdarımız Serdar ESEN' in Yeni Yıl Kutlama Mesajı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15521_sayin_defterdarimiz_serdar_esen_in_yeni_yil_kutlama_mesaji</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15521_sayin_defterdarimiz_serdar_esen_in_yeni_yil_kutlama_mesaji</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
         </item>
