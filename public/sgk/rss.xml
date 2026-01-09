@@ -4,9 +4,17 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jan 2026 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 06:30:35 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[KPSS-2025/2 Yerleştirme Sonuçlarına Göre Kurumumuza Yerleşen Adaylardan İstenen Belgelere İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/KPSS-20252-Yerlestirme-Sonuclarina-Gore-Kurumumuza-Yerlesen-Adaylardan-Istenen-Belgelere-Iliskin-Duyuru-2026-01-08-01-20-29</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/KPSS-20252-Yerlestirme-Sonuclarina-Gore-Kurumumuza-Yerlesen-Adaylardan-Istenen-Belgelere-Iliskin-Duyuru-2026-01-08-01-20-29</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/2]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -76,14 +84,6 @@
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
             <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Resmi-KurumlarResmi-Saglik-Kurumlari-Arasinda-Ismarlama-Protez-ve-Ortez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-12</link>
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Resmi-KurumlarResmi-Saglik-Kurumlari-Arasinda-Ismarlama-Protez-ve-Ortez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-12</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sosyal Güvenlik Kurumu İle Ismarlama Protez ve Ortez Merkezleri Arasında Protez/Ortez Teminine İlişkin Sözleşme Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Ismarlama-Protez-ve-Ortez-Merkezleri-Arasinda-ProtezOrtez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-36</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumu-Ile-Ismarlama-Protez-ve-Ortez-Merkezleri-Arasinda-ProtezOrtez-Teminine-Iliskin-Sozlesme-Hakkinda-Duyuru-2025-12-26-11-25-36</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
         </item>

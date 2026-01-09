@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jan 2026 06:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 06:30:37 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[2026 Yılı Vergi Artışları]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/083541f1-0684-44e6-b67e-9e1fad5ae904/2026-yili-vergi-artislari</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/083541f1-0684-44e6-b67e-9e1fad5ae904/2026-yili-vergi-artislari</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesleki Geleceğimize ve Yetki Alanlarımıza Sahip Çıkıyoruz!]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/33139ac1-c8f8-4f26-aa8c-05c9b5df4109/2026-yili-uygulanmasi-gereken-asgari-ucret-tarifeleri--e-birlik-sistemi-ne-eklenmistir-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Yılına İlişkin Envanter Defterlerin Noter Tasdik İşlemleri Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/1ea2a492-ed6f-4090-aad5-9e00c989aa50/2025-yilina-iliskin-envanter-defterlerin-noter-tasdik-islemleri-hakkinda-duyuru</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1ea2a492-ed6f-4090-aad5-9e00c989aa50/2025-yilina-iliskin-envanter-defterlerin-noter-tasdik-islemleri-hakkinda-duyuru</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
