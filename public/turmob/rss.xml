@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 06:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 06:27:45 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[“2025 Dönem Sonu İşlemleri ve Özellikli Konular” Webinar - 13 Ocak 2026]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/dbb9ce4c-2d57-4a07-9868-ad8f78b1dae7/-2025-donem-sonu-islemleri-ve-ozellikli-konular--webinar---13-ocak-2026</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/dbb9ce4c-2d57-4a07-9868-ad8f78b1dae7/-2025-donem-sonu-islemleri-ve-ozellikli-konular--webinar---13-ocak-2026</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 Yılı Vergi Artışları]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1904d626-e3dc-4687-bbbc-67f4af84492c/kamuoyuna-duyuru</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 yılı uygulanması gereken Asgari Ücret Tarifeleri, e-Birlik Sistemi’ne eklenmiştir.]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/33139ac1-c8f8-4f26-aa8c-05c9b5df4109/2026-yili-uygulanmasi-gereken-asgari-ucret-tarifeleri--e-birlik-sistemi-ne-eklenmistir-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/33139ac1-c8f8-4f26-aa8c-05c9b5df4109/2026-yili-uygulanmasi-gereken-asgari-ucret-tarifeleri--e-birlik-sistemi-ne-eklenmistir-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
