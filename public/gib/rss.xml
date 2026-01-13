@@ -4,9 +4,57 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jan 2026 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 06:30:58 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[10 Ocak 2026 Tarihinde Yapılan Vergi Dairesi Müdür Yardımcılığı Sınavının Yazılı Bölüm Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15721_10_ocak_2026_tarihinde_yapilan_vergi_dairesi_mudur_yardimciligi_sinavinin_yazili_bolum_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15721_10_ocak_2026_tarihinde_yapilan_vergi_dairesi_mudur_yardimciligi_sinavinin_yazili_bolum_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ÖSYM Tarafından Yapılan KPSS-2025/2 ile Defterdarlığımıza Yerleştirilen  Adaylara İlişkin  Duyuru]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15719__osym_tarafindan_yapilan_kpss20252_ile_defterdarligimiza_yerlestirilen__adaylara_iliskin__duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15719__osym_tarafindan_yapilan_kpss20252_ile_defterdarligimiza_yerlestirilen__adaylara_iliskin__duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlçe Vergi Dairelerine ziyaretler kapsamında Defterdarımız Sayın Sezer SARI Ürgüp Vergi Dairesi Müdürlüğüne bir ziyaret gerçekleştirdi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15717_ilce_vergi_dairelerine_ziyaretler_kapsaminda_defterdarimiz_sayin_sezer_sari_urgup_vergi_dairesi_mudurlugune_bir_ziyaret_gerceklestirdi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15717_ilce_vergi_dairelerine_ziyaretler_kapsaminda_defterdarimiz_sayin_sezer_sari_urgup_vergi_dairesi_mudurlugune_bir_ziyaret_gerceklestirdi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Halit Ziya Uşaklıgil Okulu’nda Seminere Katıldı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15716_defterdarimiz_halit_ziya_usakligil_okulunda_seminere_katildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15716_defterdarimiz_halit_ziya_usakligil_okulunda_seminere_katildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Personeline Yaygın ve Yoğun Denetim Konulu Eğitim Verildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15715_defterdarligimiz_personeline_yaygin_ve_yogun_denetim_konulu_egitim_verildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15715_defterdarligimiz_personeline_yaygin_ve_yogun_denetim_konulu_egitim_verildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15720_mukellef_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15720_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KPSS-2025/2 İle Gelir İdaresi Başkanlığı Merkez Ve Taşra Teşkilatına Yerleştirilen Adaylara İlişkin Duyuru]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -36,6 +84,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15709_yenicaga_belediye_baskani_sayin_recai_caglar%2C_ak_parti_ilce_baskani_sayin_ethem_ozkan_ve_meclis_uyeleri__defterdarimiz_sayin_mustafa_celiki_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15709_yenicaga_belediye_baskani_sayin_recai_caglar%2C_ak_parti_ilce_baskani_sayin_ethem_ozkan_ve_meclis_uyeleri__defterdarimiz_sayin_mustafa_celiki_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Her Şeye Rağmen Mazeret, Yok Çıkış Var. Konferansı Düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15714_her_seye_ragmen_mazeret%2C_yok_cikis_var._konferansi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15714_her_seye_ragmen_mazeret%2C_yok_cikis_var._konferansi_duzenlendi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
         </item>
@@ -344,66 +400,10 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2026Yılı Enerji Verimliliği Haftası]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15661_2026yili_enerji_verimliligi_haftasi_</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15661_2026yili_enerji_verimliligi_haftasi_</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vergi Daireleri Kuruluş ve Görev Yönetmeliği Resmi Gazete’de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15655_vergi_daireleri_kurulus_ve_gorev_yonetmeligi_resmi_gazetede_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15655_vergi_daireleri_kurulus_ve_gorev_yonetmeligi_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Uşak Üniversitesi'ni Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15665_defterdarimiz_usak_universitesini_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15665_defterdarimiz_usak_universitesini_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[05-11 Ocak 2026 Enerji Verimliliği Haftası]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15662_0511_ocak_2026_enerji_verimliligi_haftasi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15662_0511_ocak_2026_enerji_verimliligi_haftasi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enerji Verimliliği Haftası :  05–11 Ocak 2026]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15684_enerji_verimliligi_haftasi_%3A__0511_ocak_2026</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15684_enerji_verimliligi_haftasi_%3A__0511_ocak_2026</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Enerji Verimliliği Haftası]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15573_2026_yili_enerji_verimliligi_haftasi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15573_2026_yili_enerji_verimliligi_haftasi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GAYRİ MENKUL SATIŞI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15657_gayri_menkul_satisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15657_gayri_menkul_satisi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 YILI ENERJİ VERİMLİLİĞİ HAFTASI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15659_2026_yili_enerji_verimliligi_haftasi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15659_2026_yili_enerji_verimliligi_haftasi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
         </item>
