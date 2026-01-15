@@ -4,9 +4,25 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 06:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 06:30:49 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[2828 Sayılı Sosyal Hizmetler Kanunu Kapsamında Kurumumuza Yerleştirilen Adayların Atamalarına İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/2828-Sayili-Sosyal-Hizmetler-Kanunu-Kapsaminda-Kurumumuza-Yerlestirilen-Adaylarin-Atamalarina-Iliskin-Duyuru-2026-01-14-01-57-49</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/2828-Sayili-Sosyal-Hizmetler-Kanunu-Kapsaminda-Kurumumuza-Yerlestirilen-Adaylarin-Atamalarina-Iliskin-Duyuru-2026-01-14-01-57-49</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/3]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20263-2026-01-14-09-06-32</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20263-2026-01-14-09-06-32</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2026 Yılı İçin Tıbbi Malzeme Yıllık Aidat Ücreti Ödemesi Hakkında Duyuru]]></title>
             <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20261-2025-12-31-11-43-52</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sosyal Güvenlik Kurumuna Ödenecek Başvuru, Aidat, İşlem ve Sözleşme Ücretlerine İlişkin Usul ve Esaslar Kapsamında Ödenecek “Sosyal Güvenlik Kurumu Başvuru Fiyat Tarifesi” Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumuna-Odenecek-Basvuru-Aidat-Islem-ve-Sozlesme-Ucretlerine-Iliskin-Usul-ve-Esaslar-Kapsaminda-Odenecek-Sosyal-Guvenlik-Kurumu-2025-12-29-10-35-15</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Kurumuna-Odenecek-Basvuru-Aidat-Islem-ve-Sozlesme-Ucretlerine-Iliskin-Usul-ve-Esaslar-Kapsaminda-Odenecek-Sosyal-Guvenlik-Kurumu-2025-12-29-10-35-15</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kahramanmaraş’ta Meydana Gelen Depremlerden Etkilenen Bazı Yerler İçin 2025 Yılı Kasım Ayına/Dönemine İlişkin Aylık Prim ve Hizmet Belgelerinin/ Muhtasar ve Prim Hizmet Beyannamelerinin Son Verilme ve İlgili Aya/Döneme İlişkin Primlerin Son Ödeme Tarihlerinin Uzatılmasına İlişkin Duyuru]]></title>
-            <description><![CDATA[Kaynak: SİGORTA PRİMLERİ GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Kahramanmarasta-Meydana-Gelen-Depremlerden-Etkilenen-Bazi-Yerler-Icin-2025-Yili-Kasim-AyinaDonemine-Iliskin-Aylik-Prim-ve-Hizmet-Belgelerinin-2025-12-26-04-25-35</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Kahramanmarasta-Meydana-Gelen-Depremlerden-Etkilenen-Bazi-Yerler-Icin-2025-Yili-Kasim-AyinaDonemine-Iliskin-Aylik-Prim-ve-Hizmet-Belgelerinin-2025-12-26-04-25-35</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
