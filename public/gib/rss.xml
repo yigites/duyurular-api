@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 06:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 06:35:43 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -36,6 +36,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15772_defterdarimiz_sn._cemil_musevitoglu_sn._valimiz_huseyin_aksoyun_veda_torenine_katildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15772_defterdarimiz_sn._cemil_musevitoglu_sn._valimiz_huseyin_aksoyun_veda_torenine_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTSO 28. Grup Meslek Komitesinden Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15774_btso_28._grup_meslek_komitesinden_defterdarligimiza_ziyaret_</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15774_btso_28._grup_meslek_komitesinden_defterdarligimiza_ziyaret_</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
         </item>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15715_defterdarligimiz_personeline_yaygin_ve_yogun_denetim_konulu_egitim_verildi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15715_defterdarligimiz_personeline_yaygin_ve_yogun_denetim_konulu_egitim_verildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15720_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15720_mukellef_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
         </item>
