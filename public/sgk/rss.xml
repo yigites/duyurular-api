@@ -4,9 +4,33 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 06:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 06:33:37 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Sosyal Güvenlik Denetmen Yardımcısı Kadrosuna Yerleşen Adaylardan İstenen Belgelere İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Denetmen-Yardimcisi-Kadrosuna-Yerlesen-Adaylardan-Istenen-Belgelere-Iliskin-Duyuru-2026-01-20-04-21-03</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Denetmen-Yardimcisi-Kadrosuna-Yerlesen-Adaylardan-Istenen-Belgelere-Iliskin-Duyuru-2026-01-20-04-21-03</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17/01/2026 Tarihli ve 33140 Sayılı Resmî Gazete’de Yayımlanan “Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ"]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/17012026-Tarihli-ve-33140-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2026-01-20-08-51-32</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/17012026-Tarihli-ve-33140-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2026-01-20-08-51-32</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17/01/2026 SUT Değişiklik Tebliği İşlenmiş Güncel 2013 SUT]]></title>
+            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
+            <link>https://www.sgk.gov.tr/Duyuru/Detay/17012026-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2026-01-20-08-50-07</link>
+            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/17012026-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2026-01-20-08-50-07</guid>
+            <category><![CDATA[SGK Güncel Duyurular]]></category>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2828 Sayılı Sosyal Hizmetler Kanunu Kapsamında Kurumumuza Yerleştirilen Adayların Atamalarına İlişkin Duyuru]]></title>
             <description><![CDATA[Kaynak: PERSONEL DAİRE BAŞKANLIĞI]]></description>
@@ -62,30 +86,6 @@
             <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Sosyal-Guvenlik-Denetmen-Yardimciligi-Giris-Sinavi-Sonuclarina-Iliskin-Duyuru-2026-01-05-07-11-23</guid>
             <category><![CDATA[SGK Güncel Duyurular]]></category>
             <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31/12/2025 SUT Değişiklik Tebliği İşlenmiş Güncel 2013 SUT]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/31122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-31-03-30-44</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/31122025-SUT-Degisiklik-Tebligi-Islenmis-Guncel-2013-SUT-2025-12-31-03-30-44</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31/12/2025 Tarihli ve 33124 Sayılı Resmî Gazete’de Yayımlanan “Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ"]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/31122025-Tarihli-ve-33124-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-31-12-00-47</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/31122025-Tarihli-ve-33124-Sayili-Resm-Gazetede-Yayimlanan-Sosyal-Guvenlik-Kurumu-Saglik-Uygulama-Tebliginde-Degisiklik-Yapilmasina-Dair-Teblig-2025-12-31-12-00-47</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/1]]></title>
-            <description><![CDATA[Kaynak: GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ]]></description>
-            <link>https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20261-2025-12-31-11-43-52</link>
-            <guid isPermaLink="true">https://www.sgk.gov.tr/Duyuru/Detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-20261-2025-12-31-11-43-52</guid>
-            <category><![CDATA[SGK Güncel Duyurular]]></category>
-            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

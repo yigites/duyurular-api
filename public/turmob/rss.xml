@@ -4,9 +4,25 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 06:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 06:33:39 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[MESLEĞİMİZ İÇİN SADE, DİJİTAL VE GÜÇLÜ BİR MEVZUAT]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/29efef4c-5921-4bc7-ba69-39a4e76500f7/meslegimiz-icin-sade--dijital-ve-guclu-bir-mevzuat</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/29efef4c-5921-4bc7-ba69-39a4e76500f7/meslegimiz-icin-sade--dijital-ve-guclu-bir-mevzuat</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ULUSLARARASI YOLUNUZ HEP AÇIK!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/2974e466-962f-4b31-a738-02db3954828a/uluslararasi-yolunuz-hep-acik-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/2974e466-962f-4b31-a738-02db3954828a/uluslararasi-yolunuz-hep-acik-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“2025 Dönem Sonu İşlemleri ve Özellikli Konular” Webinar - 13 Ocak 2026]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/4e1705ad-7785-475a-bf86-7e92b07f6dd3/basit-usulden-gercek-usule-gecis-excel-tespit-robotunun-kullanima-acilmasi-hakkinda-duyuru</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[586 Sayılı VUK Genel Tebliği’ne Karşı Haklı Mücadelemiz Kamuoyunda Geniş Yankı Buldu!...]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/5f0d770f-928f-45b1-be5b-3d1272591096/-586-sayili-vuk-genel-tebligi-ne-karsi-hakli-mucadelemiz-kamuoyunda-genis-yanki-buldu----</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5f0d770f-928f-45b1-be5b-3d1272591096/-586-sayili-vuk-genel-tebligi-ne-karsi-hakli-mucadelemiz-kamuoyunda-genis-yanki-buldu----</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KAMUOYUNA DUYURU]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/1904d626-e3dc-4687-bbbc-67f4af84492c/kamuoyuna-duyuru</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1904d626-e3dc-4687-bbbc-67f4af84492c/kamuoyuna-duyuru</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
