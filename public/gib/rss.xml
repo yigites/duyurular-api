@@ -4,9 +4,17 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jan 2026 06:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 06:28:54 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 590) Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15848_vergi_usul_kanunu_genel_tebligi_sira_no%3A_590_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15848_vergi_usul_kanunu_genel_tebligi_sira_no%3A_590_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Defterdarımız Sayın Recep SERDAR Bülent Ecevit Üniversitesi Döner Sermaye Saymanlık Müdürlüğünü Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15800_gelir_idaresi_daire_baskani%2C_gelir_idaresi_grup_baskani%2C_defterdarimiz_ve_gelir_idaresi_grup_mudurlerimiz_aydin_smmm_odasi_baskan_ve_uyelerini_ziyaret_etti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15800_gelir_idaresi_daire_baskani%2C_gelir_idaresi_grup_baskani%2C_defterdarimiz_ve_gelir_idaresi_grup_mudurlerimiz_aydin_smmm_odasi_baskan_ve_uyelerini_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımıza Bağlı 4 nolu Muhasebe Müdürlüğü 19.01.2026 Tarihi İtibarıyla Faaliyete Başlamıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15785_defterdarligimiza_bagli_4_nolu_muhasebe_mudurlugu_19.01.2026_tarihi_itibariyla_faaliyete_baslamistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15785_defterdarligimiza_bagli_4_nolu_muhasebe_mudurlugu_19.01.2026_tarihi_itibariyla_faaliyete_baslamistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
         </item>
