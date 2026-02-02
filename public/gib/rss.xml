@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Feb 2026 06:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 06:59:43 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15916_sayin_bakanimiz_derya_yanik_hanim_efendi_defterdarligimizi_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımızın, Yalova  Valisi Sayın Dr. Ahmet Hamdi USTA'ya Hayırlı Olsun Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15929_defterdarimizin%2C_yalova__valisi_sayin_dr._ahmet_hamdi_ustaya_hayirli_olsun_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15929_defterdarimizin%2C_yalova__valisi_sayin_dr._ahmet_hamdi_ustaya_hayirli_olsun_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 57) Resmi Gazete’de Yayımlandı]]></title>
@@ -28,6 +36,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15917_defterdarligimizdan_aksaray_smmmoya_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15917_defterdarligimizdan_aksaray_smmmoya_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çankırı Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Başkanı Sayın Sefa Maraşlı'dan Defterdarlığımıza Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15928_cankiri_adli_yargi_ilk_derece_mahkemesi_adalet_komisyonu_baskani_sayin_sefa_maraslidan_defterdarligimiza_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15928_cankiri_adli_yargi_ilk_derece_mahkemesi_adalet_komisyonu_baskani_sayin_sefa_maraslidan_defterdarligimiza_ziyaret.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
         </item>
@@ -232,6 +248,14 @@
             <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GELİR İDARESİ BAŞKANLIĞI GRUP BAŞKANLARIMIZIN ATSO ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15909_gelir_idaresi_baskanligi_grup_baskanlarimizin_atso_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15909_gelir_idaresi_baskanligi_grup_baskanlarimizin_atso_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gelir İdaresi Daire Başkanı Sayın Hayati ARSLAN ve  Grup Başkanı Sayın  Emre GÜLER, Zonguldak Serbest Muhasebeci ve Mali Müşavirler Odasını Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15888_gelir_idaresi_daire_baskani_sayin_hayati_arslan_ve__grup_baskani_sayin__emre_guler%2C_zonguldak_serbest_muhasebeci_ve_mali_musavirler_odasini_ziyaret_etti.</link>
@@ -380,30 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15876_defterdarimiz_baskanliginda_2025_yili_degerlendirme_toplantisi_yapildi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15876_defterdarimiz_baskanliginda_2025_yili_degerlendirme_toplantisi_yapildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaymakam adayı Sayın Yasin UZUNER, Defterdarımız Sayın Mustafa ÖZDEMİRCİ’yi makamında ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15922_kaymakam_adayi_sayin_yasin_uzuner%2C_defterdarimiz_sayin_mustafa_ozdemirciyi_makaminda_ziyaret_etti._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15922_kaymakam_adayi_sayin_yasin_uzuner%2C_defterdarimiz_sayin_mustafa_ozdemirciyi_makaminda_ziyaret_etti._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aksaray Kızılay Şubesinden Defterdarlığımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15862_aksaray_kizilay_subesinden_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15862_aksaray_kizilay_subesinden_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çalışma Arkadaşlarımız Kızılay'a Kan Bağışında Bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15872_37._vergi_haftasi_etkinlikleri_kapsaminda_calisma_arkadaslarimiz_kizilaya_kan_bagisinda_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15872_37._vergi_haftasi_etkinlikleri_kapsaminda_calisma_arkadaslarimiz_kizilaya_kan_bagisinda_bulundu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
         </item>
