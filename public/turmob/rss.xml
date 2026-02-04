@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 06:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 06:48:23 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Deprem Bölgesinde Devam Eden Mağduriyetler]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/e1e5b39d-f3a0-4d55-b5e0-ae62d03fb2e1/deprem-bolgesinde-devam-eden-magduriyetler</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e1e5b39d-f3a0-4d55-b5e0-ae62d03fb2e1/deprem-bolgesinde-devam-eden-magduriyetler</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Güncel Değişiklik Kapsamında İndirimli Kurumlar Vergisi Uygulaması | WEBINAR, 3 Şubat 2026]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0e0cf423-0d80-43b8-8ab2-37a7e8532630/acca-mart-2026-sinav-donemi-egitimleri-basliyor-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serbest Muhasebeci Mali Müşavirleri YOK SAYAMAZSINIZ!... Mesleki Kamuoyunun Bilgisine]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/1096a6ab-1226-4485-bc90-0fd016dd6e18/serbest-muhasebeci-mali-musavirleri-yok-sayamazsiniz-----mesleki-kamuoyunun-bilgisine-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1096a6ab-1226-4485-bc90-0fd016dd6e18/serbest-muhasebeci-mali-musavirleri-yok-sayamazsiniz-----mesleki-kamuoyunun-bilgisine-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
