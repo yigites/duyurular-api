@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 06:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 06:45:45 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15916_sayin_bakanimiz_derya_yanik_hanim_efendi_defterdarligimizi_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Şubat Cumartesi günü Nargile Cafe, Cafe ve Restaurantlarda hasılat denetimleri yapılmıştır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16027_7_subat_cumartesi_gunu_nargile_cafe%2C_cafe_ve_restaurantlarda_hasilat_denetimleri_yapilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16027_7_subat_cumartesi_gunu_nargile_cafe%2C_cafe_ve_restaurantlarda_hasilat_denetimleri_yapilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 Nisan 2025 tarihinde yazılı bölümü, 18 - 29 Ağustos 2025 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olup, yedek listede yer alan adaylardan istenecek belgeler.]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15972_gelir_idaresi_baskanligi_mukellef_hizmetleri_daire_baskanligindan_defterdarligimiza_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15972_gelir_idaresi_baskanligi_mukellef_hizmetleri_daire_baskanligindan_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tahsilat ve Değerlendirme Toplantısı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15967_tahsilat_ve_degerlendirme_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15967_tahsilat_ve_degerlendirme_toplantisi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
