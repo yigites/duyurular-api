@@ -4,22 +4,54 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 07:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 06:58:00 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
-            <title><![CDATA[Sayın Bakanımız Derya YANIK hanım efendi Defterdarlığımızı Ziyaret]]></title>
+            <title><![CDATA[37.Vergi haftası Etkinlikleri Kapsamında Vergi Konulu Röportaj Yarışması Yapılacaktır]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15916_sayin_bakanimiz_derya_yanik_hanim_efendi_defterdarligimizi_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15916_sayin_bakanimiz_derya_yanik_hanim_efendi_defterdarligimizi_ziyaret</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15986_37.vergi_haftasi_etkinlikleri_kapsaminda_vergi_konulu_roportaj_yarismasi_yapilacaktir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15986_37.vergi_haftasi_etkinlikleri_kapsaminda_vergi_konulu_roportaj_yarismasi_yapilacaktir</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denetimli Serbestlik Müdürü Sayın Selçuk AYDEMİR; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16063_denetimli_serbestlik_muduru_sayin_selcuk_aydemir%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16063_denetimli_serbestlik_muduru_sayin_selcuk_aydemir%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yaş Haddinden Emekliye Ayrılan Vergi Dairesi Müdürlerimizden Sn. Emin ÇİL'in Veda Yemeğine Defterdarımız Sn. Cemil MÜSEVİTOĞLU ve Birim Müdürlerimiz Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16064_yas_haddinden_emekliye_ayrilan_vergi_dairesi_mudurlerimizden_sn._emin_cilin_veda_yemegine_defterdarimiz_sn._cemil_musevitoglu_ve_birim_mudurlerimiz_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16064_yas_haddinden_emekliye_ayrilan_vergi_dairesi_mudurlerimizden_sn._emin_cilin_veda_yemegine_defterdarimiz_sn._cemil_musevitoglu_ve_birim_mudurlerimiz_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Düzenlenen Masa Tenisi Turnuvası Başladı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16050_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_masa_tenisi_turnuvasi_basladi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16050_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_masa_tenisi_turnuvasi_basladi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[İhale İlanı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16047_ihale_ilani</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16047_ihale_ilani</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16065_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16065_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -32,6 +64,14 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR, Grup Başkanı Nazım KANKILIÇ ve Defterdarımız İlhan KARAYILAN birlikte (Kapalıyol) Kazım Özalp Caddesinde mükellef ziyaretinde bulundular.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16062_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_kapaliyol_kazim_ozalp_caddesinde_mukellef_ziyaretinde_bulundular.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16062_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_kapaliyol_kazim_ozalp_caddesinde_mukellef_ziyaretinde_bulundular.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Düzenlenen Futbol Turnuvası Başladı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16044_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_futbol_turnuvasi_basladi.</link>
@@ -40,10 +80,58 @@
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sakarya Serbest Muhasebeci Mali Müşavirler Odası Ziyaret Edildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16049_sakarya_serbest_muhasebeci_mali_musavirler_odasi_ziyaret_edildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16049_sakarya_serbest_muhasebeci_mali_musavirler_odasi_ziyaret_edildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR, Grup Başkanı Nazım KANKILIÇ ve Defterdarımız İlhan KARAYILAN birlikte Antalya Yeminli Mali Müşavirler Odasına ziyarette bulundular.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16061_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_antalya_yeminli_mali_musavirler_odasina_ziyarette_bulundular.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16061_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_antalya_yeminli_mali_musavirler_odasina_ziyarette_bulundular.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR, Grup Başkanı Nazım KANKILIÇ ve Defterdarımız İlhan KARAYILAN birlikte (ATSO) Antalya Ticaret ve Sanayi Odası Yönetim Kurulu ve Başkan Yusuf HACISÜLEYMAN'ı ziyaret ettiler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16060_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_atso_antalya_ticaret_ve_sanayi_odasi_yonetim_kurulu_ve_baskan_yusuf_hacisuleymani_ziyaret_ettiler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16060_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_grup_baskani_nazim_kankilic_ve_defterdarimiz_ilhan_karayilan_birlikte_atso_antalya_ticaret_ve_sanayi_odasi_yonetim_kurulu_ve_baskan_yusuf_hacisuleymani_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Samsun Serbest Muhasebeci Mali Müşavirler Odası Başkanı Sayın Osman ARSLAN ve Yönetim Kurulu Üyeleri Defterdarımız Sayın Halil İbrahim TEMİZ'i Makamında Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16045_samsun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_osman_arslan_ve_yonetim_kurulu_uyeleri_defterdarimiz_sayin_halil_ibrahim_temizi_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16045_samsun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_osman_arslan_ve_yonetim_kurulu_uyeleri_defterdarimiz_sayin_halil_ibrahim_temizi_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tahsilat ve Denetim Değerlendirme Toplantısı Yapıldı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16048_tahsilat_ve_denetim_degerlendirme_toplantisi_yapildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16048_tahsilat_ve_denetim_degerlendirme_toplantisi_yapildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR ve Grup Başkanı Nazım KANKILIÇ, Defterdarımız İlhan KARAYILAN ile birlikte Antalya Serbest Muhasebeciler Mali Müşavirler Odası Yönetim Kurulu ve Başkan Necati ŞENYİĞİT'i ziyaret ettiler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16058_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic%2C_defterdarimiz_ilhan_karayilan_ile_birlikte_antalya_serbest_muhasebeciler_mali_musavirler_odasi_yonetim_kurulu_ve_baskan_necati_senyigiti_ziyaret_ettiler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16058_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic%2C_defterdarimiz_ilhan_karayilan_ile_birlikte_antalya_serbest_muhasebeciler_mali_musavirler_odasi_yonetim_kurulu_ve_baskan_necati_senyigiti_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR ve Grup Başkanı Nazım KANKILIÇ Defterdarlığımıza ziyarette bulundular, Defterdarımız İlhan KARAYILAN Vergi, Muhasebe ve Muhakemat birim yöneticilerinin de katılımıyla verimli bir toplantı gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16057_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic_defterdarligimiza_ziyarette_bulundular%2C_defterdarimiz_ilhan_karayilan_vergi%2C_muhasebe_ve_muhakemat_birim_yoneticilerinin_de_katilimiyla_verimli_bir_toplanti_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16057_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic_defterdarligimiza_ziyarette_bulundular%2C_defterdarimiz_ilhan_karayilan_vergi%2C_muhasebe_ve_muhakemat_birim_yoneticilerinin_de_katilimiyla_verimli_bir_toplanti_gerceklestirildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -136,6 +224,14 @@
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Nuray Serdaroğlu Erbil ile Grup Başkanları Sayın Tugay Manav, Sayın Osman Kırbaş ve Sayın Cemil Kara, Defterdarımız Sayın Ramazan Yaşar ile birlikte Esnaf ve Sanatkârlar Odası’na bir ziyaret gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16056_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_esnaf_ve_sanatk%C3%A2rlar_odasina_bir_ziyaret_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16056_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_esnaf_ve_sanatk%C3%A2rlar_odasina_bir_ziyaret_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Serbest Muhasebeci ve Mali Müşavirler Odası Başkanı Sayın Hasan KAHVECİ, Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16019_serbest_muhasebeci_ve_mali_musavirler_odasi_baskani_sayin_hasan_kahveci%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
@@ -152,6 +248,14 @@
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Nuray Serdaroğlu Erbil ile Grup Başkanları Sayın Tugay Manav, Sayın Osman Kırbaş ve Sayın Cemil Kara, Defterdarımız Sayın Ramazan Yaşar ile birlikte Trabzon Ticaret Borsası’na bir ziyaret gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16055_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_ticaret_borsasina_bir_ziyaret_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16055_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_ticaret_borsasina_bir_ziyaret_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Van Serbest Muhasebeci ve Mali Müşavirler Odası Ziyareti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16035_van_serbest_muhasebeci_ve_mali_musavirler_odasi_ziyareti._</link>
@@ -160,10 +264,34 @@
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Nuray Serdaroğlu Erbil ile Grup Başkanları Sayın Tugay Manav, Sayın Osman Kırbaş ve Sayın Cemil Kara, Defterdarımız Sayın Ramazan Yaşar ile birlikte Trabzon Ticaret Odası’na bir ziyaret gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16054_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_ticaret_odasina_bir_ziyaret_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16054_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_ticaret_odasina_bir_ziyaret_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Nuray Serdaroğlu Erbil ile Gelir İdaresi Grup Başkanları Sayın Tugay Manav, Sayın Osman Kırbaş ve Sayın Cemil Kara, Defterdarımız Sayın Ramazan Yaşar ile birlikte Trabzon SMMM Odası’na bir ziyaret gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16053_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_gelir_idaresi_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_smmm_odasina_bir_ziyaret_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16053_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_gelir_idaresi_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarimiz_sayin_ramazan_yasar_ile_birlikte_trabzon_smmm_odasina_bir_ziyaret_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kahramanmaraş Merkezli 6 Şubat 2023 Tarihinde Yaşadığımız Depremlerde Şehit Olan Vatandaşlarımız İçin Defterdarlığımız Mescidinde Mevlid-i Şerif Okundu, Kur'an-ı Kerim Tilaveti Yapıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16015_kahramanmaras_merkezli_6_subat_2023_tarihinde_yasadigimiz_depremlerde_sehit_olan_vatandaslarimiz_icin_defterdarligimiz_mescidinde_mevlidi_serif_okundu%2C_kurani_kerim_tilaveti_yapildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16015_kahramanmaras_merkezli_6_subat_2023_tarihinde_yasadigimiz_depremlerde_sehit_olan_vatandaslarimiz_icin_defterdarligimiz_mescidinde_mevlidi_serif_okundu%2C_kurani_kerim_tilaveti_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Nuray Serdaroğlu Erbil ile Gelir İdaresi Grup Başkanları Sayın Tugay Manav, Sayın Osman Kırbaş ve Sayın Cemil Kara, Defterdarlığımızda gerçekleştirilen toplantının ardından birim ziyaretlerinde bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16052_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_gelir_idaresi_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarligimizda_gerceklestirilen_toplantinin_ardindan_birim_ziyaretlerinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16052_gelir_idaresi_baskan_yardimcisi_sayin_nuray_serdaroglu_erbil_ile_gelir_idaresi_grup_baskanlari_sayin_tugay_manav%2C_sayin_osman_kirbas_ve_sayin_cemil_kara%2C_defterdarligimizda_gerceklestirilen_toplantinin_ardindan_birim_ziyaretlerinde_bulundu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -276,134 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16002_defterdarimiz_sayin_recep_serdar_ve_grup_mudurumuz_sayin_ahmet_remzi_ocakli%3B_defterdarligimiz_caycuma_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16002_defterdarimiz_sayin_recep_serdar_ve_grup_mudurumuz_sayin_ahmet_remzi_ocakli%3B_defterdarligimiz_caycuma_vergi_dairesi_mudurlugunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Mustafa KILINÇ, Grup Başkanı Sayın Kadir ÇİÇEK, Defterdarımız Sayın Mustafa ÇELİK ve Gelir İdaresi Grup Müdürü Sayın Mustafa Selman ÇALTEPE Valimiz Sayın Abdulaziz AYDIN’ı makamında ziyaret ettiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16000_gelir_idaresi_baskan_yardimcisi_sayin_mustafa_kilinc%2C_grup_baskani_sayin_kadir_cicek%2C_defterdarimiz_sayin_mustafa_celik_ve_gelir_idaresi_grup_muduru_sayin_mustafa_selman_caltepe_valimiz_sayin_abdulaziz_aydini_makaminda_ziyaret_ettiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16000_gelir_idaresi_baskan_yardimcisi_sayin_mustafa_kilinc%2C_grup_baskani_sayin_kadir_cicek%2C_defterdarimiz_sayin_mustafa_celik_ve_gelir_idaresi_grup_muduru_sayin_mustafa_selman_caltepe_valimiz_sayin_abdulaziz_aydini_makaminda_ziyaret_ettiler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Recep SERDAR ve Grup Müdürümüz Sayın Ahmet Remzi OCAKLI; Çaycuma Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Sayın Zekai KAMİTOĞLU’nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16001_defterdarimiz_sayin_recep_serdar_ve_grup_mudurumuz_sayin_ahmet_remzi_ocakli%3B_caycuma_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sayin_zekai_kamitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16001_defterdarimiz_sayin_recep_serdar_ve_grup_mudurumuz_sayin_ahmet_remzi_ocakli%3B_caycuma_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sayin_zekai_kamitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkan Yardımcısı Sayın Mustafa KILINÇ ve Grup Başkanı Sayın Kadir ÇİÇEK'in Defterdarlığımızı ziyareti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15996_gelir_idaresi_baskan_yardimcisi_sayin_mustafa_kilinc_ve_grup_baskani_sayin_kadir_cicekin_defterdarligimizi_ziyareti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15996_gelir_idaresi_baskan_yardimcisi_sayin_mustafa_kilinc_ve_grup_baskani_sayin_kadir_cicekin_defterdarligimizi_ziyareti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızdan Selime Belediyesine Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15997_defterdarligimizdan_selime_belediyesine_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15997_defterdarligimizdan_selime_belediyesine_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valimiz Sayın Avni ÇAKIR'a Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16031_valimiz_sayin_avni_cakira_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16031_valimiz_sayin_avni_cakira_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AFAD Eğitim Uzmanı Sn. Ahmet TURHAN tarafından verilen Afet Farkındalık Eğitimi Konferans Salonumuzda Gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15999_afad_egitim_uzmani_sn._ahmet_turhan_tarafindan_verilen_afet_farkindalik_egitimi_konferans_salonumuzda_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15999_afad_egitim_uzmani_sn._ahmet_turhan_tarafindan_verilen_afet_farkindalik_egitimi_konferans_salonumuzda_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığından gelen heyet Defterdarımız Sayın Erkan CİĞER ile birlikte Birim Ziyaretleri Gerçekleştirdiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16011_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger_ile_birlikte_birim_ziyaretleri_gerceklestirdiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16011_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger_ile_birlikte_birim_ziyaretleri_gerceklestirdiler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ BİLİNCİ SEMİNERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16003_vergi_bilinci_semineri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16003_vergi_bilinci_semineri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkiye Geleneksel Güreşler Federasyonu Başkanı İbrahim TÜRKİŞ, Defterdarımız İlhan KARAYILAN'ı makamında ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15994_turkiye_geleneksel_guresler_federasyonu_baskani_ibrahim_turkis%2C_defterdarimiz_ilhan_karayilani_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15994_turkiye_geleneksel_guresler_federasyonu_baskani_ibrahim_turkis%2C_defterdarimiz_ilhan_karayilani_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığından Gelen Heyet Defterdarımız Sayın Erkan CİĞER, Gelir İdaresi Grup Müdürü Sertan KÖYLÜ ve Merkez Müdürlerimiz ile birlikte toplantı gerçekleştirmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15998_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger%2C_gelir_idaresi_grup_muduru_sertan_koylu_ve_merkez_mudurlerimiz_ile_birlikte_toplanti_gerceklestirmistir._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15998_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger%2C_gelir_idaresi_grup_muduru_sertan_koylu_ve_merkez_mudurlerimiz_ile_birlikte_toplanti_gerceklestirmistir._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR, Gelir İdaresi Grup Başkanı Mustafa TOSUN ve Şube Müdürü Engin AYGÜN İlimiz Defterdarlığını Ziyaret Ettiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15991_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_gelir_idaresi_grup_baskani_mustafa_tosun_ve_sube_muduru_engin_aygun_ilimiz_defterdarligini_ziyaret_ettiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15991_gelir_idaresi_daire_baskani_mustafa_akpinar%2C_gelir_idaresi_grup_baskani_mustafa_tosun_ve_sube_muduru_engin_aygun_ilimiz_defterdarligini_ziyaret_ettiler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denetim Ekiplerimiz Otoyolda Denetim Yaptı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/15984_denetim_ekiplerimiz_otoyolda_denetim_yapti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15984_denetim_ekiplerimiz_otoyolda_denetim_yapti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığından Gelen Heyet Defterdarımız Sayın Erkan CİĞER İle Birlikte Çorum Serbest Muhasebeci Mali Müşavirler Odasi Başkanı Sayın Ceyhan BARAN'ı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16006_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger_ile_birlikte_corum_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_ceyhan_barani_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16006_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_ciger_ile_birlikte_corum_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_ceyhan_barani_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığından Gelen Heyet Defterdarımız Sayın Erkan CİĞER'i Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16008_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_cigeri_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16008_gelir_idaresi_baskanligindan_gelen_heyet_defterdarimiz_sayin_erkan_cigeri_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Avrupa Birliği ve Dış İlişkiler Daire Başkanı Ahmet YILDIRIM ve Personel Daire Başkanlığı Grup Başkanı Kadir ÇİÇEK Tarafından Defterdarlığımız Ziyaret Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16023_gelir_idaresi_avrupa_birligi_ve_dis_iliskiler_daire_baskani_ahmet_yildirim_ve_personel_daire_baskanligi_grup_baskani_kadir_cicek_tarafindan_defterdarligimiz_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16023_gelir_idaresi_avrupa_birligi_ve_dis_iliskiler_daire_baskani_ahmet_yildirim_ve_personel_daire_baskanligi_grup_baskani_kadir_cicek_tarafindan_defterdarligimiz_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Grup Başkanlarımız Sayın İbrahim ATEŞ ve Sayın Serkan İNCE, Adıyaman’a ziyaret gerçekleştirmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16029_gelir_idaresi_grup_baskanlarimiz_sayin_ibrahim_ates_ve_sayin_serkan_ince%2C_adiyamana_ziyaret_gerceklestirmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16029_gelir_idaresi_grup_baskanlarimiz_sayin_ibrahim_ates_ve_sayin_serkan_ince%2C_adiyamana_ziyaret_gerceklestirmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
         </item>
