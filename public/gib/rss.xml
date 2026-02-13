@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 06:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 06:57:05 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/15986_37.vergi_haftasi_etkinlikleri_kapsaminda_vergi_konulu_roportaj_yarismasi_yapilacaktir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 591) Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16103_vergi_usul_kanunu_genel_tebligi_sira_no%3A_591_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16103_vergi_usul_kanunu_genel_tebligi_sira_no%3A_591_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1 Nisan 2026 Tarihinden İtibaren Bahçelievler - Esenler - İkitelli - Kağıthane ve Pendik Uygulama Grup Müdürlüklerimizdeki Veznelerimiz Kapatılacaktır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16102_1_nisan_2026_tarihinden_itibaren_bahcelievler__esenler__ikitelli__kagithane_ve_pendik_uygulama_grup_mudurluklerimizdeki_veznelerimiz_kapatilacaktir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16102_1_nisan_2026_tarihinden_itibaren_bahcelievler__esenler__ikitelli__kagithane_ve_pendik_uygulama_grup_mudurluklerimizdeki_veznelerimiz_kapatilacaktir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Misafirhasenesinin Konaklama Ücret Tarifesi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16099_defterdarligimiz_misafirhasenesinin_konaklama_ucret_tarifesi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16099_defterdarligimiz_misafirhasenesinin_konaklama_ucret_tarifesi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ulusal Staj Programı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16098_ulusal_staj_programi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16098_ulusal_staj_programi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.⁠ ⁠Vergi Haftası Etkinlikleri Kapsamında “Çocuk ve Vergi” Konulu Resim Yarışması Düzenlenecektir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16095_37._vergi_haftasi_etkinlikleri_kapsaminda_cocuk_ve_vergi_konulu_resim_yarismasi_duzenlenecektir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16095_37._vergi_haftasi_etkinlikleri_kapsaminda_cocuk_ve_vergi_konulu_resim_yarismasi_duzenlenecektir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Düzenlenen Tavla Turnuvası Başladı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16093_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_tavla_turnuvasi_basladi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16093_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_tavla_turnuvasi_basladi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aksaray Ticaret ve Sanayi Odası Ziyareti]]></title>
@@ -32,10 +80,34 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Personelimize "Acil Durum Ekipleri Oluşumu" Eğitimi Verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16101__personelimize_acil_durum_ekipleri_olusumu_egitimi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16101__personelimize_acil_durum_ekipleri_olusumu_egitimi_verildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yıl sonu Değerlendirme toplantısı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16091_yil_sonu_degerlendirme_toplantisi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16091_yil_sonu_degerlendirme_toplantisi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ticaret Odaları Meslek Komite Üyeleri Defterdarımızı Ziyaret Ettiler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16096_ticaret_odalari_meslek_komite_uyeleri_defterdarimizi_ziyaret_ettiler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16096_ticaret_odalari_meslek_komite_uyeleri_defterdarimizi_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personelimize "Yangına Müdahale Eğitimi" Verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16100_personelimize_yangina_mudahale_egitimi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16100_personelimize_yangina_mudahale_egitimi_verildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -96,6 +168,14 @@
             <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vergi rekortmenimize teşekkür belgesi takdim edilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16097_vergi_rekortmenimize_tesekkur_belgesi_takdim_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16097_vergi_rekortmenimize_tesekkur_belgesi_takdim_edilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emekli Personelimiz İçin Düzenlenen Yemek Programı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16082_emekli_personelimiz_icin_duzenlenen_yemek_programi.</link>
@@ -124,6 +204,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16071_defterdarimiz_sn._cemil_musevitoglu_saricakaya_malmudurlugunu_ziyaret_ederek_calismalar_hakkinda_bilgi_aldi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16071_defterdarimiz_sn._cemil_musevitoglu_saricakaya_malmudurlugunu_ziyaret_ederek_calismalar_hakkinda_bilgi_aldi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VERGİ BİLİNCİ SEMİNERİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16092_vergi_bilinci_semineri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16092_vergi_bilinci_semineri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -318,94 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16058_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic%2C_defterdarimiz_ilhan_karayilan_ile_birlikte_antalya_serbest_muhasebeciler_mali_musavirler_odasi_yonetim_kurulu_ve_baskan_necati_senyigiti_ziyaret_ettiler.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Daire Başkanı Mustafa AKPINAR ve Grup Başkanı Nazım KANKILIÇ Defterdarlığımıza ziyarette bulundular, Defterdarımız İlhan KARAYILAN Vergi, Muhasebe ve Muhakemat birim yöneticilerinin de katılımıyla verimli bir toplantı gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16057_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic_defterdarligimiza_ziyarette_bulundular%2C_defterdarimiz_ilhan_karayilan_vergi%2C_muhasebe_ve_muhakemat_birim_yoneticilerinin_de_katilimiyla_verimli_bir_toplanti_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16057_gelir_idaresi_daire_baskani_mustafa_akpinar_ve_grup_baskani_nazim_kankilic_defterdarligimiza_ziyarette_bulundular%2C_defterdarimiz_ilhan_karayilan_vergi%2C_muhasebe_ve_muhakemat_birim_yoneticilerinin_de_katilimiyla_verimli_bir_toplanti_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Başkanlığımız Mükellef Hizmetleri Dairesi Başkanlığı Grup Başkanı  Sayın İmdat TÜRKAY ve Avrupa Birliği ve Dış İlişkinler Daire Başkanlığı Grup Başkanı Sayın  Gülru İSKENDER Defterdarlığımıza ziyarette bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16028_baskanligimiz_mukellef_hizmetleri_dairesi_baskanligi_grup_baskani__sayin_imdat_turkay_ve_avrupa_birligi_ve_dis_iliskinler_daire_baskanligi_grup_baskani_sayin__gulru_iskender_defterdarligimiza_ziyarette_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16028_baskanligimiz_mukellef_hizmetleri_dairesi_baskanligi_grup_baskani__sayin_imdat_turkay_ve_avrupa_birligi_ve_dis_iliskinler_daire_baskanligi_grup_baskani_sayin__gulru_iskender_defterdarligimiza_ziyarette_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEFTERDARLIĞIMIZCA MORAL- MOTİVASYON ETKİNLİĞİ DÜZENLENDİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16030_defterdarligimizca_moral_motivasyon_etkinligi_duzenlendi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16030_defterdarligimizca_moral_motivasyon_etkinligi_duzenlendi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kırklareli Defterdarlığı Olarak Yaygın ve Yoğun Denetimlerimiz Aralıksız Sürüyor]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16032_kirklareli_defterdarligi_olarak_yaygin_ve_yogun_denetimlerimiz_araliksiz_suruyor</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16032_kirklareli_defterdarligi_olarak_yaygin_ve_yogun_denetimlerimiz_araliksiz_suruyor</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığı Grup Başkanları Mehmet CEYLAN, Murat AYDIN Defterdarlığımızı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16038_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16038_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığı Grup Başkanları Mehmet CEYLAN, Murat AYDIN Defterdarlığımız Birim Amirleri ile birlikte Defterdarlığımız faaliyetleri ile ilgili değerlendirme toplantısı yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16039_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_defterdarligimiz_birim_amirleri_ile_birlikte_defterdarligimiz_faaliyetleri_ile_ilgili_degerlendirme_toplantisi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16039_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_defterdarligimiz_birim_amirleri_ile_birlikte_defterdarligimiz_faaliyetleri_ile_ilgili_degerlendirme_toplantisi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığı Grup Başkanları Mehmet CEYLAN, Murat AYDIN ve Defterdarımız Seyit TEKİN, Yalova Serbest Muhasebeci Mali Müşavirler Odası'nı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16040_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_ve_defterdarimiz_seyit_tekin%2C_yalova_serbest_muhasebeci_mali_musavirler_odasini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16040_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_ve_defterdarimiz_seyit_tekin%2C_yalova_serbest_muhasebeci_mali_musavirler_odasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir İdaresi Başkanlığı Grup Başkanları Mehmet CEYLAN, Murat AYDIN ve Defterdarımız Seyit TEKİN, Yalova Ticaret ve Sanayi Odası'nı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16041_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_ve_defterdarimiz_seyit_tekin%2C_yalova_ticaret_ve_sanayi_odasini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16041_gelir_idaresi_baskanligi_grup_baskanlari_mehmet_ceylan%2C_murat_aydin_ve_defterdarimiz_seyit_tekin%2C_yalova_ticaret_ve_sanayi_odasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yalova Ticaret ve Sanayi Odası Başkanı Cemil DEMİRYÜREK, Defterdarımızı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16042_yalova_ticaret_ve_sanayi_odasi_baskani_cemil_demiryurek%2C_defterdarimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16042_yalova_ticaret_ve_sanayi_odasi_baskani_cemil_demiryurek%2C_defterdarimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Şubat Cumartesi günü Nargile Cafe, Cafe ve Restaurantlarda hasılat denetimleri yapılmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16027_7_subat_cumartesi_gunu_nargile_cafe%2C_cafe_ve_restaurantlarda_hasilat_denetimleri_yapilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16027_7_subat_cumartesi_gunu_nargile_cafe%2C_cafe_ve_restaurantlarda_hasilat_denetimleri_yapilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Nisan 2025 tarihinde yazılı bölümü, 18 - 29 Ağustos 2025 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olup, yedek listede yer alan adaylardan istenecek belgeler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16025_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16025_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
