@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 06:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 06:15:23 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Risk Odaklı Mükellef Eğitimleri (VDK-ROME)]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/c7d6b070-19d8-410c-87d0-53b83f6d6beb/risk-odakli-mukellef-egitimleri--vdk-rome-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c7d6b070-19d8-410c-87d0-53b83f6d6beb/risk-odakli-mukellef-egitimleri--vdk-rome-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“Luca Mali Müşavir Farkındalık Eğitimi” Webinar, 09 Şubat 2026]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/dbb9ce4c-2d57-4a07-9868-ad8f78b1dae7/-2025-donem-sonu-islemleri-ve-ozellikli-konular--webinar---13-ocak-2026</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılı Vergi Artışları]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/083541f1-0684-44e6-b67e-9e1fad5ae904/2026-yili-vergi-artislari</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/083541f1-0684-44e6-b67e-9e1fad5ae904/2026-yili-vergi-artislari</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
