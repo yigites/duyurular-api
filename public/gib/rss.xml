@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 06:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 06:19:38 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,26 @@
             <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nargile Cafe, Cafe, Restaurantlar ile Güzellik Merkezlerinde hasılat denetimi ile yaygın ve yoğun vergi denetimleri yapılmıştır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16116_nargile_cafe%2C_cafe%2C_restaurantlar_ile_guzellik_merkezlerinde_hasilat_denetimi_ile_yaygin_ve_yogun_vergi_denetimleri_yapilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16116_nargile_cafe%2C_cafe%2C_restaurantlar_ile_guzellik_merkezlerinde_hasilat_denetimi_ile_yaygin_ve_yogun_vergi_denetimleri_yapilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vergi Bilinci Eğitimi Yapıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16114_vergi_bilinci_egitimi_yapildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16114_vergi_bilinci_egitimi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afyonkarahisar Defterdarı Sn. İbrahim GÜNDÜZ ve Beraberindeki Afyonkarahisarlı İş İnsanı Sn. Süleyman KIRLIOĞLU, Sn. Mehmet MİHRİOĞLU, ve Eskişehirli İş İnsanı Sn. Metin ATICI, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16113_afyonkarahisar_defterdari_sn._ibrahim_gunduz_ve_beraberindeki_afyonkarahisarli_is_insani_sn._suleyman_kirlioglu%2C_sn._mehmet_mihrioglu%2C_ve_eskisehirli_is_insani_sn._metin_atici%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16113_afyonkarahisar_defterdari_sn._ibrahim_gunduz_ve_beraberindeki_afyonkarahisarli_is_insani_sn._suleyman_kirlioglu%2C_sn._mehmet_mihrioglu%2C_ve_eskisehirli_is_insani_sn._metin_atici%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16066_gelir_idaresi_baskanligi_grup_baskanlarimizdan_defterdarligimiza_ziyaret.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16066_gelir_idaresi_baskanligi_grup_baskanlarimizdan_defterdarligimiza_ziyaret.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Düzenlenen Masa Tenisi Turnuvası Başladı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16050_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_masa_tenisi_turnuvasi_basladi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16050_37._vergi_haftasi_etkinlikleri_kapsaminda_duzenlenen_masa_tenisi_turnuvasi_basladi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İhale İlanı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16047_ihale_ilani</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16047_ihale_ilani</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
         </item>

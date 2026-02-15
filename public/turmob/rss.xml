@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 06:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 06:19:41 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Ekonomi Gündemi: Kayıt Dışıyla Mücadele ve Yapısal Reformlar!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/91027a4d-1286-4185-9b1d-28b1c149e30f/ekonomi-gundemi--kayit-disiyla-mucadele-ve-yapisal-reformlar-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/91027a4d-1286-4185-9b1d-28b1c149e30f/ekonomi-gundemi--kayit-disiyla-mucadele-ve-yapisal-reformlar-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Risk Odaklı Mükellef Eğitimleri (VDK-ROME)]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/2974e466-962f-4b31-a738-02db3954828a/uluslararasi-yolunuz-hep-acik-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“2025 Dönem Sonu İşlemleri ve Özellikli Konular” Webinar - 13 Ocak 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/dbb9ce4c-2d57-4a07-9868-ad8f78b1dae7/-2025-donem-sonu-islemleri-ve-ozellikli-konular--webinar---13-ocak-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/dbb9ce4c-2d57-4a07-9868-ad8f78b1dae7/-2025-donem-sonu-islemleri-ve-ozellikli-konular--webinar---13-ocak-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
