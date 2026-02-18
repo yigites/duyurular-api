@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 06:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 06:25:06 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[TÜRMOB ve Hatay SMMM Odası iş birliğiyle düzenlenen “AFETTE KADIN” Etkinlik Programı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/e8b3b7c3-a700-4c59-b9e9-6e6c52386457/turmob-ve-hatay-smmm-odasi-is-birligiyle-duzenlenen--afette-kadin--etkinlik-programi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e8b3b7c3-a700-4c59-b9e9-6e6c52386457/turmob-ve-hatay-smmm-odasi-is-birligiyle-duzenlenen--afette-kadin--etkinlik-programi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ekonomik gelişmeler ve mesleki gündeme ilişkin değerlendirmeler]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e2ba0ad3-77f5-4746-a923-22fc5c8208d7/31-12-2025-tarihi-icin-yapilacak-yeniden-degerleme-uygulamalarina-iliskin-excel-hesaplama-araci-hakk</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MESLEĞİMİZ İÇİN SADE, DİJİTAL VE GÜÇLÜ BİR MEVZUAT]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/29efef4c-5921-4bc7-ba69-39a4e76500f7/meslegimiz-icin-sade--dijital-ve-guclu-bir-mevzuat</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/29efef4c-5921-4bc7-ba69-39a4e76500f7/meslegimiz-icin-sade--dijital-ve-guclu-bir-mevzuat</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
