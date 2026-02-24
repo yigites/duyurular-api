@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 06:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 06:23:39 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[KGK Kurumsal Sürdürülebilirlik Raporlama Uzmanlığı Eğitimi]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/67b1345a-2471-4168-81eb-896c8e39fb51/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/67b1345a-2471-4168-81eb-896c8e39fb51/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MALI MÜŞAVİRLİK MESLEĞİ VE EKONOMİYE İLİŞKİN NOTLAR]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/3b25de3e-783b-417b-9eeb-57a149e96732/guncel-degisiklik-kapsaminda-indirimli-kurumlar-vergisi-uygulamasi---webinar--3-subat-2026</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TÜRMOB & TOBB Yerli Malı Webinarı, 28 Ocak 2026 Çarşamba]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/58f3b2b8-bd29-484d-9454-c459003a42f0/turmob---tobb-yerli-mali-webinari--28-ocak-2026-carsamba</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/58f3b2b8-bd29-484d-9454-c459003a42f0/turmob---tobb-yerli-mali-webinari--28-ocak-2026-carsamba</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
