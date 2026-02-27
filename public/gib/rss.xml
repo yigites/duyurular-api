@@ -4,408 +4,408 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 06:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 06:19:53 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
-            <title><![CDATA[37.Vergi Haftası etkinlikleri kapsamında,Defterdarımız Sayın Aliaddin KARPINAR ve Birim Müdürlerimiz Valimiz Sayın Hayrettin ÇİÇEK’i makamında ziyarette bulundular.]]></title>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16604_37.vergi_haftasi_etkinlikleri_kapsaminda%2Cdefterdarimiz_sayin_aliaddin_karpinar_ve_birim_mudurlerimiz_valimiz_sayin_hayrettin_ciceki_makaminda_ziyarette_bulundular.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16604_37.vergi_haftasi_etkinlikleri_kapsaminda%2Cdefterdarimiz_sayin_aliaddin_karpinar_ve_birim_mudurlerimiz_valimiz_sayin_hayrettin_ciceki_makaminda_ziyarette_bulundular.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Bilinci Eğitimlerimiz Devam Ediyor]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16681_vergi_bilinci_egitimlerimiz_devam_ediyor</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16681_vergi_bilinci_egitimlerimiz_devam_ediyor</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Nisan 2025 tarihinde yazılı bölümü, 18 - 29 Ağustos 2025 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olup, yedek listede yer alan adaylardan istenecek belgeler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16705_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16705_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Belediye Başkanı Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16700_37._vergi_haftasi_belediye_baskani_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16700_37._vergi_haftasi_belediye_baskani_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Sayın Sezer SARI Nevşehir Ticaret Odasına bir ziyaret gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16678_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_sezer_sari_nevsehir_ticaret_odasina_bir_ziyaret_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16678_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_sezer_sari_nevsehir_ticaret_odasina_bir_ziyaret_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası kapsamında Defterdarımız Sayın Barış SÖNMEZ Ardahan Cumhuriyet Başsavcılığını ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16683_37._vergi_haftasi_kapsaminda_defterdarimiz_sayin_baris_sonmez_ardahan_cumhuriyet_bassavciligini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16683_37._vergi_haftasi_kapsaminda_defterdarimiz_sayin_baris_sonmez_ardahan_cumhuriyet_bassavciligini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Konya Ticaret Odası Ziyaret Edildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16691_37._vergi_haftasi_etkinlikleri_kapsaminda_konya_ticaret_odasi_ziyaret_edildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16691_37._vergi_haftasi_etkinlikleri_kapsaminda_konya_ticaret_odasi_ziyaret_edildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Çorum Basınında Geniş Yer Buldu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16703_37._vergi_haftasi_etkinlikleri_corum_basininda_genis_yer_buldu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16703_37._vergi_haftasi_etkinlikleri_corum_basininda_genis_yer_buldu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Aksaray Ticaret ve Sanayi Odası Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16673_37._vergi_haftasi_aksaray_ticaret_ve_sanayi_odasi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16673_37._vergi_haftasi_aksaray_ticaret_ve_sanayi_odasi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası İlçe Kaymakam Ziyaretleri]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16667_37._vergi_haftasi_ilce_kaymakam_ziyaretleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16667_37._vergi_haftasi_ilce_kaymakam_ziyaretleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bütünleşik Kamu Mali Yönetim Bilişim Sisteminin Mahalli İdarelerde Yaygınlaştırılması toplantısı Vali Yardımcısı Sn. Mustafa Hulusi ARAT başkanlığında; Defterdarımız, Belediye Başkanları ve Mali Hizmet Yöneticilerinin katılımıyla gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16717_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasi_toplantisi_vali_yardimcisi_sn._mustafa_hulusi_arat_baskanliginda%3B_defterdarimiz%2C_belediye_baskanlari_ve_mali_hizmet_yoneticilerinin_katilimiyla_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16717_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasi_toplantisi_vali_yardimcisi_sn._mustafa_hulusi_arat_baskanliginda%3B_defterdarimiz%2C_belediye_baskanlari_ve_mali_hizmet_yoneticilerinin_katilimiyla_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Türkiye’de Yerleşmiş Olmayanlar (Dar Mükellefler) İçin Kira Geliri Rehberi Türkçe ve İngilizce Olarak Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16666_turkiyede_yerlesmis_olmayanlar_dar_mukellefler_icin_kira_geliri_rehberi_turkce_ve_ingilizce_olarak_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16666_turkiyede_yerlesmis_olmayanlar_dar_mukellefler_icin_kira_geliri_rehberi_turkce_ve_ingilizce_olarak_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Haftası Etkinleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16599_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16599_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16663_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16663_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası Kutlamaları Kapsamında, Uşak Dikilitaş İlkokulu Öğrencileri ve Öğretmenleri Defterdarlığımızı Ziyaret Etti]]></title>
+            <title><![CDATA[37.Vergi Haftası kapsamında Mükellef ziyaretlerimiz]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16540_37._vergi_haftasi_kutlamalari_kapsaminda%2C_usak_dikilitas_ilkokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16540_37._vergi_haftasi_kutlamalari_kapsaminda%2C_usak_dikilitas_ilkokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16669_37.vergi_haftasi_kapsaminda_mukellef_ziyaretlerimiz</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16669_37.vergi_haftasi_kapsaminda_mukellef_ziyaretlerimiz</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Kapsamında Uşak Üniversitesi Maliye Bölüm Başkanı Sayın Doç. Dr. Mustafa TAYTAK Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16588_37._vergi_haftasi_kapsaminda_usak_universitesi_maliye_bolum_baskani_sayin_doc._dr._mustafa_taytak_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16588_37._vergi_haftasi_kapsaminda_usak_universitesi_maliye_bolum_baskani_sayin_doc._dr._mustafa_taytak_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. VERGI HAFTASI KAPSAMINDA AĞRI SMMM ODASI ZİYARET EDİLMİŞTİR.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16680_37._vergi_haftasi_kapsaminda_agri_smmm_odasi_ziyaret_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16680_37._vergi_haftasi_kapsaminda_agri_smmm_odasi_ziyaret_edilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Doğaçlama Tiyatro Etkinliği Konferans Salonumuzda Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16684_37._vergi_haftasi_etkinlikleri_kapsaminda_dogaclama_tiyatro_etkinligi_konferans_salonumuzda_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16684_37._vergi_haftasi_etkinlikleri_kapsaminda_dogaclama_tiyatro_etkinligi_konferans_salonumuzda_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Bucak V.D. Müdürü Sn. Harun KARA ve Burdur Vergi Dairesi Müdürü Mehmet YAĞCI ile birlikte Bucak ilçesinde faaliyat gösteren Yüceler Makine yetkililerini ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16686_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ve_burdur_vergi_dairesi_muduru_mehmet_yagci_ile_birlikte_bucak_ilcesinde_faaliyat_gosteren_yuceler_makine_yetkililerini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16686_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ve_burdur_vergi_dairesi_muduru_mehmet_yagci_ile_birlikte_bucak_ilcesinde_faaliyat_gosteren_yuceler_makine_yetkililerini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çorum Defterdarı Sayın Erkan CİĞER ve Beraberindeki Heyet Defterdarlığımızda Görevli Şehit Yakını Personelin Ailelerini Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16714_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_defterdarligimizda_gorevli_sehit_yakini_personelin_ailelerini_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16714_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_defterdarligimizda_gorevli_sehit_yakini_personelin_ailelerini_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çiğli'de Bulunan Kompleks Hizmet Binamızda Çalışan Personelimiz Ziyaret Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16720_37._vergi_haftasi_etkinlikleri_kapsaminda_ciglide_bulunan_kompleks_hizmet_binamizda_calisan_personelimiz_ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16720_37._vergi_haftasi_etkinlikleri_kapsaminda_ciglide_bulunan_kompleks_hizmet_binamizda_calisan_personelimiz_ziyaret_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Güngör GÖNÜLTAŞ ve Beraberindeki Heyet Şanlıurfa 1.İdare Mahkemesi Başkanı Ali BOZDEMİR'i Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16645_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet_sanliurfa_1.idare_mahkemesi_baskani_ali_bozdemiri_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16645_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet_sanliurfa_1.idare_mahkemesi_baskani_ali_bozdemiri_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası etkinlikleri kapsamında Meslekte 35. Yılını Doldurmuş Personellerimize Teşekkür Belgesi verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16687_37._vergi_haftasi_etkinlikleri_kapsaminda_meslekte_35._yilini_doldurmus_personellerimize_tesekkur_belgesi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16687_37._vergi_haftasi_etkinlikleri_kapsaminda_meslekte_35._yilini_doldurmus_personellerimize_tesekkur_belgesi_verildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. VERGİ HAFTASI KAPSAMINDA SAYIN VALİMİZ ZİYARET EDİLMİŞTİR.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16675_37._vergi_haftasi_kapsaminda_sayin_valimiz_ziyaret_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16675_37._vergi_haftasi_kapsaminda_sayin_valimiz_ziyaret_edilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdar Vekilimiz Sayın Fatih POLAT, Kars Muhasebe Müdürümüz Ferhat GÜNDOĞDU ve Defterdarlık Personelinin Katılımıyla İlimiz Vali Yardımcısı Sayın Aydın GÖÇER' i Makamında Ziyaret Etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16696_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_aydin_gocer_i_makaminda_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16696_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_aydin_gocer_i_makaminda_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Kapsamında İlimiz Valisi Aydın BARUŞ ziyaret edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16642_37.vergi_haftasi_kapsaminda_ilimiz_valisi_aydin_barus_ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16642_37.vergi_haftasi_kapsaminda_ilimiz_valisi_aydin_barus_ziyaret_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Vergisi Matrahından İndirilecek Hayat Şahıs Sigorta Primleri Rehberi Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16630_gelir_vergisi_matrahindan_indirilecek_hayat_sahis_sigorta_primleri_rehberi_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16630_gelir_vergisi_matrahindan_indirilecek_hayat_sahis_sigorta_primleri_rehberi_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Necmettin Erbakan Üniversitesi'nde Konferans  düzenlendi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16640_37._vergi_haftasi_etkinlikleri_kapsaminda_necmettin_erbakan_universitesinde_konferans__duzenlendi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16640_37._vergi_haftasi_etkinlikleri_kapsaminda_necmettin_erbakan_universitesinde_konferans__duzenlendi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdar Vekilimiz Sayın Fatih POLAT, Kars Muhasebe Müdürümüz Ferhat GÜNDOĞDU ve Defterdarlık Personelinin Katılımıyla İlimiz Vali Yardımcısı Sayın Şeyma AKTAŞ SEMİZ' i Makamında Ziyaret Etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16694_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_seyma_aktas_semiz_i_makaminda_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16694_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_seyma_aktas_semiz_i_makaminda_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Kapsamında Çankırı Ziraat Odası'na Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16722_37._vergi_haftasi_kapsaminda_cankiri_ziraat_odasina_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16722_37._vergi_haftasi_kapsaminda_cankiri_ziraat_odasina_ziyaret.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Kapsamında Uşak Özdemirler İlkokulu Öğrencileri ve Öğretmenleri Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16585_37._vergi_haftasi_kapsaminda_usak_ozdemirler_ilkokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16585_37._vergi_haftasi_kapsaminda_usak_ozdemirler_ilkokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Okullarda Bilgilendirme Sunumları Yapıldı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16639_37._vergi_haftasi_etkinlikleri_kapsaminda_okullarda_bilgilendirme_sunumlari_yapildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16639_37._vergi_haftasi_etkinlikleri_kapsaminda_okullarda_bilgilendirme_sunumlari_yapildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Güngör GÖNÜLTAŞ ve Beraberindeki Heyet Şanlıurfa Vergi Mahkemesi Başkanı Mirzeydin ORUÇ'u Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16644_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet_sanliurfa_vergi_mahkemesi_baskani_mirzeydin_orucu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16644_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet_sanliurfa_vergi_mahkemesi_baskani_mirzeydin_orucu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çorum Defterdarı Sayın Erkan CİĞER ve Beraberindeki Heyet Tarafından Mükellef Ziyaretleri Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16657_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16657_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Grup Müdürü ve Merkez Birim Müdürlerimiz 37. Vergi Haftası etkinlikleri kapsamında, Muğla Şehit Aileleri Yardımlaşma ve Dayanışma Derneğini ziyaret ederek Vergi Haftalarını kutlamışlardır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16662_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_sehit_aileleri_yardimlasma_ve_dayanisma_dernegini_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16662_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_sehit_aileleri_yardimlasma_ve_dayanisma_dernegini_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. VERGİ HAFTASI KAPSAMINDA İL JANDARMA KOMUTANIMIZ ZİYARET EDİLMİŞTİR.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16671_37._vergi_haftasi_kapsaminda_il_jandarma_komutanimiz_ziyaret_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16671_37._vergi_haftasi_kapsaminda_il_jandarma_komutanimiz_ziyaret_edilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdar Vekilimiz Sayın Fatih POLAT, Kars Muhasebe Müdürümüz Ferhat GÜNDOĞDU ve Defterdarlık Personelinin Katılımıyla İlimiz Vali Yardımcısı Sayın Hayrettin Buğra GÜZEL' i Makamında Ziyaret Etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16690_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_hayrettin_bugra_guzel_i_makaminda_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16690_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_fatih_polat%2C_kars_muhasebe_mudurumuz_ferhat_gundogdu_ve_defterdarlik_personelinin_katilimiyla_ilimiz_vali_yardimcisi_sayin_hayrettin_bugra_guzel_i_makaminda_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Kapsamında Uşak Atatürk Ortaokulu Öğrencileri ve Öğretmenleri Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16581_37._vergi_haftasi_kapsaminda_usak_ataturk_ortaokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16581_37._vergi_haftasi_kapsaminda_usak_ataturk_ortaokulu_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında İl Jandarma Komutanlığına Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16693_37._vergi_haftasi_etkinlikleri_kapsaminda_il_jandarma_komutanligina_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16693_37._vergi_haftasi_etkinlikleri_kapsaminda_il_jandarma_komutanligina_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Mevzuatı Yönünden Bağış ve Yardımlar Rehberi Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16625_vergi_mevzuati_yonunden_bagis_ve_yardimlar_rehberi_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16625_vergi_mevzuati_yonunden_bagis_ve_yardimlar_rehberi_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Haftası Etkinleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16598_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16598_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16621_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16621_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri kapsamında konferans]]></title>
+            <title><![CDATA[Vergi Haftası Etkinlikleri Kapsamında Devrek Meslek Teknik Anadolu Lisesi Öğrencileri Defterdarlığımız Devrek Vergi Dairesi  Müdürlüğünü Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16600_37._vergi_haftasi_etkinlikleri_kapsaminda_konferans</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16600_37._vergi_haftasi_etkinlikleri_kapsaminda_konferans</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16624_vergi_haftasi_etkinlikleri_kapsaminda_devrek_meslek_teknik_anadolu_lisesi_ogrencileri_defterdarligimiz_devrek_vergi_dairesi__mudurlugunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16624_vergi_haftasi_etkinlikleri_kapsaminda_devrek_meslek_teknik_anadolu_lisesi_ogrencileri_defterdarligimiz_devrek_vergi_dairesi__mudurlugunu_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası münasebetiyle Belediye Başkanlığına ziyare]]></title>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çorum Defterdarı Sayın Erkan CİĞER ve Beraberindeki Heyet Tarafından Mükellef Ziyaretleri Gerçekleştirildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16580_37._vergi_haftasi_munasebetiyle_belediye_baskanligina_ziyare</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16580_37._vergi_haftasi_munasebetiyle_belediye_baskanligina_ziyare</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16655_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16655_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası münasebetiyle oda ziyareti…]]></title>
+            <title><![CDATA[Defterdarlığımız ve Denizli Çalışma ve İş Kurumu İl Müdürlüğü arasında İşgücü Uyum Programı (İUP) protokolü imzalandı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16579_37._vergi_haftasi_munasebetiyle_oda_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16579_37._vergi_haftasi_munasebetiyle_oda_ziyareti</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16718_defterdarligimiz_ve_denizli_calisma_ve_is_kurumu_il_mudurlugu_arasinda_isgucu_uyum_programi_iup_protokolu_imzalandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16718_defterdarligimiz_ve_denizli_calisma_ve_is_kurumu_il_mudurlugu_arasinda_isgucu_uyum_programi_iup_protokolu_imzalandi.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası kapsamında Defterdarımız Sayın Barış SÖNMEZ Adalet Komisyon Başkanlığını ziyaret etti.]]></title>
+            <title><![CDATA[37. Vergi Haftası Kapsamında Sultan Halil Yiğit Ticaret Mesleki ve Teknik Anadolu Lisesi Öğrencileri ve Öğretmenleri Defterdarlığımızı Ziyaret Etti]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16563_37._vergi_haftasi_kapsaminda_defterdarimiz_sayin_baris_sonmez_adalet_komisyon_baskanligini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16563_37._vergi_haftasi_kapsaminda_defterdarimiz_sayin_baris_sonmez_adalet_komisyon_baskanligini_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16578__37._vergi_haftasi_kapsaminda_sultan_halil_yigit_ticaret_mesleki_ve_teknik_anadolu_lisesi_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16578__37._vergi_haftasi_kapsaminda_sultan_halil_yigit_ticaret_mesleki_ve_teknik_anadolu_lisesi_ogrencileri_ve_ogretmenleri_defterdarligimizi_ziyaret_etti</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37.Vergi Haftası kapsamında İlimiz Atatürk Anıtına Çelenk Sunma Töreni Gerçekleştirildi.]]></title>
+            <title><![CDATA[37. VERGİ HAFTASI ETKİNLİKLERİ 26.02.2026]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16576_37.vergi_haftasi_kapsaminda_ilimiz_ataturk_anitina_celenk_sunma_toreni_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16576_37.vergi_haftasi_kapsaminda_ilimiz_ataturk_anitina_celenk_sunma_toreni_gerceklestirildi.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16637_37._vergi_haftasi_etkinlikleri_26.02.2026</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16637_37._vergi_haftasi_etkinlikleri_26.02.2026</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Türk Büro Sen Şube Başkanı Sayın Köksal TUNÇTÜRK; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <title><![CDATA[37. Vergi Haftası etkinlikleri kapsamında Malatya Ticaret ve Sanayi Odası ziyaret edildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16573_turk_buro_sen_sube_baskani_sayin_koksal_tuncturk%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16573_turk_buro_sen_sube_baskani_sayin_koksal_tuncturk%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16593_37._vergi_haftasi_etkinlikleri_kapsaminda_malatya_ticaret_ve_sanayi_odasi_ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16593_37._vergi_haftasi_etkinlikleri_kapsaminda_malatya_ticaret_ve_sanayi_odasi_ziyaret_edildi.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SGK İl Müdürü Sayın Bilal CANBOLAT’tan Defterdarımız Sayın Ahmet BALIKCI’ya Vergi Haftası Ziyareti]]></title>
+            <title><![CDATA[Vergi Haftası Etkinleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16577_sgk_il_muduru_sayin_bilal_canbolattan_defterdarimiz_sayin_ahmet_balikciya_vergi_haftasi_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16577_sgk_il_muduru_sayin_bilal_canbolattan_defterdarimiz_sayin_ahmet_balikciya_vergi_haftasi_ziyareti</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16620_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16620_vergi_haftasi_etkinleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası Ziyaretleri Kapsamında Eskişehir Organize Sanayi Bölgesi Başkanlığı Ziyaret Edildi.]]></title>
+            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Çorum Defterdarı Sayın Erkan CİĞER ve Beraberindeki Heyet Tarafından Mükellef Ziyaretleri Gerçekleştirildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16594_37._vergi_haftasi_ziyaretleri_kapsaminda_eskisehir_organize_sanayi_bolgesi_baskanligi_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16594_37._vergi_haftasi_ziyaretleri_kapsaminda_eskisehir_organize_sanayi_bolgesi_baskanligi_ziyaret_edildi.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16654_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16654_37._vergi_haftasi_etkinlikleri_kapsaminda_corum_defterdari_sayin_erkan_ciger_ve_beraberindeki_heyet_tarafindan_mukellef_ziyaretleri_gerceklestirildi.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Şırnak Defterdarı Sayın Hasan ÖZTAŞ ve Beraberindeki Heyet Şırnak Belediye Başkanı Sayın Mehmet YARKA'yı Makamında Ziyaret Etti.]]></title>
+            <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Grup Müdürü ve Merkez Birim Müdürlerimiz 37. Vergi Haftası etkinlikleri kapsamında, Muğla İl Milli Eğitim Müdürü Emre ÇAY'ı makamında ziyaret ederek Vergi Haftalarını kutlamışlardır.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16554_37._vergi_haftasi_etkinlikleri_kapsaminda_sirnak_defterdari_sayin_hasan_oztas_ve_beraberindeki_heyet_sirnak_belediye_baskani_sayin_mehmet_yarkayi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16554_37._vergi_haftasi_etkinlikleri_kapsaminda_sirnak_defterdari_sayin_hasan_oztas_ve_beraberindeki_heyet_sirnak_belediye_baskani_sayin_mehmet_yarkayi_makaminda_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16661_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_il_milli_egitim_muduru_emre_cayi_makaminda_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16661_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_il_milli_egitim_muduru_emre_cayi_makaminda_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Büro Memur Sen İl Başkanı Sayın Kamuran AŞKAR, Şube Başkanı Sayın Ramazan SEYREK; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Bucak V.D. Müdürü Sn. Harun KARA ve Burdur Vergi Dairesi Müdürü Mehmet YAĞCI ile birlikte Bucak Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Sn. Hasan Yalçın MEÇİKOĞLU’nu ziyaret etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16558_buro_memur_sen_il_baskani_sayin_kamuran_askar%2C_sube_baskani_sayin_ramazan_seyrek%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16558_buro_memur_sen_il_baskani_sayin_kamuran_askar%2C_sube_baskani_sayin_ramazan_seyrek%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16682_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ve_burdur_vergi_dairesi_muduru_mehmet_yagci_ile_birlikte_bucak_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sn._hasan_yalcin_mecikoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16682_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ve_burdur_vergi_dairesi_muduru_mehmet_yagci_ile_birlikte_bucak_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sn._hasan_yalcin_mecikoglunu_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Grup Müdürü ve Merkez Birim Müdürlerimiz 37. Vergi Haftası etkinlikleri kapsamında, Muğla Sosyal Güvenlik İl Müdürü Özkan ARSLAN'ı makamında ziyaret ederek Vergi Haftalarını kutlamışlardır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16571_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_sosyal_guvenlik_il_muduru_ozkan_arslani_makaminda_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16571_defterdarimiz_sayin_ilhan_akcay%2C_grup_muduru_ve_merkez_birim_mudurlerimiz_37._vergi_haftasi_etkinlikleri_kapsaminda%2C_mugla_sosyal_guvenlik_il_muduru_ozkan_arslani_makaminda_ziyaret_ederek_vergi_haftalarini_kutlamislardir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası dolayısıyla Defterdarımız İlhan KARAYILAN, Antalya İl Millî Eğitim Müdürü Mehmet Yasin ERİŞ'i ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16597_37._vergi_haftasi_dolayisiyla_defterdarimiz_ilhan_karayilan%2C_antalya_il_mill_egitim_muduru_mehmet_yasin_erisi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16597_37._vergi_haftasi_dolayisiyla_defterdarimiz_ilhan_karayilan%2C_antalya_il_mill_egitim_muduru_mehmet_yasin_erisi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zirai Kazanç Elde Eden Mükellefler İçin Vergi Rehberi Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16550_zirai_kazanc_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16550_zirai_kazanc_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Kapsamında Çankırı Esnaf ve Sanatkarlar Odası Birliği'ne Ziyaret.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16548__37._vergi_haftasi_kapsaminda_cankiri_esnaf_ve_sanatkarlar_odasi_birligine_ziyaret.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16548__37._vergi_haftasi_kapsaminda_cankiri_esnaf_ve_sanatkarlar_odasi_birligine_ziyaret.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Sayın Hülya YELİMLİEŞ, Karabük Serbest Muhasebeci ve Mali Müşavirler Odası Başkanı Sayın Uğur DEMİR ve Yönetim Kurulu'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16536_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_karabuk_serbest_muhasebeci_ve_mali_musavirler_odasi_baskani_sayin_ugur_demir_ve_yonetim_kurulunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16536_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_karabuk_serbest_muhasebeci_ve_mali_musavirler_odasi_baskani_sayin_ugur_demir_ve_yonetim_kurulunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası etkinlikleri kapsamında Karabük Toki Cevizkent Bahattingazi Ortaokulu öğrencileri Defterdarlığımızı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16537_vergi_haftasi_etkinlikleri_kapsaminda_karabuk_toki_cevizkent_bahattingazi_ortaokulu_ogrencileri_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16537_vergi_haftasi_etkinlikleri_kapsaminda_karabuk_toki_cevizkent_bahattingazi_ortaokulu_ogrencileri_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası etkinlikleri kapsamında Defterdarımız Sayın Hülya YELİMLİEŞ, Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Sayın Fatih ÇAPRAZ'ıZiyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16533_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sayin_fatih_capraziziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16533_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sayin_fatih_capraziziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası etkinlikleri kapsamında Defterdarımız Sayın Hülya YELİMLİEŞ, Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sayın Hüseyin KILIÇ'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16531_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_huseyin_kilici_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16531_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_huseyin_kilici_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazır Beyan Sistemi Broşürü Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16534_hazir_beyan_sistemi_brosuru_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16534_hazir_beyan_sistemi_brosuru_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Şırnak Defterdarı Sayın Hasan ÖZTAŞ ve Beraberindeki Heyet Şırnak Valisi Sayın Birol EKİCİ'yi Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16528_37._vergi_haftasi_etkinlikleri_kapsaminda_sirnak_defterdari_sayin_hasan_oztas_ve_beraberindeki_heyet_sirnak_valisi_sayin_birol_ekiciyi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16528_37._vergi_haftasi_etkinlikleri_kapsaminda_sirnak_defterdari_sayin_hasan_oztas_ve_beraberindeki_heyet_sirnak_valisi_sayin_birol_ekiciyi_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası etkinlikleri kapsamında Defterdarımız Sayın Hülya YELİMLİEŞ, Esnaf ve Sanatkarlar Odası Başkanı Sayın Yıldıray YILDIRIM'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16529_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_esnaf_ve_sanatkarlar_odasi_baskani_sayin_yildiray_yildirimi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16529_vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_hulya_yelimlies%2C_esnaf_ve_sanatkarlar_odasi_baskani_sayin_yildiray_yildirimi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Adana Ticaret Odası Ziyaret Edildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16556_37._vergi_haftasi_etkinlikleri_kapsaminda_adana_ticaret_odasi_ziyaret_edildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16556_37._vergi_haftasi_etkinlikleri_kapsaminda_adana_ticaret_odasi_ziyaret_edildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Beden Dili ve Motivasyon Sunumu Konferans Salonumuzda Gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16565_37._vergi_haftasi_etkinlikleri_kapsaminda_beden_dili_ve_motivasyon_sunumu_konferans_salonumuzda_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16565_37._vergi_haftasi_etkinlikleri_kapsaminda_beden_dili_ve_motivasyon_sunumu_konferans_salonumuzda_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Güngör GÖNÜLTAŞ ve Beraberindeki Heyet, MÜSİAD Şanlıurfa Şube Başkanı Salih DEMİRKOL'u Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16595_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet%2C_musiad_sanliurfa_sube_baskani_salih_demirkolu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16595_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_gungor_gonultas_ve_beraberindeki_heyet%2C_musiad_sanliurfa_sube_baskani_salih_demirkolu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası münasebetiyle Defterdarımız İlhan KARAYILAN Grup Müdürleri ve Müdürümüzün katılımıyla oluşturulan heyetle birlikte Vergi Denetim Kurulu Antalya Denetim Daire Başkanı Emre GÖK'ü ziyarette bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16596_37.vergi_haftasi_munasebetiyle_defterdarimiz_ilhan_karayilan_grup_mudurleri_ve_mudurumuzun_katilimiyla_olusturulan_heyetle_birlikte_vergi_denetim_kurulu_antalya_denetim_daire_baskani_emre_goku_ziyarette_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16596_37.vergi_haftasi_munasebetiyle_defterdarimiz_ilhan_karayilan_grup_mudurleri_ve_mudurumuzun_katilimiyla_olusturulan_heyetle_birlikte_vergi_denetim_kurulu_antalya_denetim_daire_baskani_emre_goku_ziyarette_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında İzmir Yeminli Mali Müşavirler Odası Ziyaret Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16606_37._vergi_haftasi_etkinlikleri_kapsaminda_izmir_yeminli_mali_musavirler_odasi_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16606_37._vergi_haftasi_etkinlikleri_kapsaminda_izmir_yeminli_mali_musavirler_odasi_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası (23 Şubat - 1 Mart) kapsamında Hazine ve Maliye Bakanlığı konferans salonunda Vergi Haftası Açılış Programı düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16515_37.vergi_haftasi_23_subat__1_mart_kapsaminda_hazine_ve_maliye_bakanligi_konferans_salonunda_vergi_haftasi_acilis_programi_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16515_37.vergi_haftasi_23_subat__1_mart_kapsaminda_hazine_ve_maliye_bakanligi_konferans_salonunda_vergi_haftasi_acilis_programi_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Konya Sanayi Odası Ziyaret Edildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16519_37._vergi_haftasi_etkinlikleri_kapsaminda_konya_sanayi_odasi_ziyaret_edildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16519_37._vergi_haftasi_etkinlikleri_kapsaminda_konya_sanayi_odasi_ziyaret_edildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. VERGİ HAFTASI KAPSAMINDA AĞRI TİCARET BORSASINA ZİYARET]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16559_37._vergi_haftasi_kapsaminda_agri_ticaret_borsasina_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16559_37._vergi_haftasi_kapsaminda_agri_ticaret_borsasina_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KURUMLAR VERGİSİ REKORTMENİ AKSA DOĞALGAZ’A TEŞEKKÜR BELGESİ TAKDİMİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16562_kurumlar_vergisi_rekortmeni_aksa_dogalgaza_tesekkur_belgesi_takdimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16562_kurumlar_vergisi_rekortmeni_aksa_dogalgaza_tesekkur_belgesi_takdimi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KURUMLAR VERGİSİ REKORTMENİ ATMACA İNŞAAT’A TEŞEKKÜR BELGESİ TAKDİMİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16564_kurumlar_vergisi_rekortmeni_atmaca_insaata_tesekkur_belgesi_takdimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16564_kurumlar_vergisi_rekortmeni_atmaca_insaata_tesekkur_belgesi_takdimi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[(Büro Memur-Sen) Büro Memurları Sendikası Antalya 1 No'lu Şube Başkanı Ünal HiSARKAYA ve Şube Yönetimi Vergi Haftası münasebetiyle Defterdarımız İlhan KARAYILAN'a ziyarette bulundular.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16591_buro_memursen_buro_memurlari_sendikasi_antalya_1_nolu_sube_baskani_unal_hisarkaya_ve_sube_yonetimi_vergi_haftasi_munasebetiyle_defterdarimiz_ilhan_karayilana_ziyarette_bulundular.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16591_buro_memursen_buro_memurlari_sendikasi_antalya_1_nolu_sube_baskani_unal_hisarkaya_ve_sube_yonetimi_vergi_haftasi_munasebetiyle_defterdarimiz_ilhan_karayilana_ziyarette_bulundular.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mahmut Baltalı ve Ekibine Teşekkür Ederiz]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16502_mahmut_baltali_ve_ekibine_tesekkur_ederiz</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16502_mahmut_baltali_ve_ekibine_tesekkur_ederiz</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kariyer Büro Sendikası İl Temsilcisi Sayın Hidayet YILDIRIM; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16498_kariyer_buro_sendikasi_il_temsilcisi_sayin_hidayet_yildirim%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16498_kariyer_buro_sendikasi_il_temsilcisi_sayin_hidayet_yildirim%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serbest Meslek Kazancı Elde Eden Mükellefler İçin Vergi Rehberi Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16477_serbest_meslek_kazanci_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16477_serbest_meslek_kazanci_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zonguldak Cumhuriyet Başsavcısı Sayın Gökhan KAPAĞAN ve Vergi Mahkemesi Başkanı Sayın Mehmet Fatih DEMİRSOY; Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16496_zonguldak_cumhuriyet_bassavcisi_sayin_gokhan_kapagan_ve_vergi_mahkemesi_baskani_sayin_mehmet_fatih_demirsoy%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16496_zonguldak_cumhuriyet_bassavcisi_sayin_gokhan_kapagan_ve_vergi_mahkemesi_baskani_sayin_mehmet_fatih_demirsoy%3B_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası kapsamında Sayın Valimiz Muammer EROL'a ziyaret gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16490_37.vergi_haftasi_kapsaminda_sayin_valimiz_muammer_erola_ziyaret_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16490_37.vergi_haftasi_kapsaminda_sayin_valimiz_muammer_erola_ziyaret_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Kapsamında Diş Hekimleri Odası Başkanı Sayın Ayşe Özgül SARICA Defterdarlığımızı Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16513_37._vergi_haftasi_kapsaminda_dis_hekimleri_odasi_baskani_sayin_ayse_ozgul_sarica_defterdarligimizi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16513_37._vergi_haftasi_kapsaminda_dis_hekimleri_odasi_baskani_sayin_ayse_ozgul_sarica_defterdarligimizi_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Şırnak Defterdarı Sayın Hasan ÖZTAŞ’ın Atatürk Anıtı’na Çelenk Koyması İle Başladı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16482_37._vergi_haftasi_etkinlikleri_sirnak_defterdari_sayin_hasan_oztasin_ataturk_anitina_celenk_koymasi_ile_basladi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16482_37._vergi_haftasi_etkinlikleri_sirnak_defterdari_sayin_hasan_oztasin_ataturk_anitina_celenk_koymasi_ile_basladi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası ( 23 Şubat - 1 Mart ) Etkinlikleri Defterdarımız Sayın Rıza Bilgiç ve beraberindeki heyetin Taksim Cumhuriyet Anıtına çelenk koyma törenleri ile başlamıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16486_37.vergi_haftasi__23_subat__1_mart__etkinlikleri_defterdarimiz_sayin_riza_bilgic_ve_beraberindeki_heyetin_taksim_cumhuriyet_anitina_celenk_koyma_torenleri_ile_baslamistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16486_37.vergi_haftasi__23_subat__1_mart__etkinlikleri_defterdarimiz_sayin_riza_bilgic_ve_beraberindeki_heyetin_taksim_cumhuriyet_anitina_celenk_koyma_torenleri_ile_baslamistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında, Şanlıurfa Fen Lisesine  Gidilerek Defterdarlığımız Personeli Tarafından Vergi Bilinci Eğitimi Verildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16511_37.vergi_haftasi_etkinlikleri_kapsaminda%2C_sanliurfa_fen_lisesine__gidilerek_defterdarligimiz_personeli_tarafindan_vergi_bilinci_egitimi_verildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16511_37.vergi_haftasi_etkinlikleri_kapsaminda%2C_sanliurfa_fen_lisesine__gidilerek_defterdarligimiz_personeli_tarafindan_vergi_bilinci_egitimi_verildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Ziyaretleri Kapsamında Eskişehir Esnaf ve Sanatkarlar Odaları Birliği Ziyaret Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16568_37._vergi_haftasi_ziyaretleri_kapsaminda_eskisehir_esnaf_ve_sanatkarlar_odalari_birligi_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16568_37._vergi_haftasi_ziyaretleri_kapsaminda_eskisehir_esnaf_ve_sanatkarlar_odalari_birligi_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kira Geliri Elde Eden Mükellefler İçin Vergi Rehberi Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16467_kira_geliri_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16467_kira_geliri_elde_eden_mukellefler_icin_vergi_rehberi_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası Kapsamında Ziyaretler]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16465_vergi_haftasi_kapsaminda_ziyaretler</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16465_vergi_haftasi_kapsaminda_ziyaretler</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Balıkesir Sanayi Odası Ziyaret Edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16569_37._vergi_haftasi_etkinlikleri_kapsaminda_balikesir_sanayi_odasi_ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16569_37._vergi_haftasi_etkinlikleri_kapsaminda_balikesir_sanayi_odasi_ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızdan Uşak Üniversitesi’nde "Kariyer Meslekler ve Vergi Bilinci" Konferansı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16506_defterdarligimizdan_usak_universitesinde_kariyer_meslekler_ve_vergi_bilinci_konferansi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16506_defterdarligimizdan_usak_universitesinde_kariyer_meslekler_ve_vergi_bilinci_konferansi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

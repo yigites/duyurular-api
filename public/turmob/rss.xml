@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 06:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 06:19:57 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[“AFETTE KADIN” Etkinlik Programı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/731edd7e-d2e0-4274-bc2e-d1efbb80a9c8/-afette-kadin--etkinlik-programi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/731edd7e-d2e0-4274-bc2e-d1efbb80a9c8/-afette-kadin--etkinlik-programi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KGK Kurumsal Sürdürülebilirlik Raporlama Uzmanlığı Eğitimi]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -22,14 +30,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/4a029e53-e079-49aa-951a-1f19fd1ccfbc/mali-musavirlik-meslegi-ve-ekonomiye-iliskin-notlar</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TÜRMOB ve Hatay SMMM Odası iş birliğiyle düzenlenen “AFETTE KADIN” Etkinlik Programı]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/e8b3b7c3-a700-4c59-b9e9-6e6c52386457/turmob-ve-hatay-smmm-odasi-is-birligiyle-duzenlenen--afette-kadin--etkinlik-programi</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e8b3b7c3-a700-4c59-b9e9-6e6c52386457/turmob-ve-hatay-smmm-odasi-is-birligiyle-duzenlenen--afette-kadin--etkinlik-programi</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ekonomik gelişmeler ve mesleki gündeme ilişkin değerlendirmeler]]></title>
