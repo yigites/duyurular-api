@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 06:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 06:17:09 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Gelir Vergisi Webinar - 04 Mart 2026 Çarşamba]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/444a6468-f9e8-4621-88fa-7d433accf744/gelir-vergisi-webinar---04-mart-2026-carsamba</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/444a6468-f9e8-4621-88fa-7d433accf744/gelir-vergisi-webinar---04-mart-2026-carsamba</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“AFETTE KADIN” Etkinlik Programı]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e1e5b39d-f3a0-4d55-b5e0-ae62d03fb2e1/deprem-bolgesinde-devam-eden-magduriyetler</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Güncel Değişiklik Kapsamında İndirimli Kurumlar Vergisi Uygulaması | WEBINAR, 3 Şubat 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/3b25de3e-783b-417b-9eeb-57a149e96732/guncel-degisiklik-kapsaminda-indirimli-kurumlar-vergisi-uygulamasi---webinar--3-subat-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/3b25de3e-783b-417b-9eeb-57a149e96732/guncel-degisiklik-kapsaminda-indirimli-kurumlar-vergisi-uygulamasi---webinar--3-subat-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

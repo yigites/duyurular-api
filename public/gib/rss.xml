@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 06:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 06:17:06 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Takvim Yılı Gelir Vergisi Beyan Dönemi Başladı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16875_2025_takvim_yili_gelir_vergisi_beyan_donemi_basladi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16875_2025_takvim_yili_gelir_vergisi_beyan_donemi_basladi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Atakaş Hatayspor – Sipay Bodrum FK Müsabakasında Futbolcular Sahaya “ Geleceğin Garantisi Vergilerinizdir , Vergi Haftası Kutlu Olsun ’’ Yazılı Branda İle Çıktılar.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16876_37.vergi_haftasi_etkinlikleri_kapsaminda_atakas_hatayspor__sipay_bodrum_fk_musabakasinda_futbolcular_sahaya__gelecegin_garantisi_vergilerinizdir_%2C_vergi_haftasi_kutlu_olsun__yazili_branda_ile_ciktilar.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16876_37.vergi_haftasi_etkinlikleri_kapsaminda_atakas_hatayspor__sipay_bodrum_fk_musabakasinda_futbolcular_sahaya__gelecegin_garantisi_vergilerinizdir_%2C_vergi_haftasi_kutlu_olsun__yazili_branda_ile_ciktilar.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[37. Vergi Haftası Adalet Komisyonu Başkanlığı Ziyareti]]></title>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16744_37._vergi_haftasi_kapsaminda_kurumici_ziyaretleri</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16744_37._vergi_haftasi_kapsaminda_kurumici_ziyaretleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında  Niğde Belediye Başkanı Sayın  Emrah ÖZDEMİR ziyaret edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16748_37.vergi_haftasi_etkinlikleri_kapsaminda__nigde_belediye_baskani_sayin__emrah_ozdemir_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16748_37.vergi_haftasi_etkinlikleri_kapsaminda__nigde_belediye_baskani_sayin__emrah_ozdemir_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri kapsamında Şehit Aileleri ve Gaziler Derneği ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16749_37._vergi_haftasi_etkinlikleri_kapsaminda_sehit_aileleri_ve_gaziler_dernegi_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16749_37._vergi_haftasi_etkinlikleri_kapsaminda_sehit_aileleri_ve_gaziler_dernegi_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
         </item>
