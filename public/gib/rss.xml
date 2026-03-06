@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 06:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 06:17:00 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,102 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Daireleri Sistemlerinde Yapılacak Planlı Bakım Çalışması Duyurusu]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17243_vergi_daireleri_sistemlerinde_yapilacak_planli_bakim_calismasi_duyurusu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17243_vergi_daireleri_sistemlerinde_yapilacak_planli_bakim_calismasi_duyurusu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Haftası Etkinlikleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17238_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17238_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şehit Korhan Kuruçay Ticaret ve Teknik Anadolu Lisesi Öğretmen ve Öğrencilerinden Defterdarlığımıza Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17246_sehit_korhan_kurucay_ticaret_ve_teknik_anadolu_lisesi_ogretmen_ve_ogrencilerinden_defterdarligimiza_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17246_sehit_korhan_kurucay_ticaret_ve_teknik_anadolu_lisesi_ogretmen_ve_ogrencilerinden_defterdarligimiza_ziyaret.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız ile  Çalışma  İş Kurumu İl Müdürlüğü arasında yapılan protokol gereği İşgücü Uyum Programı (İUP) kapsamında mülakat sonuçları açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17230_defterdarligimiz_ile__calisma__is_kurumu_il_mudurlugu_arasinda_yapilan_protokol_geregi_isgucu_uyum_programi_iup_kapsaminda_mulakat_sonuclari_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17230_defterdarligimiz_ile__calisma__is_kurumu_il_mudurlugu_arasinda_yapilan_protokol_geregi_isgucu_uyum_programi_iup_kapsaminda_mulakat_sonuclari_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eczacılar Odası Başkanı Sayın Erol AFACAN ve Beraberindeki Heyet Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17244_eczacilar_odasi_baskani_sayin_erol_afacan_ve_beraberindeki_heyet_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17244_eczacilar_odasi_baskani_sayin_erol_afacan_ve_beraberindeki_heyet_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17225_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17225_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erenler Kurtuluş Orta Okulunda Vergi Bilinci Eğitimi Verildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17237_erenler_kurtulus_orta_okulunda_vergi_bilinci_egitimi_verildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17237_erenler_kurtulus_orta_okulunda_vergi_bilinci_egitimi_verildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[37. Vergi Haftası Münasebetiyle,  Gazi Piyade Er Sayın Cemal Tüter'e Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17245_37._vergi_haftasi_munasebetiyle%2C__gazi_piyade_er_sayin_cemal_tutere_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17245_37._vergi_haftasi_munasebetiyle%2C__gazi_piyade_er_sayin_cemal_tutere_ziyaret.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Damal Belediye Başkanı Kemal ÇAMLİYURT Defterdarımız Sayın Barış SÖNMEZ'i makamında ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17076_damal_belediye_baskani_kemal_camliyurt_defterdarimiz_sayin_baris_sonmezi_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17076_damal_belediye_baskani_kemal_camliyurt_defterdarimiz_sayin_baris_sonmezi_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mehmet Demir İlköğretim Okulunda Vergi Bilinci Eğitimi Verildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17236_mehmet_demir_ilkogretim_okulunda_vergi_bilinci_egitimi_verildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17236_mehmet_demir_ilkogretim_okulunda_vergi_bilinci_egitimi_verildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarliğmız Birim Amirleri Toplantısı Yapıldı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17214_defterdarligmiz_birim_amirleri_toplantisi_yapildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17214_defterdarligmiz_birim_amirleri_toplantisi_yapildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kilis Valisi Sayın Ömer KALAYLI  Defterdarlığımızı ziyarette bulundular. İlimiz vergi gelirleri ve kamu harcamaları ile Defterdarlığımız faaliyetleri hakkında brifing aldılar.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17226_kilis_valisi_sayin_omer_kalayli__defterdarligimizi_ziyarette_bulundular._ilimiz_vergi_gelirleri_ve_kamu_harcamalari_ile_defterdarligimiz_faaliyetleri_hakkinda_brifing_aldilar.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17226_kilis_valisi_sayin_omer_kalayli__defterdarligimizi_ziyarette_bulundular._ilimiz_vergi_gelirleri_ve_kamu_harcamalari_ile_defterdarligimiz_faaliyetleri_hakkinda_brifing_aldilar.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Haftası etkinlikleri kapsamında Defterdarımız Sayın Hülya YELİMLİEŞ ile Birim Amirlerimiz; Yenice Vergi Dairesi Müdürlüğünü ziyaret ederek personelin Vergi Haftasını kutladı.]]></title>
@@ -32,12 +128,28 @@
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Türkiye Harp Malulü Gaziler, Şehit Dul ve Yetimleri Derneği Kütahya Şubesine Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17210_turkiye_harp_malulu_gaziler%2C_sehit_dul_ve_yetimleri_dernegi_kutahya_subesine_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17210_turkiye_harp_malulu_gaziler%2C_sehit_dul_ve_yetimleri_dernegi_kutahya_subesine_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17204_10995_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17204_10995_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Maliye Yöneticileri Sendikası'nın Düzenlediği İftar Yemeğine Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17234_defterdarimiz_sn._cemil_musevitoglu_maliye_yoneticileri_sendikasinin_duzenledigi_iftar_yemegine_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17234_defterdarimiz_sn._cemil_musevitoglu_maliye_yoneticileri_sendikasinin_duzenledigi_iftar_yemegine_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gelir Vergisi Beyan Döneminde Bilgilendirici Kamu Spotu ve Video İçerikleri Yayınlandı]]></title>
@@ -52,6 +164,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17190_37._vergi_haftasi_kapsaminda_mukellef_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17190_37._vergi_haftasi_kapsaminda_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rize Defterdarlığı İftar Programı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17215_rize_defterdarligi_iftar_programi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17215_rize_defterdarligi_iftar_programi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
@@ -192,10 +312,10 @@
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sakarya Serbest Muhasebeci Mali Müşavirler Odası Başkanı Erdinç ATALAY ve Beraberindeki Heyet, Muhasebe Haftası DolayısıylaDefterdarımız Sayın Ayhan YAMAN'ı Ziyaret Etti]]></title>
+            <title><![CDATA[Bütünleşik Kamu Mali Yönetim Bilişim Sisteminin Mahalli İdarelerde Yaygınlaştırılması]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17155_sakarya_serbest_muhasebeci_mali_musavirler_odasi_baskani_erdinc_atalay_ve_beraberindeki_heyet%2C_muhasebe_haftasi_dolayisiyladefterdarimiz_sayin_ayhan_yamani_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17155_sakarya_serbest_muhasebeci_mali_musavirler_odasi_baskani_erdinc_atalay_ve_beraberindeki_heyet%2C_muhasebe_haftasi_dolayisiyladefterdarimiz_sayin_ayhan_yamani_ziyaret_etti</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17211_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasi_</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17211_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasi_</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
@@ -280,132 +400,12 @@
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[37. Vergi Haftası Münasebetiyle, Personelimiz Gazi Jandarma Uzman Çavuş Sayın Mustafa Aykut Durkanık'a Ziyaret.]]></title>
+            <title><![CDATA[Meslekte 35 yılını doldurmuş personelimize Teşekkür Belgesi Taktimi]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17126__37._vergi_haftasi_munasebetiyle%2C_personelimiz_gazi_jandarma_uzman_cavus_sayin_mustafa_aykut_durkanika_ziyaret.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17126__37._vergi_haftasi_munasebetiyle%2C_personelimiz_gazi_jandarma_uzman_cavus_sayin_mustafa_aykut_durkanika_ziyaret.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17227_meslekte_35_yilini_doldurmus_personelimize_tesekkur_belgesi_taktimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17227_meslekte_35_yilini_doldurmus_personelimize_tesekkur_belgesi_taktimi</guid>
             <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37.Vergi Haftası Etkinlikleri Kapsamında Defterdar Vekilimiz Sayın Barış SÖNMEZ, Birim Müdürlerimiz Katılımıyla Ardahan Serbest Muhasebeci Mali Müşavirler Odası' nı Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17073_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_baris_sonmez%2C_birim_mudurlerimiz_katilimiyla_ardahan_serbest_muhasebeci_mali_musavirler_odasi_ni_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17073_37.vergi_haftasi_etkinlikleri_kapsaminda_defterdar_vekilimiz_sayin_baris_sonmez%2C_birim_mudurlerimiz_katilimiyla_ardahan_serbest_muhasebeci_mali_musavirler_odasi_ni_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. YIL VERGİ HAFTASI KUTLANIYOR (23 ŞUBAT- 1 MART 2026)]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16837_37._yil_vergi_haftasi_kutlaniyor_23_subat_1_mart_2026</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16837_37._yil_vergi_haftasi_kutlaniyor_23_subat_1_mart_2026</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir Uzman Yardımcılığı Giriş Sınavında Başarılı Olarak Atanmaya Hak Kazanan Adaylara İlişkin Duyuru]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17092_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olarak_atanmaya_hak_kazanan_adaylara_iliskin_duyuru</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17092_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olarak_atanmaya_hak_kazanan_adaylara_iliskin_duyuru</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İskenderun Serbest Muhasebeci Mali Müşavirler Odası Başkanı Sn. İbrahim KAYNAR ve Yönetim Kurulu Üyeleri, Muhasebe Haftası Nedeniyle Defterdarımız Sn. Ahmet ÇELİK’i Ziyaret Ettiler]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17110_iskenderun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sn._ibrahim_kaynar_ve_yonetim_kurulu_uyeleri%2C_muhasebe_haftasi_nedeniyle_defterdarimiz_sn._ahmet_celiki_ziyaret_ettiler</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17110_iskenderun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sn._ibrahim_kaynar_ve_yonetim_kurulu_uyeleri%2C_muhasebe_haftasi_nedeniyle_defterdarimiz_sn._ahmet_celiki_ziyaret_ettiler</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsun Serbest Muhasebeci Mali Müşavirler Odası Başkanı Sayın Osman ARSLAN ve Yönetim Kurulu Üyeleri, Muhasebeciler Haftası Etkinlikleri Kapsamında Defterdarımız Sayın Halil İbrahim TEMİZ'i Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17144_samsun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_osman_arslan_ve_yonetim_kurulu_uyeleri%2C_muhasebeciler_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_halil_ibrahim_temizi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17144_samsun_serbest_muhasebeci_mali_musavirler_odasi_baskani_sayin_osman_arslan_ve_yonetim_kurulu_uyeleri%2C_muhasebeciler_haftasi_etkinlikleri_kapsaminda_defterdarimiz_sayin_halil_ibrahim_temizi_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1-7 MART MUHASEBE HAFTASI DOLAYISIYLA DEFTERDARLIĞIMIZA ZİYARET]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17166_17_mart_muhasebe_haftasi_dolayisiyla_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17166_17_mart_muhasebe_haftasi_dolayisiyla_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GELİR  VERGİSİ REKORTMENİ SAYIN KENAN DAŞDEMİR’E  TEŞEKKÜR BELGESİ TAKDİM EDİLMİŞTİR]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17167_gelir__vergisi_rekortmeni_sayin_kenan_dasdemire__tesekkur_belgesi_takdim_edilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17167_gelir__vergisi_rekortmeni_sayin_kenan_dasdemire__tesekkur_belgesi_takdim_edilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası dolayısıyla Sayın Defterdarımız Doğan ADIGÜZEL ve beraberindeki heyet, Kırklareli Vali Yardımcımız Sayın Dr. Yusuf GÜLER'i  makamında ziyaret etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17074_37._vergi_haftasi_dolayisiyla_sayin_defterdarimiz_dogan_adiguzel_ve_beraberindeki_heyet%2C_kirklareli_vali_yardimcimiz_sayin_dr._yusuf_guleri__makaminda_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17074_37._vergi_haftasi_dolayisiyla_sayin_defterdarimiz_dogan_adiguzel_ve_beraberindeki_heyet%2C_kirklareli_vali_yardimcimiz_sayin_dr._yusuf_guleri__makaminda_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ESMMM Odası Yönetim Kurulu 1-7 Mart Muhasebeciler Haftası Nedeniyle Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17078_esmmm_odasi_yonetim_kurulu_17_mart_muhasebeciler_haftasi_nedeniyle_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17078_esmmm_odasi_yonetim_kurulu_17_mart_muhasebeciler_haftasi_nedeniyle_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası kapsamında Malatya SMMMO Yönetimi Defterdarlığımızı ziyaret ettiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17089_37._vergi_haftasi_kapsaminda_malatya_smmmo_yonetimi_defterdarligimizi_ziyaret_ettiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17089_37._vergi_haftasi_kapsaminda_malatya_smmmo_yonetimi_defterdarligimizi_ziyaret_ettiler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GELİR  VERGİSİ REKORTMENİ SAYIN SELMA BAYDAR'A  TEŞEKKÜR BELGESİ TAKDİM EDİLMİŞTİR]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17168_gelir__vergisi_rekortmeni_sayin_selma_baydara__tesekkur_belgesi_takdim_edilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17168_gelir__vergisi_rekortmeni_sayin_selma_baydara__tesekkur_belgesi_takdim_edilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası Etkinlikleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17097_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17097_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Haftası Etkinlikleri Kapsamında Vergi Bilinci Eğitimi Yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17096_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17096_vergi_haftasi_etkinlikleri_kapsaminda_vergi_bilinci_egitimi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["1-7 Mart Muhasebeciler Haftası" Münasebetiyle Serbest Muhasebeciler ve Mali Müşavirler Odası Başkanı Sayın Aykut ÖZBEK ve Beraberindeki Heyet Defterdarımız Sayın Selahattin ATABEK'i Makamında Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17057_17_mart_muhasebeciler_haftasi_munasebetiyle_serbest_muhasebeciler_ve_mali_musavirler_odasi_baskani_sayin_aykut_ozbek_ve_beraberindeki_heyet_defterdarimiz_sayin_selahattin_atabeki_makaminda_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17057_17_mart_muhasebeciler_haftasi_munasebetiyle_serbest_muhasebeciler_ve_mali_musavirler_odasi_baskani_sayin_aykut_ozbek_ve_beraberindeki_heyet_defterdarimiz_sayin_selahattin_atabeki_makaminda_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası kapsamında Van İl Jandarma Komutanlığı ziyaret edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17171_37._vergi_haftasi_kapsaminda_van_il_jandarma_komutanligi_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17171_37._vergi_haftasi_kapsaminda_van_il_jandarma_komutanligi_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
