@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 06:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 06:19:05 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ULUSAL COĞRAFİ BİLGİ PLATFORMU TANITIMI]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17334_ulusal_cografi_bilgi_platformu_tanitimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17334_ulusal_cografi_bilgi_platformu_tanitimi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17333_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17333_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mentörlük Programı Kapsamında İlk Toplantımızı Gerçekleştirdik.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17332_mentorluk_programi_kapsaminda_ilk_toplantimizi_gerceklestirdik.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17332_mentorluk_programi_kapsaminda_ilk_toplantimizi_gerceklestirdik.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ulusal Coğrafi Bilgi Platformu kullanıma açıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17328_ulusal_cografi_bilgi_platformu_kullanima_acildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17328_ulusal_cografi_bilgi_platformu_kullanima_acildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımızdan Görevinden Ayrılan Personele Teşekkür Belgesi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17327_defterdarimizdan_gorevinden_ayrilan_personele_tesekkur_belgesi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17327_defterdarimizdan_gorevinden_ayrilan_personele_tesekkur_belgesi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11 Mart 2026 Çarşamba günü Defterdarlığımız Merkez Binasında İftar Programı düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17330_11_mart_2026_carsamba_gunu_defterdarligimiz_merkez_binasinda_iftar_programi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17330_11_mart_2026_carsamba_gunu_defterdarligimiz_merkez_binasinda_iftar_programi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Çukurova Belediye Başkanı Sayın Emrah KOZAY'dan Defterdarımız Sayın Ahmet BALIKCI'ya Makamında Ziyaret.]]></title>
@@ -88,10 +136,34 @@
             <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hitit Üniversitesi Maliye Kulübü tarafından Vergi Haftası Kapsamında '' Vergi Bilinci ve Gönüllü Uyum Perspektifi'' Paneli Düzenlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17329_hitit_universitesi_maliye_kulubu_tarafindan_vergi_haftasi_kapsaminda__vergi_bilinci_ve_gonullu_uyum_perspektifi_paneli_duzenlenmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17329_hitit_universitesi_maliye_kulubu_tarafindan_vergi_haftasi_kapsaminda__vergi_bilinci_ve_gonullu_uyum_perspektifi_paneli_duzenlenmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deredolu ve Söğütlü Belediyelerine Ziyaret]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17313_deredolu_ve_sogutlu_belediyelerine_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17313_deredolu_ve_sogutlu_belediyelerine_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hakkari Yeşilay' dan Defterdarlığımıza ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17324_hakkari_yesilay_dan_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17324_hakkari_yesilay_dan_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SDÜ'de  Vergi Haftası kapsamında Anlamlı Buluşma]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17326_sdude__vergi_haftasi_kapsaminda_anlamli_bulusma</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17326_sdude__vergi_haftasi_kapsaminda_anlamli_bulusma</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
         </item>
@@ -224,10 +296,26 @@
             <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vergi Rekortmeni Mükelleflerimize ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17325_vergi_rekortmeni_mukelleflerimize_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17325_vergi_rekortmeni_mukelleflerimize_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17280_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17280_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denizli Barosundan Defterdarlığımıza Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17331_denizli_barosundan_defterdarligimiza_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17331_denizli_barosundan_defterdarligimiza_ziyaret.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
         </item>
@@ -318,94 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17297_defterdarligimizda_bagimlilikla_mucadele_konulu_seminer_duzenlenmistir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mükellef ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17299_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17299_mukellef_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız denetim ekiplerince gerçekleştirilen yaygın ve yoğun vergi denetimlerinde görevli personelimiz çalışma alanlarında Çorum Defterdarı Sayın Erkan CİĞER tarafından denetlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17274_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17274_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kira Geliri Elde Eden Mükelleflerimiz İçin AHL Park AVM’de Beyanname Kabul Masaları Açıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17273_kira_geliri_elde_eden_mukelleflerimiz_icin_ahl_park_avmde_beyanname_kabul_masalari_acildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17273_kira_geliri_elde_eden_mukelleflerimiz_icin_ahl_park_avmde_beyanname_kabul_masalari_acildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1-7 Mart Muhasebe Haftasında Manisa SMMMO Defterdarlığımızı Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17282_17_mart_muhasebe_haftasinda_manisa_smmmo_defterdarligimizi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17282_17_mart_muhasebe_haftasinda_manisa_smmmo_defterdarligimizi_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Nisan 2025 tarihinde yazılı bölümü, 18 - 29 Ağustos 2025 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olup, yedek listede yer alan adaylardan istenecek belgeler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17266_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17266_20_nisan_2025_tarihinde_yazili_bolumu%2C_18__29_agustos_2025_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası ve 1-7 Mart Muhasebeciler Haftası Kapsamında, İlimizde 33 Yılı Aşkın Süredir Serbest Muhasebeci Mali Müşavir Olarak Hizmet Veren Meslek Mensuplarımızdan Cafer KARATAŞ Ziyaret Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17271_37._vergi_haftasi_ve_17_mart_muhasebeciler_haftasi_kapsaminda%2C_ilimizde_33_yili_askin_suredir_serbest_muhasebeci_mali_musavir_olarak_hizmet_veren_meslek_mensuplarimizdan_cafer_karatas_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17271_37._vergi_haftasi_ve_17_mart_muhasebeciler_haftasi_kapsaminda%2C_ilimizde_33_yili_askin_suredir_serbest_muhasebeci_mali_musavir_olarak_hizmet_veren_meslek_mensuplarimizdan_cafer_karatas_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17263_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17263_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Musa KOÇULU tarafından, çalışma arkadaşlarımızın 8 Mart Dünya Kadınlar günü kutlandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17270_defterdarimiz_sayin_musa_koculu_tarafindan%2C_calisma_arkadaslarimizin_8_mart_dunya_kadinlar_gunu_kutlandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17270_defterdarimiz_sayin_musa_koculu_tarafindan%2C_calisma_arkadaslarimizin_8_mart_dunya_kadinlar_gunu_kutlandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EMEL-ÖZGÜR SUBAŞIAY TİCARET MESLEKİ VE TEKNİK ANADOLU LİSESİ DEFTERDARLIĞIMIZI ZİYARET ETMİŞTİR.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17265_emelozgur_subasiay_ticaret_mesleki_ve_teknik_anadolu_lisesi_defterdarligimizi_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17265_emelozgur_subasiay_ticaret_mesleki_ve_teknik_anadolu_lisesi_defterdarligimizi_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berberler ve Kuaförler Odası Başkanı Sn.Fethi ÖZKARA ve Yönetim Kurulu Üyeleri Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17264_berberler_ve_kuaforler_odasi_baskani_sn.fethi_ozkara_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17264_berberler_ve_kuaforler_odasi_baskani_sn.fethi_ozkara_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ödeme Emrine Karşı Yapılacak İşlemler Broşürü Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17259_odeme_emrine_karsi_yapilacak_islemler_brosuru_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17259_odeme_emrine_karsi_yapilacak_islemler_brosuru_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
