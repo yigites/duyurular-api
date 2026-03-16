@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 06:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 06:34:44 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18 Mart Şehitleri Anma Günü ve Çanakkale Deniz Zaferi " Bir Milletin Fedakârlığı, Bir Bayrağın Hürriyeti"]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17338_18_mart_sehitleri_anma_gunu_ve_canakkale_deniz_zaferi__bir_milletin_fedak%C3%A2rligi%2C_bir_bayragin_hurriyeti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17338_18_mart_sehitleri_anma_gunu_ve_canakkale_deniz_zaferi__bir_milletin_fedak%C3%A2rligi%2C_bir_bayragin_hurriyeti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Dairesi Müdür Yardımcılığı Sınavı Sonucu Açıklandı]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17296_ramazan_ayi_yaygin_ve_yogun_vergi_denetimleri</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17296_ramazan_ayi_yaygin_ve_yogun_vergi_denetimleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DENETİMLER HAKKINDA DEĞERLENDİRME TOPLANTISI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17298_denetimler_hakkinda_degerlendirme_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17298_denetimler_hakkinda_degerlendirme_toplantisi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
         </item>
