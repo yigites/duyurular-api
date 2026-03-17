@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 06:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 06:24:47 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,12 +16,52 @@
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[49 Sıra No.lu SMMM ve YMM Kanunu Genel Tebliği İle Gelir Vergisi İstisna, İndirim ve Uygulama Tasdik Raporunun Kapsamı Hakkında Duyuru]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17362_49_sira_no.lu_smmm_ve_ymm_kanunu_genel_tebligi_ile_gelir_vergisi_istisna%2C_indirim_ve_uygulama_tasdik_raporunun_kapsami_hakkinda_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17362_49_sira_no.lu_smmm_ve_ymm_kanunu_genel_tebligi_ile_gelir_vergisi_istisna%2C_indirim_ve_uygulama_tasdik_raporunun_kapsami_hakkinda_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YENİ AÇILAN İŞ YERİNE “HAYIRLI OLSUN” ZİYARETİ GERÇEKLEŞTİRİLDİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17360_yeni_acilan_is_yerine_hayirli_olsun_ziyareti_gerceklestirildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17360_yeni_acilan_is_yerine_hayirli_olsun_ziyareti_gerceklestirildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kadir Gecemiz Mübarek Olsun]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17357_kadir_gecemiz_mubarek_olsun</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17357_kadir_gecemiz_mubarek_olsun</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buca Mevlana Mesleki ve Teknik Anadolu Lisesi Öğrencileri Defterdarlığımızı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17356_buca_mevlana_mesleki_ve_teknik_anadolu_lisesi_ogrencileri_defterdarligimizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17356_buca_mevlana_mesleki_ve_teknik_anadolu_lisesi_ogrencileri_defterdarligimizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[18 Mart Şehitleri Anma Günü ve Çanakkale Deniz Zaferi " Bir Milletin Fedakârlığı, Bir Bayrağın Hürriyeti"]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17338_18_mart_sehitleri_anma_gunu_ve_canakkale_deniz_zaferi__bir_milletin_fedak%C3%A2rligi%2C_bir_bayragin_hurriyeti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17338_18_mart_sehitleri_anma_gunu_ve_canakkale_deniz_zaferi__bir_milletin_fedak%C3%A2rligi%2C_bir_bayragin_hurriyeti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YENİ AÇILAN İŞ YERİNE “HAYIRLI OLSUN” ZİYARETİ GERÇEKLEŞTİRİLDİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17358_yeni_acilan_is_yerine_hayirli_olsun_ziyareti_gerceklestirildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17358_yeni_acilan_is_yerine_hayirli_olsun_ziyareti_gerceklestirildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Dairesi Müdür Yardımcılığı Sınavı Sonucu Açıklandı]]></title>
@@ -84,6 +124,22 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17344_burdur_defterdarligimiz_koordinasyonunda_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_bkmybs_mahalli_idarelerde_yayginlastirilmasi_kapsaminda%3B_yesilova_belediye_baskanliginda_12.03.2026_tarihi_itibariyle_calismalar_baslatilmistir.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17344_burdur_defterdarligimiz_koordinasyonunda_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_bkmybs_mahalli_idarelerde_yayginlastirilmasi_kapsaminda%3B_yesilova_belediye_baskanliginda_12.03.2026_tarihi_itibariyle_calismalar_baslatilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Temmuz Vatan Şehitleri, Gazileri ve Yardımlaşma Derneği Genel Başkanı Zeki Kılınç defterdarımız İlhan Karayılan'ı ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17363_15_temmuz_vatan_sehitleri%2C_gazileri_ve_yardimlasma_dernegi_genel_baskani_zeki_kilinc_defterdarimiz_ilhan_karayilani_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17363_15_temmuz_vatan_sehitleri%2C_gazileri_ve_yardimlasma_dernegi_genel_baskani_zeki_kilinc_defterdarimiz_ilhan_karayilani_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Müfettişleri Derneği Bursa Şubesinden Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17365_vergi_mufettisleri_dernegi_bursa_subesinden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17365_vergi_mufettisleri_dernegi_bursa_subesinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
         </item>
@@ -348,62 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17290_luleburgaz_vergi_dairesi_mudurumuz_sayin_gulcan_buyruk_ile_mudur_yardimcimiz_sayin_ahmet_bahadir_sahin_luleburgaz_kocasinan_ilkokulu__ogrencilerini_vergi_dairesi_mudurlugumuzu_tanitmistir._</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17290_luleburgaz_vergi_dairesi_mudurumuz_sayin_gulcan_buyruk_ile_mudur_yardimcimiz_sayin_ahmet_bahadir_sahin_luleburgaz_kocasinan_ilkokulu__ogrencilerini_vergi_dairesi_mudurlugumuzu_tanitmistir._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Doğan ADIGÜZEL, Lüleburgaz Vergi Dairesi Müdürlüğüne atanan Vergi Dairesi Müdür Yardımcısı Sayın Veysel ŞENER'e  iade-i ziyarette bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17291_defterdarimiz_sayin_dogan_adiguzel%2C_luleburgaz_vergi_dairesi_mudurlugune_atanan_vergi_dairesi_mudur_yardimcisi_sayin_veysel_senere__iadei_ziyarette_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17291_defterdarimiz_sayin_dogan_adiguzel%2C_luleburgaz_vergi_dairesi_mudurlugune_atanan_vergi_dairesi_mudur_yardimcisi_sayin_veysel_senere__iadei_ziyarette_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Vergi Dairesi Müdürlüğünde görevli Meryem TARHAN yaş haddinden emekli olmuştur. Kendisine yapmış olduğu hizmetlerden dolayı teşekkür eder. Emeklilik hayatında sağılk, mutluluk ve huzur dileriz.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17292_defterdarligimiz_vergi_dairesi_mudurlugunde_gorevli_meryem_tarhan_yas_haddinden_emekli_olmustur._kendisine_yapmis_oldugu_hizmetlerden_dolayi_tesekkur_eder._emeklilik_hayatinda_sagilk%2C_mutluluk_ve_huzur_dileriz.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17292_defterdarligimiz_vergi_dairesi_mudurlugunde_gorevli_meryem_tarhan_yas_haddinden_emekli_olmustur._kendisine_yapmis_oldugu_hizmetlerden_dolayi_tesekkur_eder._emeklilik_hayatinda_sagilk%2C_mutluluk_ve_huzur_dileriz.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Güngör GÖNÜLTAŞ, Tüm Kadın Personelin 8 Mart Dünya Kadınlar Gününü Kutladı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17301_defterdarimiz_gungor_gonultas%2C_tum_kadin_personelin_8_mart_dunya_kadinlar_gununu_kutladi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17301_defterdarimiz_gungor_gonultas%2C_tum_kadin_personelin_8_mart_dunya_kadinlar_gununu_kutladi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Hüsna YILDIZ ve Beraberindeki Heyet ile Esnaf Odası Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17288_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_husna_yildiz_ve_beraberindeki_heyet_ile_esnaf_odasi_ziyareti_</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17288_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_husna_yildiz_ve_beraberindeki_heyet_ile_esnaf_odasi_ziyareti_</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37. Vergi Haftası Etkinlikleri Kapsamında Defterdarımız Hüsna YILDIZ ve Beraberindeki Heyet ile SMMMO Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17289_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_husna_yildiz_ve_beraberindeki_heyet_ile_smmmo_ziyareti_</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17289_37._vergi_haftasi_etkinlikleri_kapsaminda_defterdarimiz_husna_yildiz_ve_beraberindeki_heyet_ile_smmmo_ziyareti_</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İl Sağlık Müdürlüğünce Defterdarlığımız Personeli İcin Etkinlik Düzenlendi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17293_il_saglik_mudurlugunce_defterdarligimiz_personeli_icin_etkinlik_duzenlendi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17293_il_saglik_mudurlugunce_defterdarligimiz_personeli_icin_etkinlik_duzenlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RAMAZAN AYI YAYGIN VE YOĞUN VERGİ DENETİMLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17296_ramazan_ayi_yaygin_ve_yogun_vergi_denetimleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17296_ramazan_ayi_yaygin_ve_yogun_vergi_denetimleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
         </item>
