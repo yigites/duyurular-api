@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 06:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 06:25:49 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[SÜRGEM Eğitimleri Devam Ediyor! Mart Ayı Eğitim Başvuruları Başlamıştır.]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/c27b4aa1-8881-4854-a5a4-6991063c3dbf/surgem-egitimleri-devam-ediyor--mart-ayi-egitim-basvurulari-baslamistir--</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c27b4aa1-8881-4854-a5a4-6991063c3dbf/surgem-egitimleri-devam-ediyor--mart-ayi-egitim-basvurulari-baslamistir--</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VDK Mükellef Eğitimleri ve Sektörel Riskler (VDK-ROME)]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c7d6b070-19d8-410c-87d0-53b83f6d6beb/risk-odakli-mukellef-egitimleri--vdk-rome-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“Luca Mali Müşavir Farkındalık Eğitimi” Webinar, 09 Şubat 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/e59ebe70-7cff-49e2-a065-18f8ef2ddeaa/-luca-mali-musavir-farkindalik-egitimi--webinar--09-subat-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e59ebe70-7cff-49e2-a065-18f8ef2ddeaa/-luca-mali-musavir-farkindalik-egitimi--webinar--09-subat-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
