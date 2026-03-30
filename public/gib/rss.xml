@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 06:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 06:39:58 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,30 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16575_37._vergi_haftasi_etkinlikleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergiye Uyumlu Mükelleflerimizden Eko Endüstri Kalıp Otomotiv Plastik ve Spor Aletleri San. Dış Tic. Ltd. Şti. Ziyaret Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17465___vergiye_uyumlu_mukelleflerimizden_eko_endustri_kalip_otomotiv_plastik_ve_spor_aletleri_san._dis_tic._ltd._sti._ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17465___vergiye_uyumlu_mukelleflerimizden_eko_endustri_kalip_otomotiv_plastik_ve_spor_aletleri_san._dis_tic._ltd._sti._ziyaret_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergiye Uyumlu Mükelleflerimizden Tetra Pak Paketleme San. Tic. Ltd. Şti. Ziyaret Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17464___vergiye_uyumlu_mukelleflerimizden_tetra_pak_paketleme_san._tic._ltd._sti._ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17464___vergiye_uyumlu_mukelleflerimizden_tetra_pak_paketleme_san._tic._ltd._sti._ziyaret_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Halil İbrahim TEMİZ Denetim Görevlilerince Gerçekleştirilen Yol ve Nakil Araç Denetimlerini Yerinde Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17463_defterdarimiz_sayin_halil_ibrahim_temiz_denetim_gorevlilerince_gerceklestirilen_yol_ve_nakil_arac_denetimlerini_yerinde_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17463_defterdarimiz_sayin_halil_ibrahim_temiz_denetim_gorevlilerince_gerceklestirilen_yol_ve_nakil_arac_denetimlerini_yerinde_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 592) Resmi Gazete’de Yayımlandı]]></title>
@@ -380,30 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17416_vergi_bilincini_gelistirme_etkinlikleri</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17416_vergi_bilincini_gelistirme_etkinlikleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsun Cumhuriyet Başsavcısı Sayın Mehmet Sabri KILIÇ Defterdarlığımızı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17419_samsun_cumhuriyet_bassavcisi_sayin_mehmet_sabri_kilic_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17419_samsun_cumhuriyet_bassavcisi_sayin_mehmet_sabri_kilic_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kamu-sen Samsun Temsilcileri Defterdarlığımızı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17421_kamusen_samsun_temsilcileri_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17421_kamusen_samsun_temsilcileri_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serbest Muhasebeci Mali Müşavir Sayın Cafer KARATAŞ, Defterdarlığımıza İade-i Ziyarette bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17407_serbest_muhasebeci_mali_musavir_sayin_cafer_karatas%2C_defterdarligimiza_iadei_ziyarette_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17407_serbest_muhasebeci_mali_musavir_sayin_cafer_karatas%2C_defterdarligimiza_iadei_ziyarette_bulundu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
         </item>
