@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 06:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 06:37:21 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[KURUMLAR VERGİSİ BEYAN DÖNEMİ BAŞLADI]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/03a2f0d9-6e6b-499b-8fe2-9a964280d6b9/kurumlar-vergisi-beyan-donemi-basladi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/03a2f0d9-6e6b-499b-8fe2-9a964280d6b9/kurumlar-vergisi-beyan-donemi-basladi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Kurumlar Vergisi” Webinar, 03 Nisan 2026 Cuma]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/731edd7e-d2e0-4274-bc2e-d1efbb80a9c8/-afette-kadin--etkinlik-programi</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KGK Kurumsal Sürdürülebilirlik Raporlama Uzmanlığı Eğitimi]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/67b1345a-2471-4168-81eb-896c8e39fb51/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/67b1345a-2471-4168-81eb-896c8e39fb51/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
