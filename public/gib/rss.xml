@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 06:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 06:34:18 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -24,10 +24,10 @@
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deftardarlığımızca 10 Nisan 2026 Tarihinde Gerçekleştirilen Özel Yoklama Yetkili Memurların Seçimi Sınavı Gerçekleştirildi.]]></title>
+            <title><![CDATA[Deftardarlığımızca 10 Nisan 2026 Tarihinde Özel Yoklama Yetkili Memurların Seçimi Sınavı Gerçekleştirildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_gerceklestirilen_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_gerceklestirilen_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
