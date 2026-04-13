@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 06:46:29 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17490_kurumlar_vergisi_beyan_donemi_basladi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eskişehir Muhasebe, Vergi ve Finans Zirvesi Osmangazi Üniversitesi Kongre Merkezinde Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17660_eskisehir_muhasebe%2C_vergi_ve_finans_zirvesi_osmangazi_universitesi_kongre_merkezinde_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17660_eskisehir_muhasebe%2C_vergi_ve_finans_zirvesi_osmangazi_universitesi_kongre_merkezinde_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5520 Sayılı Kurumlar Vergisi Kanunu 72 Nolu Sirküler Yayımlandı]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17602_aksaray_girisimci_is_kadinlari_derneginden_defterdarligimiza_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17602_aksaray_girisimci_is_kadinlari_derneginden_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 Seri No.lu Kurumlar Vergisi Genel Tebliğ Taslağı Hazırlanmıstır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17598_25_seri_no.lu_kurumlar_vergisi_genel_teblig_taslagi_hazirlanmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17598_25_seri_no.lu_kurumlar_vergisi_genel_teblig_taslagi_hazirlanmistir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
         </item>
