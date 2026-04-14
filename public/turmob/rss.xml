@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 06:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 06:39:21 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[KDV-1 BEYANNAMESİNDE YAPILAN GÜNCEL DEĞİŞİKLİKLER]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/b31a9873-d000-472a-9be8-a6930a6f8e4e/kdv-1-beyannamesinde-yapilan-guncel-degisiklikler</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/b31a9873-d000-472a-9be8-a6930a6f8e4e/kdv-1-beyannamesinde-yapilan-guncel-degisiklikler</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GİGEP Kapsamında Finansman Danışmanlığı Fırsatı]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/20800aad-86f8-4fa8-938c-46db143c8841/vdk-mukellef-egitimleri-ve-sektorel-riskler--vdk-rome-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1-7 Mart Muhasebe Haftası]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/08b70749-1f50-448c-bc4d-f2ca8a5e32b6/1-7-mart-muhasebe-haftasi</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/08b70749-1f50-448c-bc4d-f2ca8a5e32b6/1-7-mart-muhasebe-haftasi</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
