@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 06:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 06:39:50 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Trafik Cezası Tutanağı ve SGK İdari Para Cezası İlişkisi]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/24b6aad7-7532-4a50-a73e-81c83a9b52b6/trafik-cezasi-tutanagi-ve-sgk-idari-para-cezasi-iliskisi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/24b6aad7-7532-4a50-a73e-81c83a9b52b6/trafik-cezasi-tutanagi-ve-sgk-idari-para-cezasi-iliskisi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KDV-1 BEYANNAMESİNDE YAPILAN GÜNCEL DEĞİŞİKLİKLER]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c27b4aa1-8881-4854-a5a4-6991063c3dbf/surgem-egitimleri-devam-ediyor--mart-ayi-egitim-basvurulari-baslamistir--</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VDK Mükellef Eğitimleri ve Sektörel Riskler (VDK-ROME)]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/20800aad-86f8-4fa8-938c-46db143c8841/vdk-mukellef-egitimleri-ve-sektorel-riskler--vdk-rome-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/20800aad-86f8-4fa8-938c-46db143c8841/vdk-mukellef-egitimleri-ve-sektorel-riskler--vdk-rome-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
