@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 06:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 06:47:42 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17700_bursa_uludag_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Turizm Haftası Kutlamaları Kapsamında Düzenlenen Yazılıkaya Gezisi Etkinliğine Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17717_defterdarimiz_sn._cemil_musevitoglu_turizm_haftasi_kutlamalari_kapsaminda_duzenlenen_yazilikaya_gezisi_etkinligine_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17717_defterdarimiz_sn._cemil_musevitoglu_turizm_haftasi_kutlamalari_kapsaminda_duzenlenen_yazilikaya_gezisi_etkinligine_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Defterdarlığımıza bağlı olan Ula Vergi Dairesi Müdürlüğünü ziyaret ederek daire iş ve işlemleri hakkında bilgi almıştır.]]></title>
@@ -72,10 +80,10 @@
             <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7440 sayılı Kanun kapsamında yapılandırılan alacakların son ödeme günü.]]></title>
+            <title><![CDATA[7440 sayılı Yapılandırma Kanununun sağladığı imkanlardan yararlanmak için son gün]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17708_7440_sayili_kanun_kapsaminda_yapilandirilan_alacaklarin_son_odeme_gunu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17708_7440_sayili_kanun_kapsaminda_yapilandirilan_alacaklarin_son_odeme_gunu.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17708_7440_sayili_yapilandirma_kanununun_sagladigi_imkanlardan_yararlanmak_icin_son_gun</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17708_7440_sayili_yapilandirma_kanununun_sagladigi_imkanlardan_yararlanmak_icin_son_gun</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
         </item>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17658_deftardarligimizca_10_nisan_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZİYARET]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17657_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17657_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
         </item>
