@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 06:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 06:41:27 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17700_bursa_uludag_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU E. Enerji ve Tabi Kaynaklar Bakanı, Eskişehir Milletvekili Sn. Fatih DÖNMEZ’i Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[11263 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17809_deterdarimizdan_sorgun_vergi_dairesi_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17809_deterdarimizdan_sorgun_vergi_dairesi_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deterdarımızdan Aydıncık Kadın Girişim Kooperatifi ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17808_deterdarimizdan_aydincik_kadin_girisim_kooperatifi_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17808_deterdarimizdan_aydincik_kadin_girisim_kooperatifi_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
         </item>
