@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 06:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 07:04:49 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -36,6 +36,22 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17866_11263_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17866_11263_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımıza Büra Memur Sen Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17869_defterdarimiza_bura_memur_sen_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17869_defterdarimiza_bura_memur_sen_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bozok Üniversitesi İktisadi İdari Bilimler Fakültesinde Kariyer Günleri ve Vergi Bilinci Geliştirme Sunumu]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17868_bozok_universitesi_iktisadi_idari_bilimler_fakultesinde_kariyer_gunleri_ve_vergi_bilinci_gelistirme_sunumu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17868_bozok_universitesi_iktisadi_idari_bilimler_fakultesinde_kariyer_gunleri_ve_vergi_bilinci_gelistirme_sunumu</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17812_25_nisan_2026_tarihinde_yapilan_vergi_dairesi_mudurlugu_sinavinin_yazili_bolum_sonucu_aciklandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17812_25_nisan_2026_tarihinde_yapilan_vergi_dairesi_mudurlugu_sinavinin_yazili_bolum_sonucu_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mükellef Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17810_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17810_mukellef_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deterdarımızdan Sorgun Vergi Dairesi ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17809_deterdarimizdan_sorgun_vergi_dairesi_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17809_deterdarimizdan_sorgun_vergi_dairesi_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
         </item>
