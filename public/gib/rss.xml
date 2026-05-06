@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 06:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 06:57:26 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -24,10 +24,106 @@
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sanal Pos İle Yemek Bakiyesi Yükleme ve Rezervasyon İşlemleri]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17891_sanal_pos_ile_yemek_bakiyesi_yukleme_ve_rezervasyon_islemleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17891_sanal_pos_ile_yemek_bakiyesi_yukleme_ve_rezervasyon_islemleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eskişehirli İş İnsanları Sn. Salih ŞAHBAZ, Sn. Coşkun ŞENGÜL ve Sn. Murat ÖZSARI, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17888_eskisehirli_is_insanlari_sn._salih_sahbaz%2C_sn._coskun_sengul_ve_sn._murat_ozsari%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17888_eskisehirli_is_insanlari_sn._salih_sahbaz%2C_sn._coskun_sengul_ve_sn._murat_ozsari%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz Kurumlar Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Liva Diyaliz ve Sağlık Hizmetleri Medikal Gıda Havancılık İnş. Tic. Ltd. Şti' ye Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17887_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_liva_diyaliz_ve_saglik_hizmetleri_medikal_gida_havancilik_ins._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17887_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_liva_diyaliz_ve_saglik_hizmetleri_medikal_gida_havancilik_ins._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eskişehir Baro Başkanı Sn. Barış GÜNAYDIN ve Yönetim Kurulu Üyeleri, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Ettiler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17883_eskisehir_baro_baskani_sn._baris_gunaydin_ve_yonetim_kurulu_uyeleri%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_ettiler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17883_eskisehir_baro_baskani_sn._baris_gunaydin_ve_yonetim_kurulu_uyeleri%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca O.M.Ü. Çarşamba Ticaret Borsası Meslek Yüksek Okulunda Sunum Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17890_defterdarligimizca_o.m.u._carsamba_ticaret_borsasi_meslek_yuksek_okulunda_sunum_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17890_defterdarligimizca_o.m.u._carsamba_ticaret_borsasi_meslek_yuksek_okulunda_sunum_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yüz yüze vergi bilincini geliştirme eğitimleri kapsamında Vergi Bilinci Ekiplerimizce ilkokul öğrencilere yönelik vergi bilinci ve farkındalık eğitimi verilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17882_yuz_yuze_vergi_bilincini_gelistirme_egitimleri_kapsaminda_vergi_bilinci_ekiplerimizce_ilkokul_ogrencilere_yonelik_vergi_bilinci_ve_farkindalik_egitimi_verilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17882_yuz_yuze_vergi_bilincini_gelistirme_egitimleri_kapsaminda_vergi_bilinci_ekiplerimizce_ilkokul_ogrencilere_yonelik_vergi_bilinci_ve_farkindalik_egitimi_verilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ahlatcı Holding Muhasebe Müdürü Elvan KESKİN ve Gold Force Makine ve Kimya San. Tic. A.Ş.  Mali İşler Müdürü Salih SARIALİOĞLU Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17881_ahlatci_holding_muhasebe_muduru_elvan_keskin_ve_gold_force_makine_ve_kimya_san._tic._a.s.__mali_isler_muduru_salih_sarialioglu_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17881_ahlatci_holding_muhasebe_muduru_elvan_keskin_ve_gold_force_makine_ve_kimya_san._tic._a.s.__mali_isler_muduru_salih_sarialioglu_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz Gelir Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Mehmet KARABACAK' a Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17880_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_mehmet_karabacak_a_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17880_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_mehmet_karabacak_a_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Amasya Temsilcilik Başkanı ve Yönetim Kurulu Üyelerinin Defterdarımız Ali ÇAKIR' ı Ziyareti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17879_mustakil_sanayici_ve_isadamlari_dernegi_musiad_amasya_temsilcilik_baskani_ve_yonetim_kurulu_uyelerinin_defterdarimiz_ali_cakir_i_ziyareti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17879_mustakil_sanayici_ve_isadamlari_dernegi_musiad_amasya_temsilcilik_baskani_ve_yonetim_kurulu_uyelerinin_defterdarimiz_ali_cakir_i_ziyareti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz Kurumlar Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Çevikler Gözde Kuruyemiş Gıda San. Tic. Ltd. Şti' ye Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17878_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_cevikler_gozde_kuruyemis_gida_san._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17878_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_cevikler_gozde_kuruyemis_gida_san._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz Kurumlar Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Akçay Otomasyon Enerji Elektrik Müh. İnş. San. Tic. Ltd. Şti' ye Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17877_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_akcay_otomasyon_enerji_elektrik_muh._ins._san._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17877_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_akcay_otomasyon_enerji_elektrik_muh._ins._san._tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eskişehir İl Müftüsü Sn. Muharrem GÜL, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17874_eskisehir_il_muftusu_sn._muharrem_gul%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17874_eskisehir_il_muftusu_sn._muharrem_gul%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fikirden Hasada: Tarımda Girişimcilik ve İnovasyon Kampı 2026 Başvuruları Başladı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17884_fikirden_hasada%3A_tarimda_girisimcilik_ve_inovasyon_kampi_2026_basvurulari_basladi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17884_fikirden_hasada%3A_tarimda_girisimcilik_ve_inovasyon_kampi_2026_basvurulari_basladi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -76,6 +172,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1 Mayıs Emek ve Dayanışma Günü Kutlu Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17885_1_mayis_emek_ve_dayanisma_gunu_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17885_1_mayis_emek_ve_dayanisma_gunu_kutlu_olsun.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -300,110 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17831_corum_defterdari_sayin_erkan_ciger%2C_hitit_universitesi_ilahiyat_fakultesi_dekani_prof._dr._sayin_ismail_bulutu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17831_corum_defterdari_sayin_erkan_ciger%2C_hitit_universitesi_ilahiyat_fakultesi_dekani_prof._dr._sayin_ismail_bulutu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ankara Defterdarlığı bünyesinde çalışan gazimiz ve şehit yakınımız, 37. Vergi Haftası vesilesiyle Grup Müdürümüz ve Müdürlerimiz tarafından ziyaret edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17837_ankara_defterdarligi_bunyesinde_calisan_gazimiz_ve_sehit_yakinimiz%2C_37._vergi_haftasi_vesilesiyle_grup_mudurumuz_ve_mudurlerimiz_tarafindan_ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17837_ankara_defterdarligi_bunyesinde_calisan_gazimiz_ve_sehit_yakinimiz%2C_37._vergi_haftasi_vesilesiyle_grup_mudurumuz_ve_mudurlerimiz_tarafindan_ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muş Defterdarlığı Hasköy Malmüdürlüğü Bünyesinde Bulunan Bağlı Vergi Dairesi Yeni Kurulan Hasköy Vergi Dairesi Müdürlüğüne Devredilmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17824_mus_defterdarligi_haskoy_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_yeni_kurulan_haskoy_vergi_dairesi_mudurlugune_devredilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17824_mus_defterdarligi_haskoy_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_yeni_kurulan_haskoy_vergi_dairesi_mudurlugune_devredilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bütünleşik Kamu Mali Yönetim Bilişim Sisteminin Mahalli İdarelerde Yaygınlaştırılmasına İlişkin Bilgilendirme Toplantısı Konferans Salonumuzda Gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17825_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasina_iliskin_bilgilendirme_toplantisi_konferans_salonumuzda_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17825_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_yayginlastirilmasina_iliskin_bilgilendirme_toplantisi_konferans_salonumuzda_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edirne Defterdarlığı Lalapaşa ve Süloğlu Malmüdürlükleri Bünyesinde Bulunan Bağlı Vergi Daireleri İl Merkezinde Yeni Kurulan Tunca Vergi Dairesi Müdürlüğüne Devredilmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17823_edirne_defterdarligi_lalapasa_ve_suloglu_malmudurlukleri_bunyesinde_bulunan_bagli_vergi_daireleri_il_merkezinde_yeni_kurulan_tunca_vergi_dairesi_mudurlugune_devredilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17823_edirne_defterdarligi_lalapasa_ve_suloglu_malmudurlukleri_bunyesinde_bulunan_bagli_vergi_daireleri_il_merkezinde_yeni_kurulan_tunca_vergi_dairesi_mudurlugune_devredilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malatya Defterdarlığı Arguvan, Pötürge, Doğanyol, Kale, Kuluncak ve Yazıhan Malmüdürlükleri Bünyesinde Bulunan Bağlı Vergi Daireleri İl Merkezinde Yeni Kurulan Battalgazi Vergi Dairesi Müdürlüğüne Devredilmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17822_malatya_defterdarligi_arguvan%2C_poturge%2C_doganyol%2C_kale%2C_kuluncak_ve_yazihan_malmudurlukleri_bunyesinde_bulunan_bagli_vergi_daireleri_il_merkezinde_yeni_kurulan_battalgazi_vergi_dairesi_mudurlugune_devredilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17822_malatya_defterdarligi_arguvan%2C_poturge%2C_doganyol%2C_kale%2C_kuluncak_ve_yazihan_malmudurlukleri_bunyesinde_bulunan_bagli_vergi_daireleri_il_merkezinde_yeni_kurulan_battalgazi_vergi_dairesi_mudurlugune_devredilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Bilinci Konulu Video İçerik Yarışmasında Dereceye Giren Öğrencilerimize Ödülleri Malatya Valimiz Sayın Seddar YAVUZ Tarafından Verildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17836_vergi_bilinci_konulu_video_icerik_yarismasinda_dereceye_giren_ogrencilerimize_odulleri_malatya_valimiz_sayin_seddar_yavuz_tarafindan_verildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17836_vergi_bilinci_konulu_video_icerik_yarismasinda_dereceye_giren_ogrencilerimize_odulleri_malatya_valimiz_sayin_seddar_yavuz_tarafindan_verildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Defterdarlığımızda Teknisyen Olarak Görev Yapan ve Adana Defterdarlığı'na Ataması Yapılan Gökay EMRE'nin Veda Yemeğine Katıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17849_defterdarimiz_sn._cemil_musevitoglu_defterdarligimizda_teknisyen_olarak_gorev_yapan_ve_adana_defterdarligina_atamasi_yapilan_gokay_emrenin_veda_yemegine_katildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17849_defterdarimiz_sn._cemil_musevitoglu_defterdarligimizda_teknisyen_olarak_gorev_yapan_ve_adana_defterdarligina_atamasi_yapilan_gokay_emrenin_veda_yemegine_katildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N2 Mobil Kurumsal İş Ortakları Müdürü Sn. Serhat MÜSEVİTOĞLU ve Türkiye Satış Grup Müdürü Sn. Ümit IŞIK, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17821_n2_mobil_kurumsal_is_ortaklari_muduru_sn._serhat_musevitoglu_ve_turkiye_satis_grup_muduru_sn._umit_isik%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17821_n2_mobil_kurumsal_is_ortaklari_muduru_sn._serhat_musevitoglu_ve_turkiye_satis_grup_muduru_sn._umit_isik%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karakaya İnş. Hafriyat Yönetim Kurulu Başkanı İnşaat Müh. Sn. Nuri KARAKAYA, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17832_karakaya_ins._hafriyat_yonetim_kurulu_baskani_insaat_muh._sn._nuri_karakaya%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17832_karakaya_ins._hafriyat_yonetim_kurulu_baskani_insaat_muh._sn._nuri_karakaya%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[16 Mayıs 2026 Tarihinde Yapılacak Gelir Uzmanlığı Yeterlik Sınavına Katılacak Adaylar ile Sınav Giriş Yerleri Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17816_16_mayis_2026_tarihinde_yapilacak_gelir_uzmanligi_yeterlik_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17816_16_mayis_2026_tarihinde_yapilacak_gelir_uzmanligi_yeterlik_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Değerlendirme ve İstişare Toplantımızı Gerçekleştirdik.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17864_degerlendirme_ve_istisare_toplantimizi_gerceklestirdik.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17864_degerlendirme_ve_istisare_toplantimizi_gerceklestirdik.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Mükellefimiz Sedat ÇIRAK'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17829_corum_defterdari_sayin_erkan_ciger%2C_mukellefimiz_sedat_ciraki_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17829_corum_defterdari_sayin_erkan_ciger%2C_mukellefimiz_sedat_ciraki_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Defterdarlığımıza bağlı olan Seydikemer Vergi Dairesi Müdürlüğünü ziyaret ederek daire iş ve işlemleri hakkında bilgi almıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17833_defterdarimiz_sayin_ilhan_akcay%2C_defterdarligimiza_bagli_olan_seydikemer_vergi_dairesi_mudurlugunu_ziyaret_ederek_daire_is_ve_islemleri_hakkinda_bilgi_almistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17833_defterdarimiz_sayin_ilhan_akcay%2C_defterdarligimiza_bagli_olan_seydikemer_vergi_dairesi_mudurlugunu_ziyaret_ederek_daire_is_ve_islemleri_hakkinda_bilgi_almistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
         </item>

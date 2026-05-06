@@ -4,9 +4,25 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 06:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 06:57:30 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Basında TÜRMOB - Nisan 2026]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/62fbba00-44d8-43f9-a8c6-444fa1f9c044/-basinda-turmob---nisan-2026</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/62fbba00-44d8-43f9-a8c6-444fa1f9c044/-basinda-turmob---nisan-2026</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mesleki ve Kişisel Gelişim Eğitim Serisi EĞİTİM-1: "ETKİLİ İLETİŞİM BECERİLERİ"]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/e5db3845-cb9f-439e-a9c8-325605d55408/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-1---etkili-iletisim-becerileri-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e5db3845-cb9f-439e-a9c8-325605d55408/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-1---etkili-iletisim-becerileri-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesleki ve Kişisel Gelişim Eğitim Serisi Başlıyor]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5a051376-5dd9-47a9-834b-7a75c634bf96/basinda-turmob-mart-2026-sayisi-yayinlandi-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KURUMLAR VERGİSİ BEYAN DÖNEMİ BAŞLADI]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/03a2f0d9-6e6b-499b-8fe2-9a964280d6b9/kurumlar-vergisi-beyan-donemi-basladi</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/03a2f0d9-6e6b-499b-8fe2-9a964280d6b9/kurumlar-vergisi-beyan-donemi-basladi</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Kurumlar Vergisi” Webinar, 03 Nisan 2026 Cuma]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/e8f50f4f-1848-4308-a8da-865b9a600b95/-kurumlar-vergisi--webinar--03-nisan-2026-cuma-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e8f50f4f-1848-4308-a8da-865b9a600b95/-kurumlar-vergisi--webinar--03-nisan-2026-cuma-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
