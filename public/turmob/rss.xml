@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 07:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 06:38:31 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[E-Karşıt Uygulaması]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/2845799f-a247-40bc-94ba-e764049660b0/e-karsit-uygulamasi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/2845799f-a247-40bc-94ba-e764049660b0/e-karsit-uygulamasi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Basında TÜRMOB - Nisan 2026]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/b3ffb553-f63b-4012-9d57-064bb10f4134/gigep-kapsaminda-finansman-danismanligi-firsati</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Basında TÜRMOB Mart 2026 Sayısı Yayınlandı!]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/5a051376-5dd9-47a9-834b-7a75c634bf96/basinda-turmob-mart-2026-sayisi-yayinlandi-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5a051376-5dd9-47a9-834b-7a75c634bf96/basinda-turmob-mart-2026-sayisi-yayinlandi-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
