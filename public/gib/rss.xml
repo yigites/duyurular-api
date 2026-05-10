@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 06:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 06:56:46 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -80,10 +80,10 @@
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[efterdarlığımızca mükellef ziyaretinde bulunulmuştur.]]></title>
+            <title><![CDATA[Defterdarlığımızca mükellef ziyaretinde bulunulmuştur.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17927_efterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17927_efterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17927_defterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17927_defterdarligimizca_mukellef_ziyaretinde_bulunulmustur.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
         </item>
