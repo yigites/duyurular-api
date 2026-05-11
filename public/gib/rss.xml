@@ -4,9 +4,17 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 06:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 07:15:15 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[AİLE VE NÜFUS ON YILI KAMU SPOTU]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17929_aile_ve_nufus_on_yili_kamu_spotu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17929_aile_ve_nufus_on_yili_kamu_spotu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bursa Uludağ Üniversitesi Öğrencilerinden Defterdarlığımıza Ziyaret]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -14,6 +22,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17700_bursa_uludag_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kuaförler Ve Güzellik Salonları Denetlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17928_kuaforler_ve_guzellik_salonlari_denetlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17928_kuaforler_ve_guzellik_salonlari_denetlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız denetim ekiplerince gerçekleştirilen yaygın ve yoğun vergi denetimlerinde görevli personelimiz çalışma alanlarında Çorum Defterdarı Sayın Erkan CİĞER tarafından denetlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17932_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17932_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ankara Defterdarlığı Eğitim Müdürlüğü 2026 yılı eğitim programı kapsamında  7-8 Mayıs 2026 (4. Grup )  ilk yardım eğitimleri tamamlanmış olup ilk yardım eğitimlerimiz yıl içinde devam edecektir.]]></title>
@@ -68,6 +92,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17913_vergi_usul_kanunu_genel_tebligi_sira_no%3A_593_resmi_gazetede_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17913_vergi_usul_kanunu_genel_tebligi_sira_no%3A_593_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esnaf Odaları Birliğine Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17930_esnaf_odalari_birligine_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17930_esnaf_odalari_birligine_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -374,38 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17871_37._vergi_haftasi_kapsaminda_mukellef_ziyareti_geceklestirilmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU E. Enerji ve Tabi Kaynaklar Bakanı, Eskişehir Milletvekili Sn. Fatih DÖNMEZ’i Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17867_defterdarimiz_sn._cemil_musevitoglu_e._enerji_ve_tabi_kaynaklar_bakani%2C_eskisehir_milletvekili_sn._fatih_donmezi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 Mayıs Emek ve Dayanışma Günü Kutlu Olsun.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17885_1_mayis_emek_ve_dayanisma_gunu_kutlu_olsun.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17885_1_mayis_emek_ve_dayanisma_gunu_kutlu_olsun.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11263 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17866_11263_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17866_11263_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımıza Büra Memur Sen Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17869_defterdarimiza_bura_memur_sen_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17869_defterdarimiza_bura_memur_sen_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
