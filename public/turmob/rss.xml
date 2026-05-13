@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 07:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 07:05:18 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Üretim Odaklı Vergi Yaklaşımı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/d0844802-7b4a-45c6-87c7-78c8da157b5d/uretim-odakli-vergi-yaklasimi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/d0844802-7b4a-45c6-87c7-78c8da157b5d/uretim-odakli-vergi-yaklasimi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SÜRGEM  Eğitimleri Devam Ediyor. Mayıs Ayı Eğitim Başvuruları Başlamıştır]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/24b6aad7-7532-4a50-a73e-81c83a9b52b6/trafik-cezasi-tutanagi-ve-sgk-idari-para-cezasi-iliskisi</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KDV-1 BEYANNAMESİNDE YAPILAN GÜNCEL DEĞİŞİKLİKLER]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/b31a9873-d000-472a-9be8-a6930a6f8e4e/kdv-1-beyannamesinde-yapilan-guncel-degisiklikler</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/b31a9873-d000-472a-9be8-a6930a6f8e4e/kdv-1-beyannamesinde-yapilan-guncel-degisiklikler</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
