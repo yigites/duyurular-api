@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 07:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 07:09:44 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17700_bursa_uludag_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Recep SERDAR; MÜSİAD Zonguldak Şube Başkanı Sayın Abdülkadir AKTARI'yı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17991_defterdarimiz_sayin_recep_serdar%3B_musiad_zonguldak_sube_baskani_sayin_abdulkadir_aktariyi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17991_defterdarimiz_sayin_recep_serdar%3B_musiad_zonguldak_sube_baskani_sayin_abdulkadir_aktariyi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TOPLANTI]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17988_toplanti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17988_toplanti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kars İdare Mahkemesi Başkanı Sayın Mehmet Akif AKAR, Defterdarımız Sayın Fatih POLAT'ı Makamında Ziyaret Etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17986_kars_idare_mahkemesi_baskani_sayin_mehmet_akif_akar%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17986_kars_idare_mahkemesi_baskani_sayin_mehmet_akif_akar%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kariyer Büro Sen Karadeniz Şube Başkanı Mustafa GÜL , Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17985_kariyer_buro_sen_karadeniz_sube_baskani_mustafa_gul_%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17985_kariyer_buro_sen_karadeniz_sube_baskani_mustafa_gul_%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gümüşhane Üniversitesi öğrencilerinden Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17983_gumushane_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17983_gumushane_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17981_mukellef_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17981_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarlığımızca Veda Yemeği Düzenlendi.]]></title>
@@ -48,10 +96,26 @@
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sakarya Üniversitesi Maliye Topluluğu, "Vergi,Denetim ve Kariyer Yolculuğu" Konulu Seminer Düzenledi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17987_sakarya_universitesi_maliye_toplulugu%2C_vergi%2Cdenetim_ve_kariyer_yolculugu_konulu_seminer_duzenledi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17987_sakarya_universitesi_maliye_toplulugu%2C_vergi%2Cdenetim_ve_kariyer_yolculugu_konulu_seminer_duzenledi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarlık Personeline Yeşilay Tarafından Bağımlılık Farkındalık Eğitimi verildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17976_defterdarlik_personeline_yesilay_tarafindan_bagimlilik_farkindalik_egitimi_verildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17976_defterdarlik_personeline_yesilay_tarafindan_bagimlilik_farkindalik_egitimi_verildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankara Tüm Emlakçılar Meslek Odası Başkanı Sayın Burak ARPACI ve Başkan Yardımcısı Sayın Cem KOÇYİĞİTOĞLU, Ankara Defterdarı Sayın Yüksel Duman’a nezaket ziyaretinde bulunmuştur.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17984_ankara_tum_emlakcilar_meslek_odasi_baskani_sayin_burak_arpaci_ve_baskan_yardimcisi_sayin_cem_kocyigitoglu%2C_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmustur._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17984_ankara_tum_emlakcilar_meslek_odasi_baskani_sayin_burak_arpaci_ve_baskan_yardimcisi_sayin_cem_kocyigitoglu%2C_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmustur._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -88,6 +152,14 @@
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Çavdır Vergi Dairesi Müdür V. Sn. Askeri KARAKUZU ile birlikte Çavdır İlçesi Söğüt Belediye Başkanı Sayın Ayhan YURDASİPER'i ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17989_defterdarimiz_sn_veysel_sezgin%2C_cavdir_vergi_dairesi_mudur_v._sn._askeri_karakuzu_ile_birlikte_cavdir_ilcesi_sogut_belediye_baskani_sayin_ayhan_yurdasiperi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17989_defterdarimiz_sn_veysel_sezgin%2C_cavdir_vergi_dairesi_mudur_v._sn._askeri_karakuzu_ile_birlikte_cavdir_ilcesi_sogut_belediye_baskani_sayin_ayhan_yurdasiperi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17972_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
@@ -96,18 +168,18 @@
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[İlimiz Gelir Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Seher COŞKUN' a Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <title><![CDATA[Defterdarımız Sayın Mustafa Kurt,  şehit ve gazi yakını ile gazi personellerimizle bir araya geldi]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17880_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_seher_coskun_a_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17880_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_seher_coskun_a_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17982_defterdarimiz_sayin_mustafa_kurt%2C__sehit_ve_gazi_yakini_ile_gazi_personellerimizle_bir_araya_geldi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17982_defterdarimiz_sayin_mustafa_kurt%2C__sehit_ve_gazi_yakini_ile_gazi_personellerimizle_bir_araya_geldi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[İlimiz Gelir Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Mehmet COŞKUN'a Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Çavdır Kaymakamı Sn. Özgü ÖZEN'i makamında ziyaret etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17899_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_mehmet_coskuna_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17899_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_mehmet_coskuna_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17990_defterdarimiz_sn_veysel_sezgin%2C_cavdir_kaymakami_sn._ozgu_ozeni_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17990_defterdarimiz_sn_veysel_sezgin%2C_cavdir_kaymakami_sn._ozgu_ozeni_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -334,78 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17934_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_muharrem_coskun%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["İNSANI YAŞAT Kİ DEVLET YAŞASIN."]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17933_insani_yasat_ki_devlet_yasasin.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17933_insani_yasat_ki_devlet_yasasin.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bütünleşik Kamu Mali Yönetim Bilişim Sisteminin Mahalli İdarelerde Kullanımının Yaygınlaştırılması Konulu Bilgilendirme ve Değerlendirme Toplantısı Yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17949_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_kullaniminin_yayginlastirilmasi_konulu_bilgilendirme_ve_degerlendirme_toplantisi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17949_butunlesik_kamu_mali_yonetim_bilisim_sisteminin_mahalli_idarelerde_kullaniminin_yayginlastirilmasi_konulu_bilgilendirme_ve_degerlendirme_toplantisi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuaförler Ve Güzellik Salonları Denetlendi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17928_kuaforler_ve_guzellik_salonlari_denetlendi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17928_kuaforler_ve_guzellik_salonlari_denetlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ACI KAYBIMIZ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17931_aci_kaybimiz</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17931_aci_kaybimiz</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız denetim ekiplerince gerçekleştirilen yaygın ve yoğun vergi denetimlerinde görevli personelimiz çalışma alanlarında Çorum Defterdarı Sayın Erkan CİĞER tarafından denetlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17932_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17932_defterdarligimiz_denetim_ekiplerince_gerceklestirilen_yaygin_ve_yogun_vergi_denetimlerinde_gorevli_personelimiz_calisma_alanlarinda_corum_defterdari_sayin_erkan_ciger_tarafindan_denetlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Değerlendirme ve Planlama Toplantısı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17954_degerlendirme_ve_planlama_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17954_degerlendirme_ve_planlama_toplantisi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ankara Defterdarlığı Eğitim Müdürlüğü 2026 yılı eğitim programı kapsamında  7-8 Mayıs 2026 (4. Grup )  ilk yardım eğitimleri tamamlanmış olup ilk yardım eğitimlerimiz yıl içinde devam edecektir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17925_ankara_defterdarligi_egitim_mudurlugu_2026_yili_egitim_programi_kapsaminda__78_mayis_2026_4._grup___ilk_yardim_egitimleri_tamamlanmis_olup_ilk_yardim_egitimlerimiz_yil_icinde_devam_edecektir._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17925_ankara_defterdarligi_egitim_mudurlugu_2026_yili_egitim_programi_kapsaminda__78_mayis_2026_4._grup___ilk_yardim_egitimleri_tamamlanmis_olup_ilk_yardim_egitimlerimiz_yil_icinde_devam_edecektir._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17924_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17924_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aksaray Üniversitesi Ziyaret Edildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17923_aksaray_universitesi_ziyaret_edildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17923_aksaray_universitesi_ziyaret_edildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
