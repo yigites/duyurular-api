@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 07:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 06:49:08 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17700_bursa_uludag_universitesi_ogrencilerinden_defterdarligimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile Katma Değer Vergisi Beyannamelerinin Verilme Süreleri ve Bu Beyannameler Üzerine Tahakkuk Eden Vergilerin Ödeme Sürelerinin Uzatılmasına İlişkin Sirküler Yayınlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18001_muhtasar_ve_prim_hizmet%2C_konaklama_vergisi_ve_damga_vergisi_beyannameleri_ile_katma_deger_vergisi_beyannamelerinin_verilme_sureleri_ve_bu_beyannameler_uzerine_tahakkuk_eden_vergilerin_odeme_surelerinin_uzatilmasina_iliskin_sirkuler_yayinlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18001_muhtasar_ve_prim_hizmet%2C_konaklama_vergisi_ve_damga_vergisi_beyannameleri_ile_katma_deger_vergisi_beyannamelerinin_verilme_sureleri_ve_bu_beyannameler_uzerine_tahakkuk_eden_vergilerin_odeme_surelerinin_uzatilmasina_iliskin_sirkuler_yayinlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEFTERDARLIĞIMIZCA 15 MAYIS 2026 TARİHİNDE ÖZEL YOKLAMA YETKİLİ MEMURLARIN SEÇİMİ SINAVI GERÇEKLEŞTİRİLDİ.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17999_defterdarligimizca_15_mayis_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17999_defterdarligimizca_15_mayis_2026_tarihinde_ozel_yoklama_yetkili_memurlarin_secimi_sinavi_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kariyer Fuarında bilgilendirme yapmak üzere stant açıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17998_kariyer_fuarinda_bilgilendirme_yapmak_uzere_stant_acildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17998_kariyer_fuarinda_bilgilendirme_yapmak_uzere_stant_acildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mersin Valiliğinden orman yangını Riskine karşı önemli uyarı!]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17997_mersin_valiliginden_orman_yangini_riskine_karsi_onemli_uyari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17997_mersin_valiliginden_orman_yangini_riskine_karsi_onemli_uyari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beypazarı ilçesinde; unutulmaya yüz tutmuş geleneksel sanat ve meslekleri yaşatan mükelleflerimiz ile Sayın Emine ERDOĞAN’ın himayelerinde yürütülen Anadoludakiler Projesi içerisinde yer alan kadın kooperatifleri ziyaret edilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17993_beypazari_ilcesinde%3B_unutulmaya_yuz_tutmus_geleneksel_sanat_ve_meslekleri_yasatan_mukelleflerimiz_ile_sayin_emine_erdoganin_himayelerinde_yurutulen_anadoludakiler_projesi_icerisinde_yer_alan_kadin_kooperatifleri_ziyaret_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17993_beypazari_ilcesinde%3B_unutulmaya_yuz_tutmus_geleneksel_sanat_ve_meslekleri_yasatan_mukelleflerimiz_ile_sayin_emine_erdoganin_himayelerinde_yurutulen_anadoludakiler_projesi_icerisinde_yer_alan_kadin_kooperatifleri_ziyaret_edilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İzmir Defterdarlığı Türk Sanat Müziği Korosu Konseri Gerçekleşti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17992_izmir_defterdarligi_turk_sanat_muzigi_korosu_konseri_gerceklesti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17992_izmir_defterdarligi_turk_sanat_muzigi_korosu_konseri_gerceklesti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarımız Sayın Recep SERDAR; MÜSİAD Zonguldak Şube Başkanı Sayın Abdülkadir AKTARI'yı Ziyaret Etti.]]></title>
@@ -356,54 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17938_elektronik_defterlerin_olusturulma_ve_imzalanma_suresi_ile_elektronik_defter_ve_berat_dosyalarinin_gelir_idaresi_baskanligi_bilgi_islem_sistemine_yuklenme_suresi_uzatildi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17938_elektronik_defterlerin_olusturulma_ve_imzalanma_suresi_ile_elektronik_defter_ve_berat_dosyalarinin_gelir_idaresi_baskanligi_bilgi_islem_sistemine_yuklenme_suresi_uzatildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca Erbaa İlçemizde faaliyette bulunan Erapen Orman Ürünleri Ltd. Şti. ziyaret edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17967_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_erapen_orman_urunleri_ltd._sti._ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17967_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_erapen_orman_urunleri_ltd._sti._ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Değerlendirme Toplantısı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17937_degerlendirme_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17937_degerlendirme_toplantisi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17936_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17936_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca Erbaa İlçemizde faaliyette bulunan Oma Polimer A.Ş. ziyaret edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17966_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_oma_polimer_a.s._ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17966_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_oma_polimer_a.s._ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Havelsan Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17935__havelsan_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17935__havelsan_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sayın Muharrem COŞKUN, Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17934_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_muharrem_coskun%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17934_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sayin_muharrem_coskun%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         </item>
