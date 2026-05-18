@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 06:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 07:26:07 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -24,10 +24,42 @@
             <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defterdarlığımız, Eskişehir Valiliğince Düzenlenen ve Osmangazi Üniversitesi'nde Gerçekleştirilen "Mücadele Döneminde Eskişehir Sempozyumu"na Katıldı.]]></title>
+            <title><![CDATA[19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı Kutlu Olsun.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18003_defterdarligimiz%2C_eskisehir_valiligince_duzenlenen_ve_osmangazi_universitesinde_gerceklestirilen_mucadele_doneminde_eskisehir_sempozyumuna_katildi._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18003_defterdarligimiz%2C_eskisehir_valiligince_duzenlenen_ve_osmangazi_universitesinde_gerceklestirilen_mucadele_doneminde_eskisehir_sempozyumuna_katildi._</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18008_19_mayis_ataturku_anma_genclik_ve_spor_bayrami_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18008_19_mayis_ataturku_anma_genclik_ve_spor_bayrami_kutlu_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İzmir Defterdarlığı Koordinasyonunda BKMYBS’nin Belediyelerde Yaygınlaştırılmasına Yönelik Değerlendirme Toplantısı Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18009_izmir_defterdarligi_koordinasyonunda_bkmybsnin_belediyelerde_yayginlastirilmasina_yonelik_degerlendirme_toplantisi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18009_izmir_defterdarligi_koordinasyonunda_bkmybsnin_belediyelerde_yayginlastirilmasina_yonelik_degerlendirme_toplantisi_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Üniversitelerin Kurumumuzu Ziyaretleri – Necmettin Erbakan Üniversitesi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18006_universitelerin_kurumumuzu_ziyaretleri__necmettin_erbakan_universitesi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18006_universitelerin_kurumumuzu_ziyaretleri__necmettin_erbakan_universitesi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Takip Uygulama Birliği Eğitimi Düzenlenmiştir]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18010_takip_uygulama_birligi_egitimi_duzenlenmistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18010_takip_uygulama_birligi_egitimi_duzenlenmistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız, Eskişehir Valiliğince Düzenlenen ve Osmangazi Üniversitesi'nde Gerçekleştirilen "Milli Mücadele Döneminde Eskişehir Sempozyumu"na Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18003_defterdarligimiz%2C_eskisehir_valiligince_duzenlenen_ve_osmangazi_universitesinde_gerceklestirilen_milli_mucadele_doneminde_eskisehir_sempozyumuna_katildi._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18003_defterdarligimiz%2C_eskisehir_valiligince_duzenlenen_ve_osmangazi_universitesinde_gerceklestirilen_milli_mucadele_doneminde_eskisehir_sempozyumuna_katildi._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -52,6 +84,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17998_kariyer_fuarinda_bilgilendirme_yapmak_uzere_stant_acildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17998_kariyer_fuarinda_bilgilendirme_yapmak_uzere_stant_acildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11-15 Mayıs 2026 tarihlerinde Personelimize Mevzuat Güncelleme Eğitimi Verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18004_1115_mayis_2026_tarihlerinde_personelimize_mevzuat_guncelleme_egitimi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18004_1115_mayis_2026_tarihlerinde_personelimize_mevzuat_guncelleme_egitimi_verildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
         </item>
@@ -364,46 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17970_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_arilar_petrol_urunleri_dinlenme_tesisleri_tic._ve_san._ltd._sti._ziyaret_edilmistir.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17970_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_arilar_petrol_urunleri_dinlenme_tesisleri_tic._ve_san._ltd._sti._ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkiye Cumhuriyeti Hükümeti ile Tanzanya Birleşik Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığı ile Vergiden Kaçınmaya Engel Olma Anlaşması Darüsselam’da İmzalanmıştır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17945_turkiye_cumhuriyeti_hukumeti_ile_tanzanya_birlesik_cumhuriyeti_hukumeti_arasinda_gelir_uzerinden_alinan_vergilerde_cifte_vergilendirmeyi_onleme_ve_vergi_kacakciligi_ile_vergiden_kacinmaya_engel_olma_anlasmasi_darusselamda_imzalanmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17945_turkiye_cumhuriyeti_hukumeti_ile_tanzanya_birlesik_cumhuriyeti_hukumeti_arasinda_gelir_uzerinden_alinan_vergilerde_cifte_vergilendirmeyi_onleme_ve_vergi_kacakciligi_ile_vergiden_kacinmaya_engel_olma_anlasmasi_darusselamda_imzalanmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Recep SERDAR; Zonguldak SGK İl Müdürü Sayın İhsan ŞAN'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17944_defterdarimiz_sayin_recep_serdar%3B_zonguldak_sgk_il_muduru_sayin_ihsan_sani_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17944_defterdarimiz_sayin_recep_serdar%3B_zonguldak_sgk_il_muduru_sayin_ihsan_sani_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca Erbaa İlçemizde faaliyette bulunan Ali Ulusoy Yapı İnş. San. Tic. Ltd. Şti. ziyaret edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17968_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_ali_ulusoy_yapi_ins._san._tic._ltd._sti._ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17968_defterdarligimizca_erbaa_ilcemizde_faaliyette_bulunan_ali_ulusoy_yapi_ins._san._tic._ltd._sti._ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17943_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17943_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca Kurumlar Vergi Kanunu ve Uygulamaları eğitimi düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17942_defterdarligimizca_kurumlar_vergi_kanunu_ve_uygulamalari_egitimi_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17942_defterdarligimizca_kurumlar_vergi_kanunu_ve_uygulamalari_egitimi_duzenlenmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         </item>
