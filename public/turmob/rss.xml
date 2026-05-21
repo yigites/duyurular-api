@@ -4,9 +4,25 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 07:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 07:19:56 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[AKYURT İLÇESİNDE BULUNAN TAŞINMAZA İLİŞKİN KAMUOYU AÇIKLAMASI]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/37092777-22bc-4012-b413-6ca96a88a822/akyurt-ilcesinde-bulunan-tasinmaza-iliskin-kamuoyu-aciklamasi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/37092777-22bc-4012-b413-6ca96a88a822/akyurt-ilcesinde-bulunan-tasinmaza-iliskin-kamuoyu-aciklamasi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KGK Kurumsal Sürdürülebilirlik Raporlama Uzmanlığı Eğitimi (MERSİN)]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/5ed98970-96ce-4329-80de-325f2256a38c/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi--mersin-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5ed98970-96ce-4329-80de-325f2256a38c/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi--mersin-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesleki ve Kişisel Gelişim Eğitim Serisi EĞİTİM-2: "ÇATIŞMA YÖNETİMİ"]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/102e8b1b-b3dc-4672-b090-a28f3fea0d51/sorumlulugun-adaleti-olmadan-vergi-sisteminde-saglikli-isleyis-olmaz</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KGK Sürdürülebilirlik Denetçiliği Sınavı'na Hazırlık Kursu Kayıtları Başladı!]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/7ecf3223-d10f-489d-99cd-aac989257389/kgk-surdurulebilirlik-denetciligi-sinavi-na-hazirlik-kursu-kayitlari-basladi-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/7ecf3223-d10f-489d-99cd-aac989257389/kgk-surdurulebilirlik-denetciligi-sinavi-na-hazirlik-kursu-kayitlari-basladi-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LUCA Mali Müşavir Farkındalık Eğitimi Webinar, 17 Nisan 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/a2beec59-3159-4f9b-9fa9-9526c4397626/luca-mali-musavir-farkindalik-egitimi-webinar--17-nisan-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/a2beec59-3159-4f9b-9fa9-9526c4397626/luca-mali-musavir-farkindalik-egitimi-webinar--17-nisan-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
