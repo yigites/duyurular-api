@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 07:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 07:36:51 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18026_banka_promosyon_ihalesi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18065_kurumlar_vergisi_genel_tebligi_seri_no%3A_1nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_25_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18065_kurumlar_vergisi_genel_tebligi_seri_no%3A_1nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_25_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gelir İdaresi Grup Müdürlüğü Sınavı Sonucu Açıklandı]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17992_izmir_defterdarligi_turk_sanat_muzigi_korosu_konseri_gerceklesti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17992_izmir_defterdarligi_turk_sanat_muzigi_korosu_konseri_gerceklesti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Recep SERDAR; MÜSİAD Zonguldak Şube Başkanı Sayın Abdülkadir AKTARI'yı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17991_defterdarimiz_sayin_recep_serdar%3B_musiad_zonguldak_sube_baskani_sayin_abdulkadir_aktariyi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17991_defterdarimiz_sayin_recep_serdar%3B_musiad_zonguldak_sube_baskani_sayin_abdulkadir_aktariyi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
         </item>
