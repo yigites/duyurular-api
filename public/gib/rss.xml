@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 07:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 07:45:16 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18026_banka_promosyon_ihalesi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Uzman Yardımcılığı temel eğitim sınav sonuç tutanağı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18134_gelir_uzman_yardimciligi_temel_egitim_sinav_sonuc_tutanagi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18134_gelir_uzman_yardimciligi_temel_egitim_sinav_sonuc_tutanagi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7440 Sayılı Yapılandırma Kanunu Kapsamında Borçlarını 36 Taksitte Ödemeyi Seçen Mükellefler İçin Son Fırsat]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18133_7440_sayili_yapilandirma_kanunu_kapsaminda_borclarini_36_taksitte_odemeyi_secen_mukellefler_icin_son_firsat</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18133_7440_sayili_yapilandirma_kanunu_kapsaminda_borclarini_36_taksitte_odemeyi_secen_mukellefler_icin_son_firsat</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgilerinin Değişimine İlişkin Çok Taraflı Yetkili Makam Anlaşması Onaylanmıştır]]></title>
@@ -48,6 +64,14 @@
             <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarlığımız “Vergi Bilinci Takımı” Görevlisi Personelimizle Toplantı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18132_defterdarligimiz_vergi_bilinci_takimi_gorevlisi_personelimizle_toplanti_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18132_defterdarligimiz_vergi_bilinci_takimi_gorevlisi_personelimizle_toplanti_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yüzyüze Vergi Bilinci Eğitimlerimiz Kapsamında Eskişehir Ticaret Odası Ortaokulu Etkinliğimiz Vali Yardımcısı Sn. Abdulhamit KARACA, İl Milli Eğitim Müdürü Sn. Sinan AYDIN ve Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nun Katılımlarıyla Gerçekleştirildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18126_yuzyuze_vergi_bilinci_egitimlerimiz_kapsaminda_eskisehir_ticaret_odasi_ortaokulu_etkinligimiz_vali_yardimcisi_sn._abdulhamit_karaca%2C_il_milli_egitim_muduru_sn._sinan_aydin_ve_defterdarimiz_sn._cemil_musevitoglunun_katilimlariyla_gerceklestirildi.</link>
@@ -76,6 +100,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18123_defterdarimiz_sayin_recep_serdar%2C_devrek_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18123_defterdarimiz_sayin_recep_serdar%2C_devrek_vergi_dairesi_mudurlugunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valimiz Sayın İhsan Selim BAYDAŞ, Defterdarlığımızı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18135_valimiz_sayin_ihsan_selim_baydas%2C_defterdarligimizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18135_valimiz_sayin_ihsan_selim_baydas%2C_defterdarligimizi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
         </item>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18072_izmir_defterdarimiz_sayin_omer_alanli_ve_grup_mudurlerimiz%2C_idarecilerimizin_ve_personelimizin_kurban_bayramini_kutladilar.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18072_izmir_defterdarimiz_sayin_omer_alanli_ve_grup_mudurlerimiz%2C_idarecilerimizin_ve_personelimizin_kurban_bayramini_kutladilar.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adıyaman Çelikhan Kaymakamı Sn. Özgür PELVAN, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18071_adiyaman_celikhan_kaymakami_sn._ozgur_pelvan%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18071_adiyaman_celikhan_kaymakami_sn._ozgur_pelvan%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kurban Bayramı Vesilesiyle Defterdarlığımızda Bayramlaşma Merasimi Düzenlendi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18070_kurban_bayrami_vesilesiyle_defterdarligimizda_bayramlasma_merasimi_duzenlendi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18070_kurban_bayrami_vesilesiyle_defterdarligimizda_bayramlasma_merasimi_duzenlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU ve Grup Müdürlerimiz, Tüm Birimlerimizdeki Çalışma Arkadaşlarımızla Bayramlaştı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18069_defterdarimiz_sn._cemil_musevitoglu_ve_grup_mudurlerimiz%2C_tum_birimlerimizdeki_calisma_arkadaslarimizla_bayramlasti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18069_defterdarimiz_sn._cemil_musevitoglu_ve_grup_mudurlerimiz%2C_tum_birimlerimizdeki_calisma_arkadaslarimizla_bayramlasti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ, Defterdarlığımıza bağlı birimlerde görev yapan personellerimizin Kurban Bayramını kutladı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18087_defterdarimiz_sayin_reyhan_kokcu%2C_defterdarligimiza_bagli_birimlerde_gorev_yapan_personellerimizin_kurban_bayramini_kutladi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18087_defterdarimiz_sayin_reyhan_kokcu%2C_defterdarligimiza_bagli_birimlerde_gorev_yapan_personellerimizin_kurban_bayramini_kutladi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
         </item>
