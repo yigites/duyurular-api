@@ -4,7 +4,7 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 07:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 07:17:03 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
