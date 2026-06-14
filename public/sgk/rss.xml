@@ -4,7 +4,7 @@
         <description><![CDATA[Sosyal Güvenlik Kurumu Duyuru sayfasından oluşturulan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/sgk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 07:38:06 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/sgk/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
     </channel>
