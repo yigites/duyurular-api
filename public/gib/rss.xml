@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 07:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 08:02:28 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -60,6 +60,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18186_defterdarligimizda_ustun_basari_belgesi_takdimi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18186_defterdarligimizda_ustun_basari_belgesi_takdimi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maliye Yöneticileri Sendikası (Maysen) Yönetimi Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18192_maliye_yoneticileri_sendikasi_maysen_yonetimi_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18192_maliye_yoneticileri_sendikasi_maysen_yonetimi_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
         </item>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18133_7440_sayili_yapilandirma_kanunu_kapsaminda_borclarini_36_taksitte_odemeyi_secen_mukellefler_icin_son_firsat</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18133_7440_sayili_yapilandirma_kanunu_kapsaminda_borclarini_36_taksitte_odemeyi_secen_mukellefler_icin_son_firsat</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suda Boğulma Olaylarının Önlenmesinde Uygulanacak Tedbirlere İlişkin Valilik Genelge Emri]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18150_suda_bogulma_olaylarinin_onlenmesinde_uygulanacak_tedbirlere_iliskin_valilik_genelge_emri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18150_suda_bogulma_olaylarinin_onlenmesinde_uygulanacak_tedbirlere_iliskin_valilik_genelge_emri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
         </item>
