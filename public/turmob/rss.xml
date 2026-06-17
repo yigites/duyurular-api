@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 08:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 07:53:19 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Muhasebe Mesleğinin Geleceği: Güven, Teknoloji ve Dönüşüm]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/7204ab60-ff38-4614-94be-f4dc5bf09b03/muhasebe-mesleginin-gelecegi--guven--teknoloji-ve-donusum</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/7204ab60-ff38-4614-94be-f4dc5bf09b03/muhasebe-mesleginin-gelecegi--guven--teknoloji-ve-donusum</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SÜRGEM Eğitimleri Devam Ediyor. Haziran Ayı Eğitim Başvuruları Başlamıştır]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/5ed98970-96ce-4329-80de-325f2256a38c/kgk-kurumsal-surdurulebilirlik-raporlama-uzmanligi-egitimi--mersin-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mesleki ve Kişisel Gelişim Eğitim Serisi EĞİTİM-2: "ÇATIŞMA YÖNETİMİ"]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/fa94e39a-c18a-4390-a504-91cbf3d4d8fc/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-2---catisma-yonetimi-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/fa94e39a-c18a-4390-a504-91cbf3d4d8fc/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-2---catisma-yonetimi-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
