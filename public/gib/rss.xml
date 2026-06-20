@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 07:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 07:22:28 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,34 @@
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Erzurum Defterdarlığı Aziziye (Ilıca) Malmüdürlüğü Bünyesinde Bulunan Bağlı Vergi Dairesi Aziziye Vergi Dairesi Müdürlüğüne Devredilmiştir]]></title>
+            <title><![CDATA[19/6/2026 Tarihli ve 11444 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18243_erzurum_defterdarligi_aziziye_ilica_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_aziziye_vergi_dairesi_mudurlugune_devredilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18243_erzurum_defterdarligi_aziziye_ilica_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_aziziye_vergi_dairesi_mudurlugune_devredilmistir</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18247_1962026_tarihli_ve_11444_sayili_cumhurbaskani_karari_resmi_gazete_de_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18247_1962026_tarihli_ve_11444_sayili_cumhurbaskani_karari_resmi_gazete_de_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Uzmanlığı Yeterlik Sınavının Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18246_gelir_uzmanligi_yeterlik_sinavinin_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18246_gelir_uzmanligi_yeterlik_sinavinin_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OMÜ İktisadi ve İdari Birimler Fakültesi Dekanı Defterdarlığımızı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18245_omu_iktisadi_ve_idari_birimler_fakultesi_dekani_defterdarligimizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18245_omu_iktisadi_ve_idari_birimler_fakultesi_dekani_defterdarligimizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uşak Şoförler Ve Otomobilciler Esnaf Odası Başkanı Sayın Mustafa KORKMAZ Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18244_usak_soforler_ve_otomobilciler_esnaf_odasi_baskani_sayin_mustafa_korkmaz_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18244_usak_soforler_ve_otomobilciler_esnaf_odasi_baskani_sayin_mustafa_korkmaz_defterdarligimizi_ziyaret_etti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
         </item>
@@ -30,6 +54,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18242_konaklama_vergisi_rehberi_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erzurum Defterdarlığı Aziziye (Ilıca) Malmüdürlüğü Bünyesinde Bulunan Bağlı Vergi Dairesi Aziziye Vergi Dairesi Müdürlüğüne Devredilmiştir]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18243_erzurum_defterdarligi_aziziye_ilica_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_aziziye_vergi_dairesi_mudurlugune_devredilmistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18243_erzurum_defterdarligi_aziziye_ilica_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_aziziye_vergi_dairesi_mudurlugune_devredilmistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
@@ -374,38 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18194_teminatsiz_tecil_tutarinin_10_milyon_tl_olarak_belirlenmesine_iliskin_1262026_tarihli_ve_11414_sayili_cumhurbaskani_karari_1362026_tarihli_ve_33279_sayili_resmi_gazetede_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir Uzman Yardımcılığı Giriş Sınavı Sonucu Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18193_gelir_uzman_yardimciligi_giris_sinavi_sonucu_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18193_gelir_uzman_yardimciligi_giris_sinavi_sonucu_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Gelir İdaresi Grup Müdürü Sertan KÖYLÜ'nün Mersin Defterdarlığına atanması nedeniyle program düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18199_defterdarligimiz_gelir_idaresi_grup_muduru_sertan_koylunun_mersin_defterdarligina_atanmasi_nedeniyle_program_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18199_defterdarligimiz_gelir_idaresi_grup_muduru_sertan_koylunun_mersin_defterdarligina_atanmasi_nedeniyle_program_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afyonkarahisar’lı İş İnsanı Sn. Bekir ÇARKACI, Mali Müşavir Sn.Ömer BAL ve Eskişehir’li iş İnsanı Sn. Sinan ŞENGEL Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18191_afyonkarahisarli_is_insani_sn._bekir_carkaci%2C_mali_musavir_sn.omer_bal_ve_eskisehirli_is_insani_sn._sinan_sengel_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18191_afyonkarahisarli_is_insani_sn._bekir_carkaci%2C_mali_musavir_sn.omer_bal_ve_eskisehirli_is_insani_sn._sinan_sengel_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız personeli arasında düzenlenen Defterdarlık Halı Saha Futbol Turnuvasında şampiyon olan takım oyuncuları tarafından kazanılan kupa, İlimiz Defterdarı Sayın Erkan CİĞER'e takdim edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18189_defterdarligimiz_personeli_arasinda_duzenlenen_defterdarlik_hali_saha_futbol_turnuvasinda_sampiyon_olan_takim_oyunculari_tarafindan_kazanilan_kupa%2C_ilimiz_defterdari_sayin_erkan_cigere_takdim_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18189_defterdarligimiz_personeli_arasinda_duzenlenen_defterdarlik_hali_saha_futbol_turnuvasinda_sampiyon_olan_takim_oyunculari_tarafindan_kazanilan_kupa%2C_ilimiz_defterdari_sayin_erkan_cigere_takdim_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
