@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 07:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 08:04:40 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,12 +16,44 @@
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yeminli Mali Müşavirlik (YMM) Tasdik Raporlarının İbraz Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18251_yeminli_mali_musavirlik_ymm_tasdik_raporlarinin_ibraz_suresinin_uzatilmasina_iliskin_sirkuler_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18251_yeminli_mali_musavirlik_ymm_tasdik_raporlarinin_ibraz_suresinin_uzatilmasina_iliskin_sirkuler_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maltepe Vergi Dairesi Müdürlüğü 22.06.2026 tarihi itibariyle yeni hizmet binasında hizmet vermeye başlamıştır]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18249_maltepe_vergi_dairesi_mudurlugu_22.06.2026_tarihi_itibariyle_yeni_hizmet_binasinda_hizmet_vermeye_baslamistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18249_maltepe_vergi_dairesi_mudurlugu_22.06.2026_tarihi_itibariyle_yeni_hizmet_binasinda_hizmet_vermeye_baslamistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Gündüz Çocuk Bakımevi öğrencilerinin yaptıkları eserlerden oluşan yıl sonu sergisi Defterdarımız Sayın Yüksel DUMAN ve kıymetli velilerimizin katılımıyla gerçekleşmiştir]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18250_defterdarligimiz_gunduz_cocuk_bakimevi_ogrencilerinin_yaptiklari_eserlerden_olusan_yil_sonu_sergisi_defterdarimiz_sayin_yuksel_duman_ve_kiymetli_velilerimizin_katilimiyla_gerceklesmistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18250_defterdarligimiz_gunduz_cocuk_bakimevi_ogrencilerinin_yaptiklari_eserlerden_olusan_yil_sonu_sergisi_defterdarimiz_sayin_yuksel_duman_ve_kiymetli_velilerimizin_katilimiyla_gerceklesmistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[19/6/2026 Tarihli ve 11444 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18247_1962026_tarihli_ve_11444_sayili_cumhurbaskani_karari_resmi_gazete_de_yayimlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18247_1962026_tarihli_ve_11444_sayili_cumhurbaskani_karari_resmi_gazete_de_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Çorum Esnaf ve Sanatkar Odaları Birliği (ÇESOB) Başkanı Recep GÜR'ü Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18248_corum_defterdari_sayin_erkan_ciger%2C_corum_esnaf_ve_sanatkar_odalari_birligi_cesob_baskani_recep_guru_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18248_corum_defterdari_sayin_erkan_ciger%2C_corum_esnaf_ve_sanatkar_odalari_birligi_cesob_baskani_recep_guru_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gelir Uzmanlığı Yeterlik Sınavının Sonucu Açıklandı]]></title>
@@ -264,6 +296,14 @@
             <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yeni Faaliyete Geçen Birimlerimizi Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18252_yeni_faaliyete_gecen_birimlerimizi_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18252_yeni_faaliyete_gecen_birimlerimizi_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2024 Mali yılı Vergi Rekortmenlerinin Ziyaretleri]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18213_2024_mali_yili_vergi_rekortmenlerinin_ziyaretleri</link>
@@ -366,46 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18204_tuik_baskani_sayin_mehmet_arabaci_defterdarimiz__ilhan_karayilani_ziyaret_etti._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 Mali yılı Vergi Rekortmenlerinin Ziyeritleri]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18206_2024_mali_yili_vergi_rekortmenlerinin_ziyeritleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18206_2024_mali_yili_vergi_rekortmenlerinin_ziyeritleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca Merkezi Yönetim Harcama Belgeleri Yönetmeliği, 4734 Sayılı Kamu İhale Kanunu, 4735 Sayılı Kamu İhale Sözleşmeleri Kanunu Eğitimi düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18198_defterdarligimizca_merkezi_yonetim_harcama_belgeleri_yonetmeligi%2C_4734_sayili_kamu_ihale_kanunu%2C_4735_sayili_kamu_ihale_sozlesmeleri_kanunu_egitimi_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18198_defterdarligimizca_merkezi_yonetim_harcama_belgeleri_yonetmeligi%2C_4734_sayili_kamu_ihale_kanunu%2C_4735_sayili_kamu_ihale_sozlesmeleri_kanunu_egitimi_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emekliye Ayrılan Defterdarlığımız Personeli Ekrem Çelik için Veda Yemeği Düzenlendi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18196_emekliye_ayrilan_defterdarligimiz_personeli_ekrem_celik_icin_veda_yemegi_duzenlendi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18196_emekliye_ayrilan_defterdarligimiz_personeli_ekrem_celik_icin_veda_yemegi_duzenlendi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çukurca Malmüdürlüğü Bünyesinde Bulunan Bağlı Vergi Dairesi Hakkari Vergi Dairesi Müdürlüğüne, Derecik Malmüdürlüğü Bünyesinde Bulunan Bağlı Vergi Dairesi ise Şemdinli Vergi Dairesi Müdürlüğüne Devredilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18241_cukurca_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_hakkari_vergi_dairesi_mudurlugune%2C_derecik_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_ise_semdinli_vergi_dairesi_mudurlugune_devredilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18241_cukurca_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_hakkari_vergi_dairesi_mudurlugune%2C_derecik_malmudurlugu_bunyesinde_bulunan_bagli_vergi_dairesi_ise_semdinli_vergi_dairesi_mudurlugune_devredilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teminatsız Tecil Tutarının 10 milyon TL Olarak Belirlenmesine İlişkin 12/6/2026 Tarihli ve 11414 Sayılı Cumhurbaşkanı Kararı 13/6/2026 Tarihli ve 33279 Sayılı Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18194_teminatsiz_tecil_tutarinin_10_milyon_tl_olarak_belirlenmesine_iliskin_1262026_tarihli_ve_11414_sayili_cumhurbaskani_karari_1362026_tarihli_ve_33279_sayili_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18194_teminatsiz_tecil_tutarinin_10_milyon_tl_olarak_belirlenmesine_iliskin_1262026_tarihli_ve_11414_sayili_cumhurbaskani_karari_1362026_tarihli_ve_33279_sayili_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
