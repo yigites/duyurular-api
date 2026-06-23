@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 08:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 07:17:34 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,78 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18026_banka_promosyon_ihalesi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zonguldak SGK İl Müdürü Sayın İhsan ŞAN, Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18268_zonguldak_sgk_il_muduru_sayin_ihsan_san%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18268_zonguldak_sgk_il_muduru_sayin_ihsan_san%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER Başkanlığında 2026 Yılı İlk 6 Ayının Değerlendirilmesi İle İkinci 6 Ay Başkanlığımız Hedeflerine İlişkinToplantı Gerçekleştirilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18267_corum_defterdari_sayin_erkan_ciger_baskanliginda_2026_yili_ilk_6_ayinin_degerlendirilmesi_ile_ikinci_6_ay_baskanligimiz_hedeflerine_iliskintoplanti_gerceklestirilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18267_corum_defterdari_sayin_erkan_ciger_baskanliginda_2026_yili_ilk_6_ayinin_degerlendirilmesi_ile_ikinci_6_ay_baskanligimiz_hedeflerine_iliskintoplanti_gerceklestirilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca Veda Yemeği Düzenlendi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18265_defterdarligimizca_veda_yemegi_duzenlendi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18265_defterdarligimizca_veda_yemegi_duzenlendi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Van Kuyumcular Derneği ziyareti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18266_van_kuyumcular_dernegi_ziyareti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18266_van_kuyumcular_dernegi_ziyareti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Ahmet ÇELİK’e Veda Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18264_defterdarimiz_sn._ahmet_celike_veda_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18264_defterdarimiz_sn._ahmet_celike_veda_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deterdarımızdan Teşeşkkür Belgesi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18262_deterdarimizdan_teseskkur_belgesi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18262_deterdarimizdan_teseskkur_belgesi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orman Yangınları ile Mücadele Kapsamında Uygulanacak Tedbirlere İlişkin Valilik Kararı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18261_orman_yanginlari_ile_mucadele_kapsaminda_uygulanacak_tedbirlere_iliskin_valilik_karari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18261_orman_yanginlari_ile_mucadele_kapsaminda_uygulanacak_tedbirlere_iliskin_valilik_karari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Ümit KÖKDEMİR, Rize İl Müftüsü Sayın Naci ÇAKMAKÇI'yı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18259_defterdarimiz_sayin_umit_kokdemir%2C_rize_il_muftusu_sayin_naci_cakmakciyi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18259_defterdarimiz_sayin_umit_kokdemir%2C_rize_il_muftusu_sayin_naci_cakmakciyi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca 657 Devlet Memurları Kanunu, Resmi Yazışma Kuralları, 4982 Sayılı Bilgi Edinme Kanunu, 3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun eğitimi düzenlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18254_defterdarligimizca_657_devlet_memurlari_kanunu%2C_resmi_yazisma_kurallari%2C_4982_sayili_bilgi_edinme_kanunu%2C_3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun_egitimi_duzenlenmistir._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18254_defterdarligimizca_657_devlet_memurlari_kanunu%2C_resmi_yazisma_kurallari%2C_4982_sayili_bilgi_edinme_kanunu%2C_3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun_egitimi_duzenlenmistir._</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yeminli Mali Müşavirlik (YMM) Tasdik Raporlarının İbraz Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı]]></title>
@@ -48,10 +120,26 @@
             <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[15-19 Mayıs 2026 tarihlerinde Personelimize Mevzuat Güncelleme Eğitimi Verildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18269_1519_mayis_2026_tarihlerinde_personelimize_mevzuat_guncelleme_egitimi_verildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18269_1519_mayis_2026_tarihlerinde_personelimize_mevzuat_guncelleme_egitimi_verildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Çorum Esnaf ve Sanatkar Odaları Birliği (ÇESOB) Başkanı Recep GÜR'ü Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18248_corum_defterdari_sayin_erkan_ciger%2C_corum_esnaf_ve_sanatkar_odalari_birligi_cesob_baskani_recep_guru_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18248_corum_defterdari_sayin_erkan_ciger%2C_corum_esnaf_ve_sanatkar_odalari_birligi_cesob_baskani_recep_guru_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kurumumuz Personellerine 6331 Sayılı Kanun Kapsamında İş Sağlığı ve Güvenliği Temel Çalışan Eğitiminin 2. Grubu Tamamlandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18263_kurumumuz_personellerine_6331_sayili_kanun_kapsaminda_is_sagligi_ve_guvenligi_temel_calisan_egitiminin_2._grubu_tamamlandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18263_kurumumuz_personellerine_6331_sayili_kanun_kapsaminda_is_sagligi_ve_guvenligi_temel_calisan_egitiminin_2._grubu_tamamlandi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
         </item>
@@ -318,94 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18212_sakarya_defterdari_sayin_ayhan_yaman_sakarya_esnaf_ve_sanatkarlar_odasini_ziyaret_etti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tahsilat Genel Tebliği (Seri: B Sıra No: 20) Resmî Gazete’de Yayımlandı!]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18211_tahsilat_genel_tebligi_seri%3A_b_sira_no%3A_20_resm_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18211_tahsilat_genel_tebligi_seri%3A_b_sira_no%3A_20_resm_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Dairesine Olan Borçların Düşük Oranlı Tecil Faizi ile Taksitlendirilmesi Rehberi ve İnfografik Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18210_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi_rehberi_ve_infografik_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18210_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi_rehberi_ve_infografik_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18208_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18208_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asalet Yemin Töreni]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18219_asalet_yemin_toreni</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18219_asalet_yemin_toreni</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[27 Haziran 2026 Tarihinde Yapılacak Vergi Dairesi Müdür Yardımcılığı Sınavına Katılacak Adaylar ile Sınav Giriş Yerleri Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18207_27_haziran_2026_tarihinde_yapilacak_vergi_dairesi_mudur_yardimciligi_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18207_27_haziran_2026_tarihinde_yapilacak_vergi_dairesi_mudur_yardimciligi_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Dairesine Olan Borçların Düşük Oranlı Tecil Faizi ile Taksitlendirilmesi Rehberi ve İnfografik Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18205_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi_rehberi_ve_infografik_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18205_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi_rehberi_ve_infografik_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tahsilat Genel Tebliği (Seri:B Sıra No:20) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18202_tahsilat_genel_tebligi_seri%3Ab_sira_no%3A20_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18202_tahsilat_genel_tebligi_seri%3Ab_sira_no%3A20_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 58) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18203_katma_deger_vergisi_genel_uygulama_tebliginde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_58_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18203_katma_deger_vergisi_genel_uygulama_tebliginde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_58_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ DAİRESİNE OLAN BORÇLARIN DÜŞÜK ORANLI TECİL FAİZİ İLE TAKSİTLENDİRİLMESİ  REHBERİ VE  İNFOGRAFİK YAYIMLANDI]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18216_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi__rehberi_ve__infografik_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18216_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirilmesi__rehberi_ve__infografik_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18200_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18200_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TÜİK Başkanı Sayın Mehmet ARABACI Defterdarımız  İlhan KARAYILAN'ı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18204_tuik_baskani_sayin_mehmet_arabaci_defterdarimiz__ilhan_karayilani_ziyaret_etti._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18204_tuik_baskani_sayin_mehmet_arabaci_defterdarimiz__ilhan_karayilani_ziyaret_etti._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
