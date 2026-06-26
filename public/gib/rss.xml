@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 07:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 07:20:19 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18026_banka_promosyon_ihalesi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Servet YILMAZ'ı ziyeret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18303_defterdarimiz_sayin_servet_yilmazi_ziyeret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18303_defterdarimiz_sayin_servet_yilmazi_ziyeret.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aksaray Valimiz Sayın Murat Duru'nun eşi Elif Duru Hanımefendi Defterdarlığımızı Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18302_aksaray_valimiz_sayin_murat_durunun_esi_elif_duru_hanimefendi_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18302_aksaray_valimiz_sayin_murat_durunun_esi_elif_duru_hanimefendi_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asalet Yemin Töreni]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18301_asalet_yemin_toreni</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18301_asalet_yemin_toreni</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Mart 2026 tarihinde yazılı bölümü, 21-30 Nisan 2026 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olan adaylardan istenecek belgeler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18300_7_mart_2026_tarihinde_yazili_bolumu%2C_2130_nisan_2026_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olan_adaylardan_istenecek_belgeler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18300_7_mart_2026_tarihinde_yazili_bolumu%2C_2130_nisan_2026_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olan_adaylardan_istenecek_belgeler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Edirne SMMM Odası konferans salonunda Edirne Defterdarı Ulvi Cantürk KAYA başkanlığında 7582 sayılı Kanunla) 6183 sayılı Kanunun 48.maddesinde yapılan değişikliğe  ilişkin bilgilendirme toplantısı yapılmıştır.]]></title>
@@ -96,14 +128,6 @@
             <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[İlimiz Kurumlar Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Nurtaş Market Pazarlama Tic. Ltd. Şti' ye Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17887_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_nurtas_market_pazarlama_tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17887_ilimiz_kurumlar_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_nurtas_market_pazarlama_tic._ltd._sti_ye_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yüz yüze vergi bilincini geliştirme eğitimleri kapsamında, öğrencilere yönelik vergi bilinci ve farkındalık eğitimi verilmiştir.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18288_yuz_yuze_vergi_bilincini_gelistirme_egitimleri_kapsaminda%2C_ogrencilere_yonelik_vergi_bilinci_ve_farkindalik_egitimi_verilmistir.</link>
@@ -116,14 +140,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18287_oda_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18287_oda_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İlimiz Gelir Vergisi Mükelleflerinden 2024 Yılı Vergi Rekortmeni Alperen BOL'a Defterdarımız Ali ÇAKIR tarafından teşekkür belgesi verilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/17899_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_alperen_bola_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/17899_ilimiz_gelir_vergisi_mukelleflerinden_2024_yili_vergi_rekortmeni_alperen_bola_defterdarimiz_ali_cakir_tarafindan_tesekkur_belgesi_verilmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18245_omu_iktisadi_ve_idari_birimler_fakultesi_dekani_defterdarligimizi_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18245_omu_iktisadi_ve_idari_birimler_fakultesi_dekani_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uşak Şoförler Ve Otomobilciler Esnaf Odası Başkanı Sayın Mustafa KORKMAZ Defterdarlığımızı Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18244_usak_soforler_ve_otomobilciler_esnaf_odasi_baskani_sayin_mustafa_korkmaz_defterdarligimizi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18244_usak_soforler_ve_otomobilciler_esnaf_odasi_baskani_sayin_mustafa_korkmaz_defterdarligimizi_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Konaklama Vergisi Rehberi Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18242_konaklama_vergisi_rehberi_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18242_konaklama_vergisi_rehberi_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
         </item>
