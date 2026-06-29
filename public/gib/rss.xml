@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 07:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 07:46:05 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18026_banka_promosyon_ihalesi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İzmir Defterdarlığında Karne Coşkusu]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18315_izmir_defterdarliginda_karne_coskusu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18315_izmir_defterdarliginda_karne_coskusu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Dairesi Müdürlüğü Sınavı Sonucu Açıklandı]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18261_orman_yanginlari_ile_mucadele_kapsaminda_uygulanacak_tedbirlere_iliskin_valilik_karari</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18261_orman_yanginlari_ile_mucadele_kapsaminda_uygulanacak_tedbirlere_iliskin_valilik_karari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 Mali yılı Vergi Rekortmenlerinin Ziyaretleri]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18282_2024_mali_yili_vergi_rekortmenlerinin_ziyaretleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18282_2024_mali_yili_vergi_rekortmenlerinin_ziyaretleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
         </item>
