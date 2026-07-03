@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 07:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 07:07:19 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Temel Yapay Zeka Kullanım Eğitimi]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/a79d3da8-0f64-49a8-a6c5-7c323c4fbb9c/temel-yapay-zeka-kullanim-egitimi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/a79d3da8-0f64-49a8-a6c5-7c323c4fbb9c/temel-yapay-zeka-kullanim-egitimi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesleki Özerklik İçin Önemli Bir Hukuk Kararı]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0607f74f-1ce1-4ea7-a749-31e3d0a32beb/basinda-turmob--mayis-sayisi-yayinda</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ekonomik Gelişme İçin Güven Esastır]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/624f5aaa-65db-4c89-a74a-bf212dcf8bdf/ekonomik-gelisme-icin-guven-esastir</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/624f5aaa-65db-4c89-a74a-bf212dcf8bdf/ekonomik-gelisme-icin-guven-esastir</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
