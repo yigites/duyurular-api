@@ -4,9 +4,17 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 07:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 08:12:19 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[11511 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18434_11511_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18434_11511_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[İstanbul Ticaret Odası (İTO) tarafından 2 Temmuz 2026 tarihinde düzenlenen "Bazı Kanunlarda Değişiklik Yapılmasına Dair 7582 Sayılı Kanun" başlıklı webinara katılım sağlanmıştır.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -156,6 +164,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18422_recep_tayyip_erdogan_universitesi_iktisadi_ve_idari_bilimler_fakultesi_dekani_prof._dr._ahmet_yanik_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_umit_kokdemiri_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18422_recep_tayyip_erdogan_universitesi_iktisadi_ve_idari_bilimler_fakultesi_dekani_prof._dr._ahmet_yanik_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_umit_kokdemiri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Personeline Microsoft Excel Eğitimi Verildi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18433_defterdarligimiz_personeline_microsoft_excel_egitimi_verildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18433_defterdarligimiz_personeline_microsoft_excel_egitimi_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -390,22 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18380_gelir_vergisi_genel_tebligi_seri_no%3A_334_resmi_gazetede_yayimlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir Vergisi Genel Tebliği (Seri No: 333) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18379_gelir_vergisi_genel_tebligi_seri_no%3A_333_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18379_gelir_vergisi_genel_tebligi_seri_no%3A_333_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Eğitim Salonunda Mevzuat Güncelleme Eğitimi Kapsamında KDV Eğitimi Verilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/16917_defterdarligimiz_egitim_salonunda_mevzuat_guncelleme_egitimi_kapsaminda_kdv_egitimi_verilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/16917_defterdarligimiz_egitim_salonunda_mevzuat_guncelleme_egitimi_kapsaminda_kdv_egitimi_verilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
