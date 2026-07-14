@@ -4,14 +4,70 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 07:58:20 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[15 Temmuz Demokrasi ve Milli Birlik Günü Kapsamında Anlamlı Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18447_15_temmuz_demokrasi_ve_milli_birlik_gunu_kapsaminda_anlamli_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18447_15_temmuz_demokrasi_ve_milli_birlik_gunu_kapsaminda_anlamli_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valimiz Sayın Uğur Turan'dan Yeni Görevine Başlayan Gelir İdaresi Grup Müdürümüz Sayın Murat DÖNMEZ'e Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18446_valimiz_sayin_ugur_turandan_yeni_gorevine_baslayan_gelir_idaresi_grup_mudurumuz_sayin_murat_donmeze_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18446_valimiz_sayin_ugur_turandan_yeni_gorevine_baslayan_gelir_idaresi_grup_mudurumuz_sayin_murat_donmeze_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mahmudiye Kaymakamı Sn. Yunus TEKÇE Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18443_mahmudiye_kaymakami_sn._yunus_tekce_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18443_mahmudiye_kaymakami_sn._yunus_tekce_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca Veda Yemeği Düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18442_defterdarligimizca_veda_yemegi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18442_defterdarligimizca_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aksaray Defterdarlığınca Vergi Dairesine Olan Borçların Düşük Oranlı Tecil Faizi ile Taksitlendirme Konferansı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18441_aksaray_defterdarliginca_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirme_konferansi_</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18441_aksaray_defterdarliginca_vergi_dairesine_olan_borclarin_dusuk_oranli_tecil_faizi_ile_taksitlendirme_konferansi_</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çalışma Arkadaşlarımızdan Nesrin UYAR, Bilecik'e Müdür Yardımcısı Olarak Atanması Sebebiyle Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Veda Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18440_calisma_arkadaslarimizdan_nesrin_uyar%2C_bilecike_mudur_yardimcisi_olarak_atanmasi_sebebiyle_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18440_calisma_arkadaslarimizdan_nesrin_uyar%2C_bilecike_mudur_yardimcisi_olarak_atanmasi_sebebiyle_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Şehir Giriş ve Çıkışlarında Yaygın - Yoğun Vergi Denetimleri Gerçekleştirildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18439_sehir_giris_ve_cikislarinda_yaygin__yogun_vergi_denetimleri_gerceklestirildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18439_sehir_giris_ve_cikislarinda_yaygin__yogun_vergi_denetimleri_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Ahmet BALIKCI’dan Karaisalı ve Aladağ Vergi Dairelerimize Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18445_defterdarimiz_sayin_ahmet_balikcidan_karaisali_ve_aladag_vergi_dairelerimize_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18445_defterdarimiz_sayin_ahmet_balikcidan_karaisali_ve_aladag_vergi_dairelerimize_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -350,62 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18403_besobda_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Halil İbrahim TEMİZ, CEKA ENERJİ ÜRETİM A.Ş.'ni Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18385_defterdarimiz_sayin_halil_ibrahim_temiz%2C_ceka_enerji_uretim_a.s.ni_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18385_defterdarimiz_sayin_halil_ibrahim_temiz%2C_ceka_enerji_uretim_a.s.ni_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca 193 Sayılı Gelir Vergisi Kanunu eğitimi düzenlenmşitir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18386_defterdarligimizca_193_sayili_gelir_vergisi_kanunu_egitimi_duzenlenmsitir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18386_defterdarligimizca_193_sayili_gelir_vergisi_kanunu_egitimi_duzenlenmsitir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İl Milli Eğitim Müdürlüğünden Defterdarlığımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18384_il_milli_egitim_mudurlugunden_defterdarligimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18384_il_milli_egitim_mudurlugunden_defterdarligimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Fatih POLAT, Kars Vergi Dairesi Müdürümüz Sayın İlyas GÜMÜŞ ve Kafkas Vergi Dairesi Müdürümüz Sayın Ayşegül YAŞAR , Kars Esnaf Sanaatkarlar Odaları Birliğini Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18418__defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_esnaf_sanaatkarlar_odalari_birligini_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18418__defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_esnaf_sanaatkarlar_odalari_birligini_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18383_bazi_varliklarin_ekonomiye_kazandirilmasi_hakkinda_genel_teblig_seri_no%3A_1_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18383_bazi_varliklarin_ekonomiye_kazandirilmasi_hakkinda_genel_teblig_seri_no%3A_1_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18382_kurumlar_vergisi_genel_tebligi_seri_no%3A_1nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_26_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18382_kurumlar_vergisi_genel_tebligi_seri_no%3A_1nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_26_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir Vergisi Genel Tebliği (Seri No: 326)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 335) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18381_gelir_vergisi_genel_tebligi_seri_no%3A_326nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_335_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18381_gelir_vergisi_genel_tebligi_seri_no%3A_326nde_degisiklik_yapilmasina_dair_teblig_seri_no%3A_335_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
