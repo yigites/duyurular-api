@@ -4,9 +4,121 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 07:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 08:03:33 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[ÖNEMLİ DUYURU]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Temmuz Demokresi ve Milli Birlik Günü.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokresi_ve_milli_birlik_gunu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokresi_ve_milli_birlik_gunu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18430_15_temmuz_demokrasi_ve_milli_birlik_gunu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18430_15_temmuz_demokrasi_ve_milli_birlik_gunu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Sarıcakaya Kaymakamı Sn. Abdurrahim TOMAKİN'i Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18460_defterdarimiz_sn._cemil_musevitoglu_saricakaya_kaymakami_sn._abdurrahim_tomakini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18460_defterdarimiz_sn._cemil_musevitoglu_saricakaya_kaymakami_sn._abdurrahim_tomakini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Sarıcakaya Şubemizi Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18459_defterdarimiz_sn._cemil_musevitoglu_saricakaya_subemizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18459_defterdarimiz_sn._cemil_musevitoglu_saricakaya_subemizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Mihalgazi Kaymakamı Sn. Mustafa AKSOY'u Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18458_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_kaymakami_sn._mustafa_aksoyu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18458_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_kaymakami_sn._mustafa_aksoyu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[''Cumhurbaşkanlığı Staj Seferberliği'' Kapsamında Stajlarını Tamamlayan Stajyer Öğrencilere Katılım Belgeleri Takdim Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18457_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18457_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kocaeli Valisi Sayın İlhami AKTAŞ, Kocaeli Defterdarlığı ve Kocaeli Denetim Daire Başkanlığı Yeni Binasının İnşaatında İncelemelerde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18456__kocaeli_valisi_sayin_ilhami_aktas%2C_kocaeli_defterdarligi_ve_kocaeli_denetim_daire_baskanligi_yeni_binasinin_insaatinda_incelemelerde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18456__kocaeli_valisi_sayin_ilhami_aktas%2C_kocaeli_defterdarligi_ve_kocaeli_denetim_daire_baskanligi_yeni_binasinin_insaatinda_incelemelerde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18454_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18454_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ 15 Temmuz Demokrasi ve Milli Birlik Günü vesilesiyle, Defterdarlığımızda görev yapan 15 Temmuz Gazisi Fatmanur GÖKSÜ AYDIN'ı ziyaret etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18455_defterdarimiz_sayin_reyhan_kokcu_15_temmuz_demokrasi_ve_milli_birlik_gunu_vesilesiyle%2C_defterdarligimizda_gorev_yapan_15_temmuz_gazisi_fatmanur_goksu_aydini_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18455_defterdarimiz_sayin_reyhan_kokcu_15_temmuz_demokrasi_ve_milli_birlik_gunu_vesilesiyle%2C_defterdarligimizda_gorev_yapan_15_temmuz_gazisi_fatmanur_goksu_aydini_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veda Yemeği]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18451_veda_yemegi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18451_veda_yemegi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Uzmanlığı Karşılıklı Yer Değiştirme Kesin Olmayan Sonuçları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18450_gelir_uzmanligi_karsilikli_yer_degistirme_kesin_olmayan_sonuclari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18450_gelir_uzmanligi_karsilikli_yer_degistirme_kesin_olmayan_sonuclari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Mihalgazi Şubemizi Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18449_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_subemizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18449_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_subemizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Temmuz Demokrasi ve Milli Birlik Günü İlimizde Kutlanmaktadır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18448_15_temmuz_demokrasi_ve_milli_birlik_gunu_ilimizde_kutlanmaktadir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18448_15_temmuz_demokrasi_ve_milli_birlik_gunu_ilimizde_kutlanmaktadir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[15 Temmuz Demokrasi ve Milli Birlik Günü Kapsamında Anlamlı Ziyaret]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
@@ -294,118 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18400_agri_defterdari_sn._mustafa_yilmaz_simsek%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ASLİ DEVLET  MEMURLUĞUNA  ATANAN DEFTERDARLIĞIMIZ ADAY GELİR UZMAN YARDIMCISI PERSONELİMİZİN YEMİN MERASİMİ GERÇEKLEŞTİRİLDİ.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18399_asli_devlet__memurluguna__atanan_defterdarligimiz_aday_gelir_uzman_yardimcisi_personelimizin_yemin_merasimi_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18399_asli_devlet__memurluguna__atanan_defterdarligimiz_aday_gelir_uzman_yardimcisi_personelimizin_yemin_merasimi_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[29 Haziran-03 Temmuz 2026 Mevzuat Güncelleme Eğitimi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18398_29_haziran03_temmuz_2026_mevzuat_guncelleme_egitimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18398_29_haziran03_temmuz_2026_mevzuat_guncelleme_egitimi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Fatih POLAT, Kars Vergi Dairesi Müdürümüz Sayın İlyas GÜMÜŞ ve Kafkas Vergi Dairesi Müdürümüz Sayın Ayşegül YAŞAR , Kars Ticaret ve Sanayi Odası Başkanı Sayın Kadir BOZAN'ı Makamında Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18407__defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_ticaret_ve_sanayi_odasi_baskani_sayin_kadir_bozani_makaminda_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18407__defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_ticaret_ve_sanayi_odasi_baskani_sayin_kadir_bozani_makaminda_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Vali Yardımcılığına Atanan Odunpazarı Kaymakamı Sn. Ömer ULU, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Veda Ziyareti Gerçekleştirdi..]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18396_corum_vali_yardimciligina_atanan_odunpazari_kaymakami_sn._omer_ulu%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyareti_gerceklestirdi..</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18396_corum_vali_yardimciligina_atanan_odunpazari_kaymakami_sn._omer_ulu%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyareti_gerceklestirdi..</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18395_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18395_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Fatih POLAT, Kars Vergi Dairesi Müdürümüz Sayın İlyas GÜMÜŞ ve Kafkas Vergi Dairesi Müdürümüz Sayın Ayşegül YAŞAR , Kars Barosu Başkanı Sayın Necat YAĞCI'yı Makamında Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18406_defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_barosu_baskani_sayin_necat_yagciyi_makaminda_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18406_defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar_%2C_kars_barosu_baskani_sayin_necat_yagciyi_makaminda_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TTK Genel Müdür Yardımcısı Sayın Fazlı UNCU, Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18394_ttk_genel_mudur_yardimcisi_sayin_fazli_uncu%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18394_ttk_genel_mudur_yardimcisi_sayin_fazli_uncu%2C_defterdarimiz_sayin_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsun SMMMO Yönetim Kurulu Üyeleri Defterdarımız Sayın Halil İbrahim TEMİZ'i Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18393_samsun_smmmo_yonetim_kurulu_uyeleri_defterdarimiz_sayin_halil_ibrahim_temizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18393_samsun_smmmo_yonetim_kurulu_uyeleri_defterdarimiz_sayin_halil_ibrahim_temizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Alaca Belediye Başkanı Sayın Şerif ARSLAN'ı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18390_corum_defterdari_sayin_erkan_ciger%2C_alaca_belediye_baskani_sayin_serif_arslani_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18390_corum_defterdari_sayin_erkan_ciger%2C_alaca_belediye_baskani_sayin_serif_arslani_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, BKMYBS Yerel Yönetimlerde Uygulanmasını Geliştirme Kapsamında Alaca Belediyesini  Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18389_corum_defterdari_sayin_erkan_ciger%2C_bkmybs_yerel_yonetimlerde_uygulanmasini_gelistirme_kapsaminda_alaca_belediyesini__ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18389_corum_defterdari_sayin_erkan_ciger%2C_bkmybs_yerel_yonetimlerde_uygulanmasini_gelistirme_kapsaminda_alaca_belediyesini__ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Fatih POLAT, Kars Vergi Dairesi Müdürümüz Sayın İlyas GÜMÜŞ ve Kafkas Vergi Dairesi Müdürümüz Sayın Ayşegül YAŞAR, Kars Serbest Muhasebeci Mali Müşavirler Odasında Bilgilendirme Ziyaretinde Bulunmuştur.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18405_defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar%2C_kars_serbest_muhasebeci_mali_musavirler_odasinda_bilgilendirme_ziyaretinde_bulunmustur.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18405_defterdarimiz_sayin_fatih_polat%2C_kars_vergi_dairesi_mudurumuz_sayin_ilyas_gumus_ve_kafkas_vergi_dairesi_mudurumuz_sayin_aysegul_yasar%2C_kars_serbest_muhasebeci_mali_musavirler_odasinda_bilgilendirme_ziyaretinde_bulunmustur.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18388_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18388_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sakarya Esnaf ve Sanatkarlar Odası Başkanı Sayın Muzaffer KABACAN, Sakarya Defterdarı Sayın Ayhan YAMAN'ı Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18387_sakarya_esnaf_ve_sanatkarlar_odasi_baskani_sayin_muzaffer_kabacan%2C_sakarya_defterdari_sayin_ayhan_yamani_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18387_sakarya_esnaf_ve_sanatkarlar_odasi_baskani_sayin_muzaffer_kabacan%2C_sakarya_defterdari_sayin_ayhan_yamani_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BESOB'da Vergi Dairesine Olan Borçların Taksitlendirilmesi Hakkında Bilgilendirme Toplantısı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18403_besobda_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18403_besobda_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
