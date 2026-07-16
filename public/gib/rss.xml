@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 08:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 08:07:53 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,26 @@
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[15 Temmuz Demokresi ve Milli Birlik Günü.]]></title>
+            <title><![CDATA[T.C. Cumhurbaşkanlığınca yürütülen ‘’Kamuda 100.000 Staj" projesi kapsamında stajlarını tamamlayan 134 öğrenciye, Defterdarımız Sayın Rıza BİLGİÇ tarafından Staj Belgesi takdim edildi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokresi_ve_milli_birlik_gunu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokresi_ve_milli_birlik_gunu.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18473_t.c._cumhurbaskanliginca_yurutulen_kamuda_100.000_staj_projesi_kapsaminda_stajlarini_tamamlayan_134_ogrenciye%2C_defterdarimiz_sayin_riza_bilgic_tarafindan_staj_belgesi_takdim_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18473_t.c._cumhurbaskanliginca_yurutulen_kamuda_100.000_staj_projesi_kapsaminda_stajlarini_tamamlayan_134_ogrenciye%2C_defterdarimiz_sayin_riza_bilgic_tarafindan_staj_belgesi_takdim_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Eskişehir Valiliğince Düzenlenen "İrade Bizim, Zafer Bizim" Temalı 15 Temmuz Etkinliğine Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18474_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_valiligince_duzenlenen_irade_bizim%2C_zafer_bizim_temali_15_temmuz_etkinligine_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18474_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_valiligince_duzenlenen_irade_bizim%2C_zafer_bizim_temali_15_temmuz_etkinligine_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Temmuz Demokrasi ve Milli Birlik Günü.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokrasi_ve_milli_birlik_gunu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokrasi_ve_milli_birlik_gunu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -52,6 +68,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18458_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_kaymakami_sn._mustafa_aksoyu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18458_defterdarimiz_sn._cemil_musevitoglu_mihalgazi_kaymakami_sn._mustafa_aksoyu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Gençlik  ve Spor İl Müdürü Mustafa DEMİRKIRAN, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18475_corum_genclik__ve_spor_il_muduru_mustafa_demirkiran%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18475_corum_genclik__ve_spor_il_muduru_mustafa_demirkiran%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -382,30 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18408_defterdarimiz_sn._cemil_musevitoglu%2C_alpu_subesi_ve_milli_emlak_sefligini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adaylık Sürecini Tamamlayan Personelimize Yemin Töreni]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18404_adaylik_surecini_tamamlayan_personelimize_yemin_toreni</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18404_adaylik_surecini_tamamlayan_personelimize_yemin_toreni</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Müdür Yardımcılığı Sınavını Kazanarak Konya Yunak'a Atanan Çalışma Arkadaşlarımızdan Sn. Rukiye AKBULAK Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18401_mudur_yardimciligi_sinavini_kazanarak_konya_yunaka_atanan_calisma_arkadaslarimizdan_sn._rukiye_akbulak_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18401_mudur_yardimciligi_sinavini_kazanarak_konya_yunaka_atanan_calisma_arkadaslarimizdan_sn._rukiye_akbulak_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ağrı Defterdarı Sn. Mustafa Yılmaz ŞİMŞEK, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18400_agri_defterdari_sn._mustafa_yilmaz_simsek%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18400_agri_defterdari_sn._mustafa_yilmaz_simsek%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
