@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 08:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 07:44:07 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Yanlış Algıya Karşı Zorunlu Açıklama]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/a1da22f8-d46a-4393-9729-e99dae0caf84/yanlis-algiya-karsi-zorunlu-aciklama</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/a1da22f8-d46a-4393-9729-e99dae0caf84/yanlis-algiya-karsi-zorunlu-aciklama</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vergide Dijital Dönüşümün Anahtarı: Ortak Akıl ve İş Birliği]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/7204ab60-ff38-4614-94be-f4dc5bf09b03/muhasebe-mesleginin-gelecegi--guven--teknoloji-ve-donusum</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SÜRGEM Eğitimleri Devam Ediyor. Haziran Ayı Eğitim Başvuruları Başlamıştır]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/2ab07ec7-f6d6-48db-9740-d7873af3ec71/--surgem-egitimleri-devam-ediyor--haziran-ayi-egitim-basvurulari-baslamistir</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/2ab07ec7-f6d6-48db-9740-d7873af3ec71/--surgem-egitimleri-devam-ediyor--haziran-ayi-egitim-basvurulari-baslamistir</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

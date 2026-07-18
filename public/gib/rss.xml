@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 08:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 07:44:04 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AĞRI Ticaret ve Sanayi Odasında (ATSO) “Vergi Dairesine Olan Borçların Taksitlendirilmesi Hakkında” Bilgilendirme Toplantısı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18489_agri_ticaret_ve_sanayi_odasinda_atso_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18489_agri_ticaret_ve_sanayi_odasinda_atso_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İstanbul Yeminli Mali Müşavirler Odası tarafından 2 Temmuz 2026 tarihinde düzenlenen toplantıya katılım sağlanmıştır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18487_istanbul_yeminli_mali_musavirler_odasi_tarafindan_2_temmuz_2026_tarihinde_duzenlenen_toplantiya_katilim_saglanmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18487_istanbul_yeminli_mali_musavirler_odasi_tarafindan_2_temmuz_2026_tarihinde_duzenlenen_toplantiya_katilim_saglanmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asalet Yemin Töreni]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18486_asalet_yemin_toreni</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18486_asalet_yemin_toreni</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AĞRI SMMM İl Temsilciliğinde “Vergi Dairesine Olan Borçların Taksitlendirilmesi Hakkında” Bilgilendirme Toplantısı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18485_agri_smmm_il_temsilciliginde_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18485_agri_smmm_il_temsilciliginde_vergi_dairesine_olan_borclarin_taksitlendirilmesi_hakkinda_bilgilendirme_toplantisi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi Devam Ediyor]]></title>
@@ -76,6 +108,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18477_calisma_arkadaslarimizdan_gelir_uzmani_ayhan_sevimin_emekliye_ayrilmasi__nedeniyle_duzenlenen_veda_yemegine_defterdarimiz_sn._cemil_musevitogluda_katildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18477_calisma_arkadaslarimizdan_gelir_uzmani_ayhan_sevimin_emekliye_ayrilmasi__nedeniyle_duzenlenen_veda_yemegine_defterdarimiz_sn._cemil_musevitogluda_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uşak Vergi Dairesi Personeli Sayın Erdi Güzün ve Sayın Yunus Kahraman Adına Veda Yemeği Düzenlendi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18488_usak_vergi_dairesi_personeli_sayin_erdi_guzun_ve_sayin_yunus_kahraman_adina_veda_yemegi_duzenlendi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18488_usak_vergi_dairesi_personeli_sayin_erdi_guzun_ve_sayin_yunus_kahraman_adina_veda_yemegi_duzenlendi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -366,46 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18423_defterdarimiz_sn._cemil_musevitoglu%2C_beylikova_subemizi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gebze Ticaret Odası'nda Bilgilendirme Toplantısı Düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18402_gebze_ticaret_odasinda_bilgilendirme_toplantisi_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18402_gebze_ticaret_odasinda_bilgilendirme_toplantisi_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Konya Yunak'a Müdür Yardımcısı Olarak Atanan Sn. Rukiye AKBULAK'ın Veda Yemeğine Katıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18420_defterdarimiz_sn._cemil_musevitoglu%2C_konya_yunaka_mudur_yardimcisi_olarak_atanan_sn._rukiye_akbulakin_veda_yemegine_katildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18420_defterdarimiz_sn._cemil_musevitoglu%2C_konya_yunaka_mudur_yardimcisi_olarak_atanan_sn._rukiye_akbulakin_veda_yemegine_katildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum İl Jandarma Komutanı Jandarma Kıdemli Albay Kubilay AYVAZ, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18421_corum_il_jandarma_komutani_jandarma_kidemli_albay_kubilay_ayvaz%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18421_corum_il_jandarma_komutani_jandarma_kidemli_albay_kubilay_ayvaz%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kariyer Büro Sendikası Eskişehir Şube Başkanı Sn. Nurullah YÜKSEL ve İşyeri Temsilcisi Sn. Gizem IŞIK, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18419_kariyer_buro_sendikasi_eskisehir_sube_baskani_sn._nurullah_yuksel_ve_isyeri_temsilcisi_sn._gizem_isik%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18419_kariyer_buro_sendikasi_eskisehir_sube_baskani_sn._nurullah_yuksel_ve_isyeri_temsilcisi_sn._gizem_isik%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Halil İbrahim TEMİZ, Semolina Mısır İrmiği Gıda San. ve Tic. A.Ş.'ni Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18417_defterdarimiz_sayin_halil_ibrahim_temiz%2C_semolina_misir_irmigi_gida_san._ve_tic._a.s.ni_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18417_defterdarimiz_sayin_halil_ibrahim_temiz%2C_semolina_misir_irmigi_gida_san._ve_tic._a.s.ni_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
