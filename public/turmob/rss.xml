@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 08:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 08:52:52 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Türkiye Etki Muhasebesi Pilot Programı Tanıtım Webinarı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/38da7663-d322-4054-8d89-af1032365a11/turkiye-etki-muhasebesi-pilot-programi-tanitim-webinari</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/38da7663-d322-4054-8d89-af1032365a11/turkiye-etki-muhasebesi-pilot-programi-tanitim-webinari</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yanlış Algıya Karşı Zorunlu Açıklama]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/724dc142-09f0-4bb0-bc1d-06edbfce73f0/siber-guvenlikte-guncel-tehditler-ve-cozumler-webinari---24-haziran-2026</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muhasebe Mesleğinin Geleceği: Güven, Teknoloji ve Dönüşüm]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/7204ab60-ff38-4614-94be-f4dc5bf09b03/muhasebe-mesleginin-gelecegi--guven--teknoloji-ve-donusum</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/7204ab60-ff38-4614-94be-f4dc5bf09b03/muhasebe-mesleginin-gelecegi--guven--teknoloji-ve-donusum</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

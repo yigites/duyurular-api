@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 08:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 08:52:49 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -70,6 +70,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18483_defterdarimiz_sn._cemil_musevitoglu_surekli_isci_arkadaslarimizla_toplanti_yaparak%2C_gorevlerini_layikiyla_yerine_getirmeleri_nedeniyle_tesekkur_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kilis Defterdarlığı Vergi Dairesi Müdürü Murat SARIERİKLİ ve Gelir Yönetimi ve Denetim Müdürü Uğur KÜLEKÇİ' nin rotasyon nedeniyle Defterdarlığımızdan ayrılmaları dolayısıyla veda yemeği düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18491_kilis_defterdarligi_vergi_dairesi_muduru_murat_sarierikli_ve_gelir_yonetimi_ve_denetim_muduru_ugur_kulekci_nin_rotasyon_nedeniyle_defterdarligimizdan_ayrilmalari_dolayisiyla_veda_yemegi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18491_kilis_defterdarligi_vergi_dairesi_muduru_murat_sarierikli_ve_gelir_yonetimi_ve_denetim_muduru_ugur_kulekci_nin_rotasyon_nedeniyle_defterdarligimizdan_ayrilmalari_dolayisiyla_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TTK Muhasebe Daire Başkanı Vekili Sayın Metin Tokatlı, Muhasebe Şube Müdürü Sayın İbrahim Kaplan ve Muhasebe Servis Şefi Sayın Özgür Erkal , Defterdarımız Sayın Recep SERDAR'ı Ziyaret Etti.]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18425_defterdarimiz_sn._cemil_musevitoglu_mihaliccik_subemizi_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18425_defterdarimiz_sn._cemil_musevitoglu_mihaliccik_subemizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Beylikova Kaymakamı Sn. Ali KANTİLAV'ı Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18424_defterdarimiz_sn._cemil_musevitoglu_beylikova_kaymakami_sn._ali_kantilavi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18424_defterdarimiz_sn._cemil_musevitoglu_beylikova_kaymakami_sn._ali_kantilavi_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
         </item>
