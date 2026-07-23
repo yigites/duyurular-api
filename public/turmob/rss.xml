@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 08:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 08:24:44 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[KAMUOYU AÇIKLAMASI  “Meslektaşlarımızın Yanındayız”]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/e267f1f2-7f1c-4090-bdc4-71d9628875d3/kamuoyu-aciklamasi---meslektaslarimizin-yanindayiz-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e267f1f2-7f1c-4090-bdc4-71d9628875d3/kamuoyu-aciklamasi---meslektaslarimizin-yanindayiz-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Türkiye Etki Muhasebesi Pilot Programı Tanıtım Webinarı]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e7a2244a-3bf0-4543-9c11-bb072a84cff8/yerel-ve-kuresel-asgari-tamamlayici-kurumlar-vergisi-uygulamasinda-ozellik-arz-eden-hususlar-webinar</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Siber Güvenlikte Güncel Tehditler ve Çözümler Webinarı - 24 Haziran 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/724dc142-09f0-4bb0-bc1d-06edbfce73f0/siber-guvenlikte-guncel-tehditler-ve-cozumler-webinari---24-haziran-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/724dc142-09f0-4bb0-bc1d-06edbfce73f0/siber-guvenlikte-guncel-tehditler-ve-cozumler-webinari---24-haziran-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
