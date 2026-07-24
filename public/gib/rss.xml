@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 08:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 08:22:21 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,46 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TEŞEKKÜR BELGESİ TAKDİMİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18531_tesekkur_belgesi_takdimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18531_tesekkur_belgesi_takdimi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküler Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18529_5520_sayili_kurumlar_vergisi_kanunu_73_nolu_sirkuler_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18529_5520_sayili_kurumlar_vergisi_kanunu_73_nolu_sirkuler_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Dairesi Müdür Yardımcılığı Sınavının Sözlü Bölüm Tarihleri ve Giriş Yeri Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18528_vergi_dairesi_mudur_yardimciligi_sinavinin_sozlu_bolum_tarihleri_ve_giris_yeri_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18528_vergi_dairesi_mudur_yardimciligi_sinavinin_sozlu_bolum_tarihleri_ve_giris_yeri_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veda Yemeği]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18527_veda_yemegi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18527_veda_yemegi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TEŞEKKÜR BELGESİ TAKDİMİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18525_tesekkur_belgesi_takdimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18525_tesekkur_belgesi_takdimi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Türkiye Şoförler ve Otomobilciler Federasyonu Ziyareti]]></title>
@@ -296,6 +336,14 @@
             <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Çankırı Defterdalığında "Üstün Başarı Belgesi" Takdimi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18530_cankiri_defterdaliginda_ustun_basari_belgesi_takdimi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18530_cankiri_defterdaliginda_ustun_basari_belgesi_takdimi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kilis Defterdarlığı Vergi Dairesi Müdürü Murat SARIERİKLİ ve Gelir Yönetimi ve Denetim Müdürü Uğur KÜLEKÇİ' nin rotasyon nedeniyle Defterdarlığımızdan ayrılmaları dolayısıyla veda yemeği düzenlendi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18491_kilis_defterdarligi_vergi_dairesi_muduru_murat_sarierikli_ve_gelir_yonetimi_ve_denetim_muduru_ugur_kulekci_nin_rotasyon_nedeniyle_defterdarligimizdan_ayrilmalari_dolayisiyla_veda_yemegi_duzenlendi.</link>
@@ -358,54 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18488_usak_vergi_dairesi_personeli_sayin_erdi_guzun_ve_sayin_yunus_kahraman_adina_veda_yemegi_duzenlendi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelir Vergisi 2. Taksit Ödeme Dönemi Devam Ediyor]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18476_gelir_vergisi_2._taksit_odeme_donemi_devam_ediyor</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18476_gelir_vergisi_2._taksit_odeme_donemi_devam_ediyor</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T.C. Cumhurbaşkanlığınca yürütülen ‘’Kamuda 100.000 Staj" projesi kapsamında stajlarını tamamlayan 134 öğrenciye, Defterdarımız Sayın Rıza BİLGİÇ tarafından Staj Belgesi takdim edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18473_t.c._cumhurbaskanliginca_yurutulen_kamuda_100.000_staj_projesi_kapsaminda_stajlarini_tamamlayan_134_ogrenciye%2C_defterdarimiz_sayin_riza_bilgic_tarafindan_staj_belgesi_takdim_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18473_t.c._cumhurbaskanliginca_yurutulen_kamuda_100.000_staj_projesi_kapsaminda_stajlarini_tamamlayan_134_ogrenciye%2C_defterdarimiz_sayin_riza_bilgic_tarafindan_staj_belgesi_takdim_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Eskişehir Valiliğince Düzenlenen "İrade Bizim, Zafer Bizim" Temalı 15 Temmuz Demokrasi ve Milli Birlik Günü Etkinliğine Katıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18474_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_valiligince_duzenlenen_irade_bizim%2C_zafer_bizim_temali_15_temmuz_demokrasi_ve_milli_birlik_gunu_etkinligine_katildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18474_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_valiligince_duzenlenen_irade_bizim%2C_zafer_bizim_temali_15_temmuz_demokrasi_ve_milli_birlik_gunu_etkinligine_katildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taziye Mesajı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18482________________________________________________________________________taziye_mesaji</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18482________________________________________________________________________taziye_mesaji</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 Temmuz Demokrasi ve Milli Birlik Günü.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokrasi_ve_milli_birlik_gunu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18438_15_temmuz_demokrasi_ve_milli_birlik_gunu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 TEMMUZ DEMOKRASİ VE MİLLİ BİRLİK GÜNÜ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18430_15_temmuz_demokrasi_ve_milli_birlik_gunu</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18430_15_temmuz_demokrasi_ve_milli_birlik_gunu</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
