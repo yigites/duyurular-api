@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 08:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 08:44:40 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 531)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 594) Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18574_vergi_usul_kanunu_genel_tebligi_sira_no%3A_531nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_594_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18574_vergi_usul_kanunu_genel_tebligi_sira_no%3A_531nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_594_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[''Cumhurbaşkanlığı Staj Seferberliği'' Kapsamında Stajlarını Tamamlayan Stajyer Öğrencilere Katılım Belgeleri Takdim Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18573_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18573_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18572_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18572_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belediye Başkanlarından Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18570_belediye_baskanlarindan_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18570_belediye_baskanlarindan_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi İçin Son Gün 31 Temmuz 2026]]></title>
@@ -80,6 +112,14 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Burdur İl Emniyet Müdürü Sn. Ahmet Kurt, Defterdarlığımızı ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18571_burdur_il_emniyet_muduru_sn._ahmet_kurt%2C_defterdarligimizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18571_burdur_il_emniyet_muduru_sn._ahmet_kurt%2C_defterdarligimizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ, Cumhurbaşkanlığı Ulusal Staj Programı kapsamında Defterdarlığımızda stajını tamamlayan öğrencilerimize staj belgelerini takdim ederek çalışma hayatında başarılar dilemiştir.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18562_defterdarimiz_sayin_reyhan_kokcu%2C_cumhurbaskanligi_ulusal_staj_programi_kapsaminda_defterdarligimizda_stajini_tamamlayan_ogrencilerimize_staj_belgelerini_takdim_ederek_calisma_hayatinda_basarilar_dilemistir.</link>
@@ -96,10 +136,10 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ulusul Staj Programı kapsamında Teşekkür Belgelerin takdimi]]></title>
+            <title><![CDATA[Ulusul Staj Programı kapsamında Katılım Belgelerin takdimi]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18556_ulusul_staj_programi_kapsaminda_tesekkur_belgelerin_takdimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18556_ulusul_staj_programi_kapsaminda_tesekkur_belgelerin_takdimi</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18556_ulusul_staj_programi_kapsaminda_katilim_belgelerin_takdimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18556_ulusul_staj_programi_kapsaminda_katilim_belgelerin_takdimi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
@@ -366,46 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18517_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Rekortmeni Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18514_vergi_rekortmeni_ziyareti_</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18514_vergi_rekortmeni_ziyareti_</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ege İhracatçı Birlikleri Koordinatör Başkanı Muhammet ÖZTÜRK ve Yönetim Kurulundan Defterdarımıza Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18512_ege_ihracatci_birlikleri_koordinator_baskani_muhammet_ozturk_ve_yonetim_kurulundan_defterdarimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18512_ege_ihracatci_birlikleri_koordinator_baskani_muhammet_ozturk_ve_yonetim_kurulundan_defterdarimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlık Hizmet Binamızda ‘’Yangın Bilgisi Eğitimi’’ ve ‘’Söndürme Tatbikatı’’ Gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18511_defterdarlik_hizmet_binamizda_yangin_bilgisi_egitimi_ve_sondurme_tatbikati_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18511_defterdarlik_hizmet_binamizda_yangin_bilgisi_egitimi_ve_sondurme_tatbikati_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denetimli Serbestlik Müdürü Sn. Selçuk Aydemir ve İcra Müdürleri Sn. Yavuz Korkmaz ile Sn. Süleyman Şentürk ile Eren Enerji Direktörü Sn. Emre ERDEN, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18510_denetimli_serbestlik_muduru_sn._selcuk_aydemir_ve_icra_mudurleri_sn._yavuz_korkmaz_ile_sn._suleyman_senturk_ile_eren_enerji_direktoru_sn._emre_erden%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18510_denetimli_serbestlik_muduru_sn._selcuk_aydemir_ve_icra_mudurleri_sn._yavuz_korkmaz_ile_sn._suleyman_senturk_ile_eren_enerji_direktoru_sn._emre_erden%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazine ve Maliye Bakanlığı Muhasebat Başkontrolörü Sn. Tamer GÜVENİŞ, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18509_hazine_ve_maliye_bakanligi_muhasebat_baskontroloru_sn._tamer_guvenis%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18509_hazine_ve_maliye_bakanligi_muhasebat_baskontroloru_sn._tamer_guvenis%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
