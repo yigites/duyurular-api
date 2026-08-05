@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 08:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 08:30:10 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18453_onemli_duyuru</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Göreve Yeni Başlayan Odunpazarı Kaymakamı Sn. Ahmet Hikmet ŞAHİN'e Hayırlı Olsun Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18601_defterdarimiz_sn._cemil_musevitoglu%2C_goreve_yeni_baslayan_odunpazari_kaymakami_sn._ahmet_hikmet_sahine_hayirli_olsun_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18601_defterdarimiz_sn._cemil_musevitoglu%2C_goreve_yeni_baslayan_odunpazari_kaymakami_sn._ahmet_hikmet_sahine_hayirli_olsun_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021-2027 IPARD Programı (IPARD III Dönemi)]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18600_20212027_ipard_programi_ipard_iii_donemi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18600_20212027_ipard_programi_ipard_iii_donemi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vali Yardımcısı Sayın Murat GÜNEŞ' in Defterdarımızı ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18599_vali_yardimcisi_sayin_murat_gunes_in_defterdarimizi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18599_vali_yardimcisi_sayin_murat_gunes_in_defterdarimizi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HAYAT 112 Acil Mobil İhbar Uygulaması]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18598__hayat_112_acil_mobil_ihbar_uygulamasi_</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18598__hayat_112_acil_mobil_ihbar_uygulamasi_</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18597_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18597_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Uzmanlığı Karşılıklı Yer Değiştirme Nihai Sonuçları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18596_gelir_uzmanligi_karsilikli_yer_degistirme_nihai_sonuclari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18596_gelir_uzmanligi_karsilikli_yer_degistirme_nihai_sonuclari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
@@ -200,6 +248,14 @@
             <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarlığımızda staj yapan öğrencilerin stajları tamamlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18595_defterdarligimizda_staj_yapan_ogrencilerin_stajlari_tamamlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18595_defterdarligimizda_staj_yapan_ogrencilerin_stajlari_tamamlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ulusal Staj Programı kapsamında, 1 Temmuz - 29 Temmuz 2026 tarihleri arasında Ankara Defterdarlığında staj yapan 2. Grup stajyerlerimiz, staj programlarını başarıyla tamamlamışlardır.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18565_ulusal_staj_programi_kapsaminda%2C_1_temmuz__29_temmuz_2026_tarihleri_arasinda_ankara_defterdarliginda_staj_yapan_2._grup_stajyerlerimiz%2C_staj_programlarini_basariyla_tamamlamislardir.</link>
@@ -350,62 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18544_sumer_holding_a.s.genel_mudurlugu_tasinmaz_satisi_sure_uzatim_ilani</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyanname Sistemindeki Planlı Bakım Çalışması Hakkında Duyuru]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18543_beyanname_sistemindeki_planli_bakim_calismasi_hakkinda_duyuru</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18543_beyanname_sistemindeki_planli_bakim_calismasi_hakkinda_duyuru</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarhiyat Öncesi ve Tarhiyat Sonrası Uzlaşma Broşürü Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18542_tarhiyat_oncesi_ve_tarhiyat_sonrasi_uzlasma_brosuru_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18542_tarhiyat_oncesi_ve_tarhiyat_sonrasi_uzlasma_brosuru_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18540_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18540_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3065 Sayılı Katma Değer Vergisi Kanunu 71 Nolu Sirküler Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18539_3065_sayili_katma_deger_vergisi_kanunu_71_nolu_sirkuler_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18539_3065_sayili_katma_deger_vergisi_kanunu_71_nolu_sirkuler_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Dairesi Müdürlüğü ve Vergi Dairesi Müdür Yardımcılığı Sınavını Kazanan Personelimiz ile Buluşma]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18581_vergi_dairesi_mudurlugu_ve_vergi_dairesi_mudur_yardimciligi_sinavini_kazanan_personelimiz_ile_bulusma</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18581_vergi_dairesi_mudurlugu_ve_vergi_dairesi_mudur_yardimciligi_sinavini_kazanan_personelimiz_ile_bulusma</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zonguldak Şehit Aileleri Yardımlaşma ve Dayanışma Derneği Başkanı Sn. Mustafa YORULMAZ, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18538_zonguldak_sehit_aileleri_yardimlasma_ve_dayanisma_dernegi_baskani_sn._mustafa_yorulmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18538_zonguldak_sehit_aileleri_yardimlasma_ve_dayanisma_dernegi_baskani_sn._mustafa_yorulmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZENGRAND DÜĞÜN, TOPLANTI VE KONFERANS SALONU İŞLETMESİNE HAYIRLI OLSUN ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18537_zengrand_dugun%2C_toplanti_ve_konferans_salonu_isletmesine_hayirli_olsun_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18537_zengrand_dugun%2C_toplanti_ve_konferans_salonu_isletmesine_hayirli_olsun_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
