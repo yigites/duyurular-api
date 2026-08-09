@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 06:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 06:50:53 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Eskişehir Adalet Komisyonu Başkanı Sn. Arif Hamdi SAZAK'a Hayırlı Olsun Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18625_defterdarimiz_sn._cemil_musevitoglu_eskisehir_adalet_komisyonu_baskani_sn._arif_hamdi_sazaka_hayirli_olsun_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18625_defterdarimiz_sn._cemil_musevitoglu_eskisehir_adalet_komisyonu_baskani_sn._arif_hamdi_sazaka_hayirli_olsun_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Eskişehir Başsavcılığına atanan Sn. Ferhat DENİZ'e Hayırlı Olsun Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18624_defterdarimiz_sn._cemil_musevitoglu_eskisehir_bassavciligina_atanan_sn._ferhat_denize_hayirli_olsun_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18624_defterdarimiz_sn._cemil_musevitoglu_eskisehir_bassavciligina_atanan_sn._ferhat_denize_hayirli_olsun_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
@@ -390,22 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18476_gelir_vergisi_2._taksit_odeme_donemi_icin_son_gun_31_temmuz_2026</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7846 Sayılı Cumhurbaşkanı Kararı Kapsamında İndirimi Kabul Edilmeyen Katma Değer Vergisi Bildirimine İlişkin Duyuru]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18569_7846_sayili_cumhurbaskani_karari_kapsaminda_indirimi_kabul_edilmeyen_katma_deger_vergisi_bildirimine_iliskin_duyuru</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18569_7846_sayili_cumhurbaskani_karari_kapsaminda_indirimi_kabul_edilmeyen_katma_deger_vergisi_bildirimine_iliskin_duyuru</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CUMHURBAŞKANLIĞI ULUSAL STAJ PROGRAMI KAPSAMINDA STAJYERLERİMİZE KATILIM BELGELERİ VERİLDİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18568_cumhurbaskanligi_ulusal_staj_programi_kapsaminda_stajyerlerimize_katilim_belgeleri_verildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18568_cumhurbaskanligi_ulusal_staj_programi_kapsaminda_stajyerlerimize_katilim_belgeleri_verildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
