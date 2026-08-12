@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 07:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 07:19:33 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DUYURU]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18635_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18635_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Veysel SEZGİN, Gelir İdaresi Grup Müdürü Sn. Tuncay İLHAN ve Gelir Müdürü Sn. Durmuş İNCE ile birlikte Gönüllü Vergi Uyum Seviyesi yüksek olan mükellefimiz Sn. Fahrettin ÇELİKER'i ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18633_defterdarimiz_sn._veysel_sezgin%2C_gelir_idaresi_grup_muduru_sn._tuncay_ilhan_ve_gelir_muduru_sn._durmus_ince_ile_birlikte_gonullu_vergi_uyum_seviyesi_yuksek_olan_mukellefimiz_sn._fahrettin_celikeri_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18633_defterdarimiz_sn._veysel_sezgin%2C_gelir_idaresi_grup_muduru_sn._tuncay_ilhan_ve_gelir_muduru_sn._durmus_ince_ile_birlikte_gonullu_vergi_uyum_seviyesi_yuksek_olan_mukellefimiz_sn._fahrettin_celikeri_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arca Çorum FK Yönetim Kurulu Üyeleri, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18634_arca_corum_fk_yonetim_kurulu_uyeleri%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18634_arca_corum_fk_yonetim_kurulu_uyeleri%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca Veda Yemeği Düzenlendi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18632_defterdarligimizca_veda_yemegi_duzenlendi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18632_defterdarligimizca_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kırklareli Valiliğinin Kaynak Makinası, Spiral, Taşlama Makinası ve Benzeri Kıvılcım OLuşturan Makine ve Ekipmanlarının Kullanımından Maynaklanabilecek Yangınların Önlenmesine İlişkin Tedbirler]]></title>
@@ -374,38 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18593_2026_yilinda_defterdarligimiz_bunyesinde_stajlarini_tamamlayan_1._grup_stajyerlerimize_katilim_belgeleri_verildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orman Genel Müdürlüğü Başmüfettişi Sn. Faruk BAYRAKTAROĞLU, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18576_orman_genel_mudurlugu_basmufettisi_sn._faruk_bayraktaroglu%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18576_orman_genel_mudurlugu_basmufettisi_sn._faruk_bayraktaroglu%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 531)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 594) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18574_vergi_usul_kanunu_genel_tebligi_sira_no%3A_531nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_594_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18574_vergi_usul_kanunu_genel_tebligi_sira_no%3A_531nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_594_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[''Cumhurbaşkanlığı Staj Seferberliği'' Kapsamında Stajlarını Tamamlayan Stajyer Öğrencilere Katılım Belgeleri Takdim Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18573_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18573_cumhurbaskanligi_staj_seferberligi_kapsaminda_stajlarini_tamamlayan_stajyer_ogrencilere_katilim_belgeleri_takdim_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18572_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18572_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
