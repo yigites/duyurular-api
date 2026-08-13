@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 07:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 07:21:48 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11606 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18643_11606_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18643_11606_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personelimiz Ferhat Uvaçin İçin Veda Yemeği Düzenledi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18642_personelimiz_ferhat_uvacin_icin_veda_yemegi_duzenledi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18642_personelimiz_ferhat_uvacin_icin_veda_yemegi_duzenledi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İş Gücü Uyum Programı Kapsamında Başvuru Yapan Adaylardan İstenecek Belgeler]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18641_is_gucu_uyum_programi_kapsaminda_basvuru_yapan_adaylardan_istenecek_belgeler</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18641_is_gucu_uyum_programi_kapsaminda_basvuru_yapan_adaylardan_istenecek_belgeler</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Halil İbrahim TEMİZ, Meteoroloji 10. Bölge Müdürlüğünü Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18640_defterdarimiz_sayin_halil_ibrahim_temiz%2C_meteoroloji_10._bolge_mudurlugunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18640_defterdarimiz_sayin_halil_ibrahim_temiz%2C_meteoroloji_10._bolge_mudurlugunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 Eylül Gazetesi Genel Koordinatörü Sn. İlker GÖKÇE, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18639_2_eylul_gazetesi_genel_koordinatoru_sn._ilker_gokce%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18639_2_eylul_gazetesi_genel_koordinatoru_sn._ilker_gokce%2C_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızca İnşaat Demiri İzleme Sistemi ( İDİS ) Uygulama Genel Tebliği Eğitimi düzenlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18638_defterdarligimizca_insaat_demiri_izleme_sistemi__idis__uygulama_genel_tebligi_egitimi_duzenlenmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18638_defterdarligimizca_insaat_demiri_izleme_sistemi__idis__uygulama_genel_tebligi_egitimi_duzenlenmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DUYURU]]></title>
@@ -36,6 +84,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18634_arca_corum_fk_yonetim_kurulu_uyeleri%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18634_arca_corum_fk_yonetim_kurulu_uyeleri%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankara Binicilik İhtisas Kulübünde Düzenlenen Engel Atlama Yarışması Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18636__ankara_binicilik_ihtisas_kulubunde_duzenlenen_engel_atlama_yarismasi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18636__ankara_binicilik_ihtisas_kulubunde_duzenlenen_engel_atlama_yarismasi_ziyareti</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -132,6 +188,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18620_veda_yemegi_duzenlendi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18620_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denetimde Görevli Personelimize Özellikli Konularda Eğitim Verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18637_denetimde_gorevli_personelimize_ozellikli_konularda_egitim_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18637_denetimde_gorevli_personelimize_ozellikli_konularda_egitim_verildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -342,70 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18589_tesekkur_belgesi_takdimi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ulusal Staj Programı Kapsamında, Çankırı Defterdarlığında Staj Yapan 1. ve 2. Grup stajyerlerimiz, Staj Programlarını Başarıyla Tamamlamışlardır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18587_ulusal_staj_programi_kapsaminda%2C_cankiri_defterdarliginda_staj_yapan_1._ve_2._grup_stajyerlerimiz%2C_staj_programlarini_basariyla_tamamlamislardir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18587_ulusal_staj_programi_kapsaminda%2C_cankiri_defterdarliginda_staj_yapan_1._ve_2._grup_stajyerlerimiz%2C_staj_programlarini_basariyla_tamamlamislardir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazine ve Maliye Bakanımız Sayın Mehmet ŞİMŞEK, İlimizi Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18608_hazine_ve_maliye_bakanimiz_sayin_mehmet_simsek%2C_ilimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18608_hazine_ve_maliye_bakanimiz_sayin_mehmet_simsek%2C_ilimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zonguldak Orman Bölge Müdürü Sn. Halil OFLU, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18586_zonguldak_orman_bolge_muduru_sn._halil_oflu%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18586_zonguldak_orman_bolge_muduru_sn._halil_oflu%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stajı biten stajyerlerimize başarı belgesi takdim edildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18584_staji_biten_stajyerlerimize_basari_belgesi_takdim_edildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18584_staji_biten_stajyerlerimize_basari_belgesi_takdim_edildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Cezalarında İndirim Uygulaması Broşürü Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18583_vergi_cezalarinda_indirim_uygulamasi_brosuru_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18583_vergi_cezalarinda_indirim_uygulamasi_brosuru_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 Kasım 2026 Cumartesi Günü Saat 13.45’te Gelir Uzman Yardımcılığı Giriş Sınavı Yapılacaktır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18582_21_kasim_2026_cumartesi_gunu_saat_13.45te_gelir_uzman_yardimciligi_giris_sinavi_yapilacaktir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18582_21_kasim_2026_cumartesi_gunu_saat_13.45te_gelir_uzman_yardimciligi_giris_sinavi_yapilacaktir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Veda ziyareti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18594_veda_ziyareti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18594_veda_ziyareti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026 Yılında Defterdarlığımız bünyesinde stajlarını tamamlayan 1. Grup stajyerlerimize katılım belgeleri verildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18593_2026_yilinda_defterdarligimiz_bunyesinde_stajlarini_tamamlayan_1._grup_stajyerlerimize_katilim_belgeleri_verildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18593_2026_yilinda_defterdarligimiz_bunyesinde_stajlarini_tamamlayan_1._grup_stajyerlerimize_katilim_belgeleri_verildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
