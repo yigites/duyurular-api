@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 07:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 06:32:11 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Kooperatifler İçin Dış Denetçi Eğitimleri Devam Ediyor]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/caa61082-4db3-46d2-85e0-554d24b728f3/kooperatifler-icin-dis-denetci-egitimleri-devam-ediyor</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/caa61082-4db3-46d2-85e0-554d24b728f3/kooperatifler-icin-dis-denetci-egitimleri-devam-ediyor</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Erteleme Yerinde, Şimdi Sıra Kalıcı Çözümde]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/015e94e3-a41d-4a73-b87e-66e37ae80c3c/yeni-varlik-barisi-uygulamasi-ile-vergi-mevzuatinda-7582-sayili-kanun-ile-yapilan-guncel-degisiklikl</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Temel Yapay Zeka Kullanım Eğitimi]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/a79d3da8-0f64-49a8-a6c5-7c323c4fbb9c/temel-yapay-zeka-kullanim-egitimi</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/a79d3da8-0f64-49a8-a6c5-7c323c4fbb9c/temel-yapay-zeka-kullanim-egitimi</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
