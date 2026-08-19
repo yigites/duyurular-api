@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 06:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 06:37:39 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,30 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Toplantı Salonunda 2026 Haziran ve Temmuz Ayı İçindeki Mevzuat Değişikliklerine İlişkin Sunum ve Değerlendirme Toplantısı Yapılmıştır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18676_defterdarligimiz_toplanti_salonunda_2026_haziran_ve_temmuz_ayi_icindeki_mevzuat_degisikliklerine_iliskin_sunum_ve_degerlendirme_toplantisi_yapilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18676_defterdarligimiz_toplanti_salonunda_2026_haziran_ve_temmuz_ayi_icindeki_mevzuat_degisikliklerine_iliskin_sunum_ve_degerlendirme_toplantisi_yapilmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Memuriyette 35 Yılını Dolduran Çaycuma Vergi Dairesinde Görevli Çalışma Arkadaşlarımıza Teşekkür Belgesi Takdim Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18673_memuriyette_35_yilini_dolduran_caycuma_vergi_dairesinde_gorevli_calisma_arkadaslarimiza_tesekkur_belgesi_takdim_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18673_memuriyette_35_yilini_dolduran_caycuma_vergi_dairesinde_gorevli_calisma_arkadaslarimiza_tesekkur_belgesi_takdim_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Vadi Medya Araştırma ve Danışmanlık Ticaret Ltd. Şti'ni Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18674_defterdarimiz_sn._recep_serdar%2C_vadi_medya_arastirma_ve_danismanlik_ticaret_ltd._stini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18674_defterdarimiz_sn._recep_serdar%2C_vadi_medya_arastirma_ve_danismanlik_ticaret_ltd._stini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Çorum Adalet Komisyonu ve Ağırceza Mahkeme Başkanı Sayın Mehmet KURT, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
@@ -382,30 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18626_vergi_denetimi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Eskişehir Adalet Komisyonu Başkanı Sn. Arif Hamdi SAZAK'a Hayırlı Olsun Ziyaretinde Bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18625_defterdarimiz_sn._cemil_musevitoglu_eskisehir_adalet_komisyonu_baskani_sn._arif_hamdi_sazaka_hayirli_olsun_ziyaretinde_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18625_defterdarimiz_sn._cemil_musevitoglu_eskisehir_adalet_komisyonu_baskani_sn._arif_hamdi_sazaka_hayirli_olsun_ziyaretinde_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Eskişehir Başsavcılığına atanan Sn. Ferhat DENİZ'e Hayırlı Olsun Ziyaretinde Bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18624_defterdarimiz_sn._cemil_musevitoglu_eskisehir_bassavciligina_atanan_sn._ferhat_denize_hayirli_olsun_ziyaretinde_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18624_defterdarimiz_sn._cemil_musevitoglu_eskisehir_bassavciligina_atanan_sn._ferhat_denize_hayirli_olsun_ziyaretinde_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18623_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18623_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
