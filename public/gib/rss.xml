@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 06:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 06:39:42 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Mustafa İNCEÇAYIR ve İl Müdürlerimiz, Diyarbakır İl Jandarma Komutanı iken Ankara İl Jandarma Komutanlığına atanan Tümgeneral Sayın Tarık Hekimoğlu’na veda ziyaretinde bulunmuşlardır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18681_defterdarimiz_sayin_mustafa_incecayir_ve_il_mudurlerimiz%2C_diyarbakir_il_jandarma_komutani_iken_ankara_il_jandarma_komutanligina_atanan_tumgeneral_sayin_tarik_hekimogluna_veda_ziyaretinde_bulunmuslardir._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18681_defterdarimiz_sayin_mustafa_incecayir_ve_il_mudurlerimiz%2C_diyarbakir_il_jandarma_komutani_iken_ankara_il_jandarma_komutanligina_atanan_tumgeneral_sayin_tarik_hekimogluna_veda_ziyaretinde_bulunmuslardir._</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Akgül Tekstil ile Seher Tekstil Şirket Yetkilileri Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18680_akgul_tekstil_ile_seher_tekstil_sirket_yetkilileri_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18680_akgul_tekstil_ile_seher_tekstil_sirket_yetkilileri_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deftedarımızdan İl Afet ve Acil Durum Müdürlüğü ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18679_deftedarimizdan_il_afet_ve_acil_durum_mudurlugu_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18679_deftedarimizdan_il_afet_ve_acil_durum_mudurlugu_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Avukat Sn.Şenol KÖKTÜRK'ü Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18678_defterdarimiz_sn._recep_serdar%2C_avukat_sn.senol_kokturku_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18678_defterdarimiz_sn._recep_serdar%2C_avukat_sn.senol_kokturku_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarlığımız Toplantı Salonunda 2026 Haziran ve Temmuz Ayı İçindeki Mevzuat Değişikliklerine İlişkin Sunum ve Değerlendirme Toplantısı Yapılmıştır.]]></title>
@@ -192,10 +224,10 @@
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Sn. Avukat Veysel BAŞÖREN'i Ziyaret Etti.]]></title>
+            <title><![CDATA[Defterdarımız Sn. Recep SERDAR,  Avukat Sn. Veysel BAŞÖREN'i Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C_sn._avukat_veysel_basoreni_ziyaret_etti._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C_sn._avukat_veysel_basoreni_ziyaret_etti._</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C__avukat_sn._veysel_basoreni_ziyaret_etti._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C__avukat_sn._veysel_basoreni_ziyaret_etti._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -236,6 +268,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18645_veda_yemegi_duzenlendi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18645_veda_yemegi_duzenlendi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Veysel SEZGİN, Gelir Müdürü Sn. Durmuş İNCE ile birlikte Gönüllü Vergi Uyum Seviyesi yüksek olan mükellefimiz Bur -Piliç Şahin Hayvancılık Piliç Gıda ve Et Mamülleri Sanayi Ticaret Limited Şirketi  Sn. Mustafa ŞAHİN'İ ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18677_defterdarimiz_sn._veysel_sezgin%2C_gelir_muduru_sn._durmus_ince_ile_birlikte_gonullu_vergi_uyum_seviyesi_yuksek_olan_mukellefimiz_bur_pilic_sahin_hayvancilik_pilic_gida_ve_et_mamulleri_sanayi_ticaret_limited_sirketi__sn._mustafa_sahini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18677_defterdarimiz_sn._veysel_sezgin%2C_gelir_muduru_sn._durmus_ince_ile_birlikte_gonullu_vergi_uyum_seviyesi_yuksek_olan_mukellefimiz_bur_pilic_sahin_hayvancilik_pilic_gida_ve_et_mamulleri_sanayi_ticaret_limited_sirketi__sn._mustafa_sahini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -366,46 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18632_defterdarligimizca_veda_yemegi_duzenlendi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kırklareli Valiliğinin Kaynak Makinası, Spiral, Taşlama Makinası ve Benzeri Kıvılcım OLuşturan Makine ve Ekipmanlarının Kullanımından Maynaklanabilecek Yangınların Önlenmesine İlişkin Tedbirler]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18630_kirklareli_valiliginin_kaynak_makinasi%2C_spiral%2C_taslama_makinasi_ve_benzeri_kivilcim_olusturan_makine_ve_ekipmanlarinin_kullanimindan_maynaklanabilecek_yanginlarin_onlenmesine_iliskin_tedbirler</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18630_kirklareli_valiliginin_kaynak_makinasi%2C_spiral%2C_taslama_makinasi_ve_benzeri_kivilcim_olusturan_makine_ve_ekipmanlarinin_kullanimindan_maynaklanabilecek_yanginlarin_onlenmesine_iliskin_tedbirler</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adalet ve Kalkınma Partisi Odunpazarı İlçe Başkan ve Başkan Yardımcıları Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18629_adalet_ve_kalkinma_partisi_odunpazari_ilce_baskan_ve_baskan_yardimcilari_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18629_adalet_ve_kalkinma_partisi_odunpazari_ilce_baskan_ve_baskan_yardimcilari_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18628_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18628_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sayın Valimiz Dr. Erdinç YILMAZ Defterdarlığımızı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18627_sayin_valimiz_dr._erdinc_yilmaz_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18627_sayin_valimiz_dr._erdinc_yilmaz_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ DENETİMİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18626_vergi_denetimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18626_vergi_denetimi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
