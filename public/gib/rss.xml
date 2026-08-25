@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 06:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 06:40:03 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,70 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Büro Memur-Sen Eskişehir Şube Başkanı Sn. Emrah ÖNGEL, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18711_buro_memursen_eskisehir_sube_baskani_sn._emrah_ongel%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18711_buro_memursen_eskisehir_sube_baskani_sn._emrah_ongel%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mevlid Kandilimiz Mübarek Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18709_mevlid_kandilimiz_mubarek_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18709_mevlid_kandilimiz_mubarek_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18707_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18707_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ulusal Staj Programı ile Gençlerimiz Kamu Deneyimi Kazanıyor]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18706_ulusal_staj_programi_ile_genclerimiz_kamu_deneyimi_kazaniyor</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18706_ulusal_staj_programi_ile_genclerimiz_kamu_deneyimi_kazaniyor</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Karabük Defterdarı Sayın Hülya YELİMLİEŞ, Defterdarımız Sayın Halil İbrahim TEMİZ'i Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18704_karabuk_defterdari_sayin_hulya_yelimlies%2C_defterdarimiz_sayin_halil_ibrahim_temizi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18704_karabuk_defterdari_sayin_hulya_yelimlies%2C_defterdarimiz_sayin_halil_ibrahim_temizi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zonguldak Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sn. Muharrem COŞKUN, Alaplı Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sn. Muharrem GELGEÇ Defterdarımız Sn. Recep SERDAR’ı ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18702_zonguldak_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_coskun%2C_alapli_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_gelgec_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18702_zonguldak_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_coskun%2C_alapli_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_gelgec_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ardahan DSİ Şube Müdürü Soner Fuat Yılmaz'ın Defterdarımız Sayın Barış SÖNMEZ'i ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18701_ardahan_dsi_sube_muduru_soner_fuat_yilmazin_defterdarimiz_sayin_baris_sonmezi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18701_ardahan_dsi_sube_muduru_soner_fuat_yilmazin_defterdarimiz_sayin_baris_sonmezi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazi Mustafa Kemal Atatürk'ün Çankırı'ya Teşriflerinin 101. Yılı Kutlu Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18710_gazi_mustafa_kemal_ataturkun_cankiriya_tesriflerinin_101._yili_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18710_gazi_mustafa_kemal_ataturkun_cankiriya_tesriflerinin_101._yili_kutlu_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Çorum Eczacılık Mesleğinin Duayeni 50 Yıllık Eczacı Enver LEBLEBİCİOĞLU, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
@@ -224,10 +288,10 @@
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Şehrimizde Yeni Göreve Başlayan Odunpazarı Kaymakamı Sn. Ahmet Hikmek ŞAHİN Defterdarımıza İade-İ Ziyarette Bulundu.]]></title>
+            <title><![CDATA[Şehrimizde Yeni Göreve Başlayan Odunpazarı Kaymakamı Sn. Ahmet Hikmet ŞAHİN Defterdarımıza İade-İ Ziyarette Bulundu.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18670_sehrimizde_yeni_goreve_baslayan_odunpazari_kaymakami_sn._ahmet_hikmek_sahin_defterdarimiza_iadei_ziyarette_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18670_sehrimizde_yeni_goreve_baslayan_odunpazari_kaymakami_sn._ahmet_hikmek_sahin_defterdarimiza_iadei_ziyarette_bulundu.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18670_sehrimizde_yeni_goreve_baslayan_odunpazari_kaymakami_sn._ahmet_hikmet_sahin_defterdarimiza_iadei_ziyarette_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18670_sehrimizde_yeni_goreve_baslayan_odunpazari_kaymakami_sn._ahmet_hikmet_sahin_defterdarimiza_iadei_ziyarette_bulundu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -312,6 +376,14 @@
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kırıkkale ilimizin 37. Yılı Kutlu Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18708_kirikkale_ilimizin_37._yili_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18708_kirikkale_ilimizin_37._yili_kutlu_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, YMM Sn. Burçin ACAR'ı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18659_defterdarimiz_sn._cemil_musevitoglu%2C_ymm_sn._burcin_acari_ziyaret_etti.</link>
@@ -334,78 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18657_veda_yemegi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR teftiş için ilimizde bulunan Müfettişlerimizle birlikte; Zonguldak Valisi Sn.Osman HACIBEKTAŞOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18655_defterdarimiz_sn._recep_serdar_teftis_icin_ilimizde_bulunan_mufettislerimizle_birlikte%3B_zonguldak_valisi_sn.osman_hacibektasoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18655_defterdarimiz_sn._recep_serdar_teftis_icin_ilimizde_bulunan_mufettislerimizle_birlikte%3B_zonguldak_valisi_sn.osman_hacibektasoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elektrikçiler Odası Başkanı Sn. Cafer ADIGÜZEL, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18654_elektrikciler_odasi_baskani_sn._cafer_adiguzel%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18654_elektrikciler_odasi_baskani_sn._cafer_adiguzel%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Görev Yapan Vergi Dairesi Müdür Yardımcılarının Yeni Görev Yerlerine Atanması Münasebetiyle Veda Yemeği Düzenlendi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18691_defterdarligimizda_gorev_yapan_vergi_dairesi_mudur_yardimcilarinin_yeni_gorev_yerlerine_atanmasi_munasebetiyle_veda_yemegi_duzenlendi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18691_defterdarligimizda_gorev_yapan_vergi_dairesi_mudur_yardimcilarinin_yeni_gorev_yerlerine_atanmasi_munasebetiyle_veda_yemegi_duzenlendi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Çaycuma Vergi Dairesi Müdürlüğü'nü ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18652_defterdarimiz_sn._recep_serdar%2C_caycuma_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18652_defterdarimiz_sn._recep_serdar%2C_caycuma_vergi_dairesi_mudurlugunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR,  Avukat Sn. Veysel BAŞÖREN'i Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C__avukat_sn._veysel_basoreni_ziyaret_etti._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18651_defterdarimiz_sn._recep_serdar%2C__avukat_sn._veysel_basoreni_ziyaret_etti._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Alagözler A.Ş.'yi Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18650_defterdarimiz_sn._recep_serdar%2C_alagozler_a.s.yi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18650_defterdarimiz_sn._recep_serdar%2C_alagozler_a.s.yi_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GES YAPIMI PROJESİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18648_ges_yapimi_projesi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18648_ges_yapimi_projesi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ, Cumhurbaşkanlığı Ulusal Staj Programı kapsamında Defterdarlığımızda stajını tamamlayan öğrencilerimize staj belgelerini takdim ederek çalışma hayatında başarılar dilemiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18647_defterdarimiz_sayin_reyhan_kokcu%2C_cumhurbaskanligi_ulusal_staj_programi_kapsaminda_defterdarligimizda_stajini_tamamlayan_ogrencilerimize_staj_belgelerini_takdim_ederek_calisma_hayatinda_basarilar_dilemistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18647_defterdarimiz_sayin_reyhan_kokcu%2C_cumhurbaskanligi_ulusal_staj_programi_kapsaminda_defterdarligimizda_stajini_tamamlayan_ogrencilerimize_staj_belgelerini_takdim_ederek_calisma_hayatinda_basarilar_dilemistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18646_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18646_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
