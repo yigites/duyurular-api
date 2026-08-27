@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 06:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 17:18:04 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,54 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DİYADİN’ DE TÜRK ALTIN MADENİ SAHASI’ NIN AÇILIŞI GERÇEKLEŞTİRİLDİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18722_diyadin_de_turk_altin_madeni_sahasi_nin_acilisi_gerceklestirildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18722_diyadin_de_turk_altin_madeni_sahasi_nin_acilisi_gerceklestirildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tahsilat Genel Tebliği (Seri:B Sıra No:20) Kapsamında Tecil ve Taksitlendirilme Başvurularının Yapılabileceği Son Tarih 31.08.2026]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18721_tahsilat_genel_tebligi_seri%3Ab_sira_no%3A20_kapsaminda_tecil_ve_taksitlendirilme_basvurularinin_yapilabilecegi_son_tarih_31.08.2026</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18721_tahsilat_genel_tebligi_seri%3Ab_sira_no%3A20_kapsaminda_tecil_ve_taksitlendirilme_basvurularinin_yapilabilecegi_son_tarih_31.08.2026</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İl Özel İdaresi Genel Sekreteri Sn. Ahmet Güral KARAYILMAZ, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18720_il_ozel_idaresi_genel_sekreteri_sn._ahmet_gural_karayilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18720_il_ozel_idaresi_genel_sekreteri_sn._ahmet_gural_karayilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TİMKODER Yönetim Kurulu Başkanı Sayın Cihat KARADAYI ve Yönetim Kurulu Üyeleri Ankara Defterdarı Sayın Yüksel DUMAN’a nezaket ziyaretinde bulunmuşlardır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18719_timkoder_yonetim_kurulu_baskani_sayin_cihat_karadayi_ve_yonetim_kurulu_uyeleri_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmuslardir._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18719_timkoder_yonetim_kurulu_baskani_sayin_cihat_karadayi_ve_yonetim_kurulu_uyeleri_ankara_defterdari_sayin_yuksel_dumana_nezaket_ziyaretinde_bulunmuslardir._</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Konutsan Hırdavat İnşaat Malzemeleri A.Ş. ve Abalı Altın, Döviz A.Ş. Yetkilisi Sn. Mehmet ABALI, Defterdarımız Sn. Recep SERDAR’ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18718_konutsan_hirdavat_insaat_malzemeleri_a.s._ve_abali_altin%2C_doviz_a.s._yetkilisi_sn._mehmet_abali%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18718_konutsan_hirdavat_insaat_malzemeleri_a.s._ve_abali_altin%2C_doviz_a.s._yetkilisi_sn._mehmet_abali%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Mart 2026 tarihinde yazılı bölümü, 21-30 Nisan 2026 tarihleri arasında sözlü bölümü yapılan Gelir Uzman Yardımcılığı Giriş Sınavında başarılı olup, yedek listede yer alan adaylardan istenecek belgeler.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18717_7_mart_2026_tarihinde_yazili_bolumu%2C_2130_nisan_2026_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18717_7_mart_2026_tarihinde_yazili_bolumu%2C_2130_nisan_2026_tarihleri_arasinda_sozlu_bolumu_yapilan_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olup%2C_yedek_listede_yer_alan_adaylardan_istenecek_belgeler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LÖSEV Kurumsal İletişim Koordinatörü Sn. Sinan ARAS ve LÖSEV İl Sorumlusu Sn. Yıldız POYRAZ, Defterdarımız Sn. Recep SERDAR’ı Ziyaret Etti.]]></title>
@@ -356,54 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18667_72_aya_varan_taksitlendirme_imkani</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18667_72_aya_varan_taksitlendirme_imkani</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 Kasım 2026 Tarihinde Gelir İdaresi Grup Müdürlüğü Sınavı Yapılacaktır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18666_21_kasim_2026_tarihinde_gelir_idaresi_grup_mudurlugu_sinavi_yapilacaktir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18666_21_kasim_2026_tarihinde_gelir_idaresi_grup_mudurlugu_sinavi_yapilacaktir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Çorum İşkur İl Müdürü Sayın Sezgin SARAÇOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18665_corum_defterdari_sayin_erkan_ciger%2C_corum_iskur_il_muduru_sayin_sezgin_saracoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18665_corum_defterdari_sayin_erkan_ciger%2C_corum_iskur_il_muduru_sayin_sezgin_saracoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VEDA ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18664_veda_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18664_veda_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18663_mukellef_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18663_mukellef_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ BELGE DÜZENİ DENETİMLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18662_vergi_belge_duzeni_denetimleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18662_vergi_belge_duzeni_denetimleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Özel Yoklama Belgesi Eğitimi Tamamlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18661_defterdarligimizda_ozel_yoklama_belgesi_egitimi_tamamlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18661_defterdarligimizda_ozel_yoklama_belgesi_egitimi_tamamlandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
