@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 11:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 12:38:49 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VERGİ REKORTMENLERİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18738_vergi_rekortmenleri</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18738_vergi_rekortmenleri</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stajyerlerimize Katılım Belgesi Takdim Töreni Düzenlenmiştir]]></title>
@@ -28,6 +36,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18734_ziyaret_</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18734_ziyaret_</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kilis Gümrük Saymanlık Müdür Yardımcısı Gökhan BAYRI Çanakkale Defterdarlığına atanması dolayısıyla ilimizden ayrıldığından, Defterdarığımızda vermiş olduğu olumlu hizmetlerden dolayı teşekkür belgesi verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18736_kilis_gumruk_saymanlik_mudur_yardimcisi_gokhan_bayri_canakkale_defterdarligina_atanmasi_dolayisiyla_ilimizden_ayrildigindan%2C_defterdarigimizda_vermis_oldugu_olumlu_hizmetlerden_dolayi_tesekkur_belgesi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18736_kilis_gumruk_saymanlik_mudur_yardimcisi_gokhan_bayri_canakkale_defterdarligina_atanmasi_dolayisiyla_ilimizden_ayrildigindan%2C_defterdarigimizda_vermis_oldugu_olumlu_hizmetlerden_dolayi_tesekkur_belgesi_verildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
@@ -280,6 +296,14 @@
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Balıkesir Esnaf ve Sanatkarları Odaları Birliğine Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18737_balikesir_esnaf_ve_sanatkarlari_odalari_birligine_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18737_balikesir_esnaf_ve_sanatkarlari_odalari_birligine_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Basın Bülteni]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18698_basin_bulteni</link>
@@ -382,30 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18700_hatay_mustafa_kemal_universitesi_rektoru_prof._dr._veysel_erenden_defterdarimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malatya Yeşilyurt Belediye Başkanı Sayın İlhan GEÇİT  Defterdarlığımıza ziyarette bulundular.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18697_malatya_yesilyurt_belediye_baskani_sayin_ilhan_gecit__defterdarligimiza_ziyarette_bulundular.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18697_malatya_yesilyurt_belediye_baskani_sayin_ilhan_gecit__defterdarligimiza_ziyarette_bulundular.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımızın Şemdinli Kaymakamı Ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18692_defterdarimizin_semdinli_kaymakami_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18692_defterdarimizin_semdinli_kaymakami_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Mustafa İNCEÇAYIR ve İl Müdürlerimiz, Diyarbakır İl Jandarma Komutanı iken Ankara İl Jandarma Komutanlığına atanan Tümgeneral Sayın Tarık Hekimoğlu’na veda ziyaretinde bulunmuşlardır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18681_defterdarimiz_sayin_mustafa_incecayir_ve_il_mudurlerimiz%2C_diyarbakir_il_jandarma_komutani_iken_ankara_il_jandarma_komutanligina_atanan_tumgeneral_sayin_tarik_hekimogluna_veda_ziyaretinde_bulunmuslardir._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18681_defterdarimiz_sayin_mustafa_incecayir_ve_il_mudurlerimiz%2C_diyarbakir_il_jandarma_komutani_iken_ankara_il_jandarma_komutanligina_atanan_tumgeneral_sayin_tarik_hekimogluna_veda_ziyaretinde_bulunmuslardir._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
