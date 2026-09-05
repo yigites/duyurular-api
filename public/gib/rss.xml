@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 10:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 09:55:50 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 538)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 595) Resmi Gazete’de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18792_vergi_usul_kanunu_genel_tebligi_sira_no%3A_538nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_595_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18792_vergi_usul_kanunu_genel_tebligi_sira_no%3A_538nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_595_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11734 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18791_11734_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18791_11734_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18790_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18790_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ENGELSİZ YAŞAM, BAKIM, REHABİLİTASYON ve AİLE DANIŞMA MERKEZİ MÜDÜRLÜĞÜNE ZİYARET]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18789_engelsiz_yasam%2C_bakim%2C_rehabilitasyon_ve_aile_danisma_merkezi_mudurlugune_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18789_engelsiz_yasam%2C_bakim%2C_rehabilitasyon_ve_aile_danisma_merkezi_mudurlugune_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Akgül Tekstil Fabrikasını Ziyaret Etti.]]></title>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18729_stajyerlerimize_katilim_belgesi_takdim_toreni</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18729_stajyerlerimize_katilim_belgesi_takdim_toreni</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemin Töreni Yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18728_yemin_toreni_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18728_yemin_toreni_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Memuriyette 35 Yılını Dolduran Gökçebey Vergi Dairesinde Görevli Çalışma Arkadaşlarımıza Teşekkür Belgesi Takdim Edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18727_memuriyette_35_yilini_dolduran_gokcebey_vergi_dairesinde_gorevli_calisma_arkadaslarimiza_tesekkur_belgesi_takdim_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18727_memuriyette_35_yilini_dolduran_gokcebey_vergi_dairesinde_gorevli_calisma_arkadaslarimiza_tesekkur_belgesi_takdim_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Barış SÖNMEZ Posof Kaymakamı Sayın İsa BERTAN'I makamında ziyaret etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18726_defterdarimiz_sayin_baris_sonmez_posof_kaymakami_sayin_isa_bertani_makaminda_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18726_defterdarimiz_sayin_baris_sonmez_posof_kaymakami_sayin_isa_bertani_makaminda_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ulusal Staj Programı kapsamında Katılım Belgelerin takdimi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18725_ulusal_staj_programi_kapsaminda_katilim_belgelerin_takdimi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18725_ulusal_staj_programi_kapsaminda_katilim_belgelerin_takdimi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
