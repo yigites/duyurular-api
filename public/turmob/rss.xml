@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 10:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 10:34:10 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Değişen Dünyada Mesleğimizin Geleceğini İnşa Ediyoruz]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/4bd5d64e-625a-47fb-98b4-688d576f685f/degisen-dunyada-meslegimizin-gelecegini-insa-ediyoruz</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/4bd5d64e-625a-47fb-98b4-688d576f685f/degisen-dunyada-meslegimizin-gelecegini-insa-ediyoruz</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IESBA Etik Kurallar | Örnek Olay 18: Haksız Rekabet, Mesleki Davranış ve Etik]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e267f1f2-7f1c-4090-bdc4-71d9628875d3/kamuoyu-aciklamasi---meslektaslarimizin-yanindayiz-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkiye Etki Muhasebesi Pilot Programı Tanıtım Webinarı]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/38da7663-d322-4054-8d89-af1032365a11/turkiye-etki-muhasebesi-pilot-programi-tanitim-webinari</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/38da7663-d322-4054-8d89-af1032365a11/turkiye-etki-muhasebesi-pilot-programi-tanitim-webinari</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
