@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 10:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 10:34:33 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,6 +16,46 @@
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Han Kaymakamı Sn. Bahadır YILMAZ, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18840_han_kaymakami_sn._bahadir_yilmaz%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18840_han_kaymakami_sn._bahadir_yilmaz%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18839_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18839_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Birlik Makina Fabrikasını Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18836_defterdarimiz_sn._recep_serdar%2C_birlik_makina_fabrikasini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18836_defterdarimiz_sn._recep_serdar%2C_birlik_makina_fabrikasini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MÜKELLEF ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18835_mukellef_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18835_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çıldır Kaymakamı Sayın Yunus Emre Sakızcı'nın Defterdarımız Sayın Barış SÖNMEZ'i ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18811_cildir_kaymakami_sayin_yunus_emre_sakizcinin_defterdarimiz_sayin_baris_sonmezi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18811_cildir_kaymakami_sayin_yunus_emre_sakizcinin_defterdarimiz_sayin_baris_sonmezi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ankara Defterdarı Sayın Yüksel DUMAN, beraberindeki heyet ile birlikte 2026 yılı itibarıyla Ankara Kurumlar Vergi Dairesi Müdürlüğü mükellefleri arasına dahil olan büyük ve kurumsal mükelleflere yönelik ziyaretler gerçekleştirdi.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18833_ankara_defterdari_sayin_yuksel_duman%2C_beraberindeki_heyet_ile_birlikte_2026_yili_itibariyla_ankara_kurumlar_vergi_dairesi_mudurlugu_mukellefleri_arasina_dahil_olan_buyuk_ve_kurumsal_mukelleflere_yonelik_ziyaretler_gerceklestirdi.</link>
@@ -24,10 +64,10 @@
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[İçişleri Bakanlığı Başkontrolörü Sn. Ahmet ACAR, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <title><![CDATA[İçişleri Bakanlığı Başkontrolörü Sn. Ahmet ACER, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18832_icisleri_bakanligi_baskontroloru_sn._ahmet_acar%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18832_icisleri_bakanligi_baskontroloru_sn._ahmet_acar%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18832_icisleri_bakanligi_baskontroloru_sn._ahmet_acer%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18832_icisleri_bakanligi_baskontroloru_sn._ahmet_acer%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -44,6 +84,22 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18831_igdir_genelinde_2025_yilinda_en_fazla_vergi_beyan_eden_20_mukellef_listeleri_aciklandi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18831_igdir_genelinde_2025_yilinda_en_fazla_vergi_beyan_eden_20_mukellef_listeleri_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veda Yemeği]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18834_veda_yemegi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18834_veda_yemegi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İl Müdürlerinden Defterdarımıza ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18837_il_mudurlerinden_defterdarimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18837_il_mudurlerinden_defterdarimiza_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -350,62 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18779_defterdarimiz_sayin_reyhan_kokcu%2C_beraberinde_akcakoca_vergi_dairesi_muduru_tuncay_celik_ile_birlikte_akcakoca_kaymakami_sayin_dr._haci_arslan_uzani_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, Çorum Eczacılar Odası Başkanı Erol AFACAN'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18778_corum_defterdari_sayin_erkan_ciger%2C_corum_eczacilar_odasi_baskani_erol_afacani_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18778_corum_defterdari_sayin_erkan_ciger%2C_corum_eczacilar_odasi_baskani_erol_afacani_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Bütünleşik Kamu Mali Yönetim Bilişim Sistemi (BKMYBS) konulu toplantı gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18786_defterdarligimizda_butunlesik_kamu_mali_yonetim_bilisim_sistemi_bkmybs_konulu_toplanti_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18786_defterdarligimizda_butunlesik_kamu_mali_yonetim_bilisim_sistemi_bkmybs_konulu_toplanti_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18777_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18777_10995_sayili_cumhurbaskani_karari_uyarinca_uygulanacak_ozel_tuketim_vergisi_tutarlari</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin Tunceli İlinde En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18774_2025_vergilendirme_donemine_iliskin_tunceli_ilinde_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18774_2025_vergilendirme_donemine_iliskin_tunceli_ilinde_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız ile Muğla Özel Yücelen Hastanesi arasında personelimiz ve 1. derece yakınları için indirim protokolü imzalanmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18785_defterdarligimiz_ile_mugla_ozel_yucelen_hastanesi_arasinda_personelimiz_ve_1._derece_yakinlari_icin_indirim_protokolu_imzalanmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18785_defterdarligimiz_ile_mugla_ozel_yucelen_hastanesi_arasinda_personelimiz_ve_1._derece_yakinlari_icin_indirim_protokolu_imzalanmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Bütünleşik Kamu Mali Yönetim Bilişim Sistemi (BKMYBS) konulu toplantı gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18787_defterdarligimizda_butunlesik_kamu_mali_yonetim_bilisim_sistemi_bkmybs_konulu_toplanti_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18787_defterdarligimizda_butunlesik_kamu_mali_yonetim_bilisim_sistemi_bkmybs_konulu_toplanti_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Konutsan Hırdavat İnşaat Malzemeleri A.Ş.'yi Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18769_defterdarimiz_sn._recep_serdar%2C_konutsan_hirdavat_insaat_malzemeleri_a.s.yi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18769_defterdarimiz_sn._recep_serdar%2C_konutsan_hirdavat_insaat_malzemeleri_a.s.yi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
