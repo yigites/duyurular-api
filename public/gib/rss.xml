@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 11:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 11:44:34 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -48,6 +48,14 @@
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Eski Serbest Mali Müşavirler Oda başkanlarından oluşan Ahde Vefa Grubunun Defterdarlığmıza ziyareti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18845_eski_serbest_mali_musavirler_oda_baskanlarindan_olusan_ahde_vefa_grubunun_defterdarligmiza_ziyareti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18845_eski_serbest_mali_musavirler_oda_baskanlarindan_olusan_ahde_vefa_grubunun_defterdarligmiza_ziyareti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Birlik Makina Fabrikasını Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18836_defterdarimiz_sn._recep_serdar%2C_birlik_makina_fabrikasini_ziyaret_etti.</link>
@@ -60,6 +68,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18835_mukellef_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18835_mukellef_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Bucak V.D. Müdürü Sn. Harun KARA ile birlikte Bucak ilçesinde faaliyat gösteren Duranlar Süt A.Ş. yetkililerini ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18844_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ile_birlikte_bucak_ilcesinde_faaliyat_gosteren_duranlar_sut_a.s._yetkililerini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18844_defterdarimiz_sn_veysel_sezgin%2C_bucak_v.d._muduru_sn._harun_kara_ile_birlikte_bucak_ilcesinde_faaliyat_gosteren_duranlar_sut_a.s._yetkililerini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18783_defterdarimiz_sn._recep_serdar%2C_seher_tekstil_fabrikasini_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18783_defterdarimiz_sn._recep_serdar%2C_seher_tekstil_fabrikasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ, beraberinde Düzce Vergi Dairesi Müdürü Damla TUTKUN DÖNMEZ ve Akçakoca Vergi Dairesi Müdürü Tuncay ÇELİK ile birlikte Düzce Üniversitesi Rektörü Sayın Prof. Dr. Nedim SÖZBİR'i makamında ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18782_defterdarimiz_sayin_reyhan_kokcu%2C_beraberinde_duzce_vergi_dairesi_muduru_damla_tutkun_donmez_ve_akcakoca_vergi_dairesi_muduru_tuncay_celik_ile_birlikte_duzce_universitesi_rektoru_sayin_prof._dr._nedim_sozbiri_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18782_defterdarimiz_sayin_reyhan_kokcu%2C_beraberinde_duzce_vergi_dairesi_muduru_damla_tutkun_donmez_ve_akcakoca_vergi_dairesi_muduru_tuncay_celik_ile_birlikte_duzce_universitesi_rektoru_sayin_prof._dr._nedim_sozbiri_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Reyhan KÖKCÜ, Akçakoca Vergi Dairesi Müdürlüğünde görev yapan personellerimizi ziyaret ederek çalışma hayatında başarılar dilemiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18781_defterdarimiz_sayin_reyhan_kokcu%2C_akcakoca_vergi_dairesi_mudurlugunde_gorev_yapan_personellerimizi_ziyaret_ederek_calisma_hayatinda_basarilar_dilemistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18781_defterdarimiz_sayin_reyhan_kokcu%2C_akcakoca_vergi_dairesi_mudurlugunde_gorev_yapan_personellerimizi_ziyaret_ederek_calisma_hayatinda_basarilar_dilemistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
