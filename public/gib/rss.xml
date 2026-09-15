@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 11:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 11:02:01 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,70 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimize Yeni Atanan Vali Yardımcıları Sayın Fikri BADİOĞLU ve Sayın Mehmet TIĞLI İl Defterdarımız Sayın Hasan ÖZTAŞ'a İadei Ziyarette Bulundular]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18859_ilimize_yeni_atanan_vali_yardimcilari_sayin_fikri_badioglu_ve_sayin_mehmet_tigli_il_defterdarimiz_sayin_hasan_oztasa_iadei_ziyarette_bulundular</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18859_ilimize_yeni_atanan_vali_yardimcilari_sayin_fikri_badioglu_ve_sayin_mehmet_tigli_il_defterdarimiz_sayin_hasan_oztasa_iadei_ziyarette_bulundular</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şırnak Cumhuriyet Başsavcısı Sayın Yusuf CANİK İl Defterdarımız Sayın Hasan ÖZTAŞ'a İadei Ziyarette Bulundu]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18860_sirnak_cumhuriyet_bassavcisi_sayin_yusuf_canik_il_defterdarimiz_sayin_hasan_oztasa_iadei_ziyarette_bulundu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18860_sirnak_cumhuriyet_bassavcisi_sayin_yusuf_canik_il_defterdarimiz_sayin_hasan_oztasa_iadei_ziyarette_bulundu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Bu Yıl 39. su Kutlanan Ahilik Haftası Kapsamında Düzenlenen Etkinlik Programına Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18861_defterdarimiz_sn._cemil_musevitoglu%2C_bu_yil_39._su_kutlanan_ahilik_haftasi_kapsaminda_duzenlenen_etkinlik_programina_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18861_defterdarimiz_sn._cemil_musevitoglu%2C_bu_yil_39._su_kutlanan_ahilik_haftasi_kapsaminda_duzenlenen_etkinlik_programina_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TÜİK Bölge Müdürü Sayın Muhammet Emre AYTAÇ'tan Defterdarımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18863_tuik_bolge_muduru_sayin_muhammet_emre_aytactan_defterdarimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18863_tuik_bolge_muduru_sayin_muhammet_emre_aytactan_defterdarimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Ömer ALANLI Emekliye Ayrılan Müdürümüze Plaketini Takdim Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18858_defterdarimiz_sayin_omer_alanli_emekliye_ayrilan_mudurumuze_plaketini_takdim_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18858_defterdarimiz_sayin_omer_alanli_emekliye_ayrilan_mudurumuze_plaketini_takdim_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eskişehir Genelinde 2025 Yılı Vergilendirme Döneminde Adına En Fazla Gelir ve Kurumlar Vergisi Tahakkuk Eden İlk 100 Mükellef Listeleri  Yayınlandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18857_eskisehir_genelinde_2025_yili_vergilendirme_doneminde_adina_en_fazla_gelir_ve_kurumlar_vergisi_tahakkuk_eden_ilk_100_mukellef_listeleri__yayinlandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18857_eskisehir_genelinde_2025_yili_vergilendirme_doneminde_adina_en_fazla_gelir_ve_kurumlar_vergisi_tahakkuk_eden_ilk_100_mukellef_listeleri__yayinlandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gençlik ve Spor İl Müdürü Sayın Mehmet BAŞKÖYLÜ ve Digor İlçe Müdürü Sayın Bahattin İNCE, Defterdarımız Sayın Fatih POLAT'ı Makamında Ziyaret Etmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mülkiye Başmüfettişi Sn. Metin YILMAZ, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18856_mulkiye_basmufettisi_sn._metin_yilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18856_mulkiye_basmufettisi_sn._metin_yilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları]]></title>
@@ -342,70 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18793_calisma_arkadaslarimizla_kahvaltida_bir_araya_geldik._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 538)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 595) Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18792_vergi_usul_kanunu_genel_tebligi_sira_no%3A_538nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_595_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18792_vergi_usul_kanunu_genel_tebligi_sira_no%3A_538nde_degisiklik_yapilmasina_dair_teblig_sira_no%3A_595_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11734 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18791_11734_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18791_11734_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kamu-Sen'e Bağlı Türk Büro Sen Eskişehir Şube Başkanı Sn. Alp ARSLAN, ve İl Temsilcisi Sn. Arzu TEKMENLER, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18794_kamusene_bagli_turk_buro_sen_eskisehir_sube_baskani_sn._alp_arslan%2C_ve_il_temsilcisi_sn._arzu_tekmenler%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18794_kamusene_bagli_turk_buro_sen_eskisehir_sube_baskani_sn._alp_arslan%2C_ve_il_temsilcisi_sn._arzu_tekmenler%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18790_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18790_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ENGELSİZ YAŞAM, BAKIM, REHABİLİTASYON ve AİLE DANIŞMA MERKEZİ MÜDÜRLÜĞÜNE ZİYARET]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18789_engelsiz_yasam%2C_bakim%2C_rehabilitasyon_ve_aile_danisma_merkezi_mudurlugune_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18789_engelsiz_yasam%2C_bakim%2C_rehabilitasyon_ve_aile_danisma_merkezi_mudurlugune_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Büro Memur-Sen Sendikası Çankırı Şube Başkanı Sayın Nihat Makas'tan Hayırlı Olsun Ziyareti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18817_buro_memursen_sendikasi_cankiri_sube_baskani_sayin_nihat_makastan_hayirli_olsun_ziyareti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18817_buro_memursen_sendikasi_cankiri_sube_baskani_sayin_nihat_makastan_hayirli_olsun_ziyareti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Akgül Tekstil Fabrikasını Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18784_defterdarimiz_sn._recep_serdar%2C_akgul_tekstil_fabrikasini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18784_defterdarimiz_sn._recep_serdar%2C_akgul_tekstil_fabrikasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Seher Tekstil Fabrikasını Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18783_defterdarimiz_sn._recep_serdar%2C_seher_tekstil_fabrikasini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18783_defterdarimiz_sn._recep_serdar%2C_seher_tekstil_fabrikasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
