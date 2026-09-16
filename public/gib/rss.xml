@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 11:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 10:49:08 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Yılı Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18875_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18875_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çankırı Karabük İlleri Eğitim ve Kültür Derneği Başkanı Sn. Öner UYSAL, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18871_cankiri_karabuk_illeri_egitim_ve_kultur_dernegi_baskani_sn._oner_uysal%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18871_cankiri_karabuk_illeri_egitim_ve_kultur_dernegi_baskani_sn._oner_uysal%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mirasçıların Vergisel Yükümlülükleri Rehberi ile Veraset ve İntikal Vergisi Broşürü Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18867_mirascilarin_vergisel_yukumlulukleri_rehberi_ile_veraset_ve_intikal_vergisi_brosuru_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18867_mirascilarin_vergisel_yukumlulukleri_rehberi_ile_veraset_ve_intikal_vergisi_brosuru_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şırnak Esnaf ve Sanatkarlar Odası Temsilcileri 39.Ahilik Haftası Kutlamaları Kapsamında İl Defterdarımız Hasan ÖZTAŞ'ı Ziyaret Ettiler]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18864_sirnak_esnaf_ve_sanatkarlar_odasi_temsilcileri_39.ahilik_haftasi_kutlamalari_kapsaminda_il_defterdarimiz_hasan_oztasi_ziyaret_ettiler</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18864_sirnak_esnaf_ve_sanatkarlar_odasi_temsilcileri_39.ahilik_haftasi_kutlamalari_kapsaminda_il_defterdarimiz_hasan_oztasi_ziyaret_ettiler</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[İlimize Yeni Atanan Vali Yardımcıları Sayın Fikri BADİOĞLU ve Sayın Mehmet TIĞLI İl Defterdarımız Sayın Hasan ÖZTAŞ'a İadei Ziyarette Bulundular]]></title>
@@ -48,6 +80,14 @@
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Suruç Vergi Dairesi Müdürlüğünün Adres Değişikliği Duyurusu]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18874_suruc_vergi_dairesi_mudurlugunun_adres_degisikligi_duyurusu</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18874_suruc_vergi_dairesi_mudurlugunun_adres_degisikligi_duyurusu</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sayın Ömer ALANLI Emekliye Ayrılan Müdürümüze Plaketini Takdim Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18858_defterdarimiz_sayin_omer_alanli_emekliye_ayrilan_mudurumuze_plaketini_takdim_etti.</link>
@@ -62,6 +102,30 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18857_eskisehir_genelinde_2025_yili_vergilendirme_doneminde_adina_en_fazla_gelir_ve_kurumlar_vergisi_tahakkuk_eden_ilk_100_mukellef_listeleri__yayinlandi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şemdinli Kaymakamı Sayın Fatih ERDOĞAN' ın Defterdarımızı ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18865_semdinli_kaymakami_sayin_fatih_erdogan_in_defterdarimizi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18865_semdinli_kaymakami_sayin_fatih_erdogan_in_defterdarimizi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ANKARA DEFTERDARLIĞI OLARAK ÜÇ YILDIR ÜZERİNDE ÇALIŞTIĞIMIZ PROJE HAYATA GEÇİYOR]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18868_ankara_defterdarligi_olarak_uc_yildir_uzerinde_calistigimiz_proje_hayata_geciyor</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18868_ankara_defterdarligi_olarak_uc_yildir_uzerinde_calistigimiz_proje_hayata_geciyor</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2026-2027 Eğitim Öğretim Yılı Hayırlı Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18870_20262027_egitim_ogretim_yili_hayirli_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18870_20262027_egitim_ogretim_yili_hayirli_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gençlik ve Spor İl Müdürü Sayın Mehmet BAŞKÖYLÜ ve Digor İlçe Müdürü Sayın Bahattin İNCE, Defterdarımız Sayın Fatih POLAT'ı Makamında Ziyaret Etmiştir.]]></title>
@@ -342,70 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18804_esnaf_ve_sanatkarlar_odalari_birliginin_defterdarligimiza_ziyareti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Alpu İlçe Şube Yöneticiliği'ni Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18800_defterdarimiz_sn._cemil_musevitoglu_alpu_ilce_sube_yoneticiligini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18800_defterdarimiz_sn._cemil_musevitoglu_alpu_ilce_sube_yoneticiligini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18798_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18798_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HAYIRLI OLSUN ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18796_hayirli_olsun_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18796_hayirli_olsun_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HAYIRLI OLSUN ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18797_hayirli_olsun_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18797_hayirli_olsun_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERGİ BELGE DÜZENİ DENETİMLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18795_vergi_belge_duzeni_denetimleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18795_vergi_belge_duzeni_denetimleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 YILI VERGİLENDİRME DÖNEMİNE İLİŞKİN EN FAZLA VERGİ BEYAN EDEN MÜKELLEFLER AÇIKLANDI.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18825_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18825_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GÖSTERİLENE DEĞİL, GERÇEĞE BAK! DEZENFORMASYONA DUR DE!]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18818_gosterilene_degil%2C_gercege_bak_dezenformasyona_dur_de</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18818_gosterilene_degil%2C_gercege_bak_dezenformasyona_dur_de</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çalışma Arkadaşlarımızla Kahvaltıda Bir Araya Geldik.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18793_calisma_arkadaslarimizla_kahvaltida_bir_araya_geldik._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18793_calisma_arkadaslarimizla_kahvaltida_bir_araya_geldik._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
