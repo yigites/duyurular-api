@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:35:08 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18615_kamu_kurumlarinin_vergisel_odev_ve_islemleri_icin_egitim_verildi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Gaziler Günü Programına Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18922_defterdarimiz_sn._cemil_musevitoglu%2C_gaziler_gunu_programina_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18922_defterdarimiz_sn._cemil_musevitoglu%2C_gaziler_gunu_programina_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarlığımız tarafından İzmir Optisyen Gözlükçüler Odası Üyelerine Yönelik ‘’Optisyenlik Faaliyetinde Belge Düzeni/ÜTS Kapsamında Düzenlenecek E-Faturalar’’ Konulu Seminer Gerçekleştirildi.]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mülkiye Başmüfettişi Sn. Metin YILMAZ, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18856_mulkiye_basmufettisi_sn._metin_yilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18856_mulkiye_basmufettisi_sn._metin_yilmaz%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
