@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 10:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 11:57:06 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,58 @@
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Devrek Belediye Başkanı Sn. Özcan ULUPINAR, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18930_devrek_belediye_baskani_sn._ozcan_ulupinar%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18930_devrek_belediye_baskani_sn._ozcan_ulupinar%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Muhasebe Müdürü Cevdet KOÇ kurum personellerine 4734 Saılı Kamu İhale Kanunu hakkında eğitim gerçekleştirdi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18925_defterdarligimiz_muhasebe_muduru_cevdet_koc_kurum_personellerine_4734_saili_kamu_ihale_kanunu_hakkinda_egitim_gerceklestirdi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18925_defterdarligimiz_muhasebe_muduru_cevdet_koc_kurum_personellerine_4734_saili_kamu_ihale_kanunu_hakkinda_egitim_gerceklestirdi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gelir Uzman Yardımcılığı Giriş Sınavında Başarılı Olarak Atanmaya Hak Kazanan Adaylara İlişkin Duyuru]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18927_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olarak_atanmaya_hak_kazanan_adaylara_iliskin_duyuru</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18927_gelir_uzman_yardimciligi_giris_sinavinda_basarili_olarak_atanmaya_hak_kazanan_adaylara_iliskin_duyuru</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sel Afetinden Etkilenen İyidere ve Pazar İlçelerimizde Zarar Tespit Çalışmalarına Devam Edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18931_sel_afetinden_etkilenen_iyidere_ve_pazar_ilcelerimizde_zarar_tespit_calismalarina_devam_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18931_sel_afetinden_etkilenen_iyidere_ve_pazar_ilcelerimizde_zarar_tespit_calismalarina_devam_edildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Gaziler Günü Programına Katıldı.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18922_defterdarimiz_sn._cemil_musevitoglu%2C_gaziler_gunu_programina_katildi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18922_defterdarimiz_sn._cemil_musevitoglu%2C_gaziler_gunu_programina_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sel Afetinden Etkilenen İyidere ve Pazar İlçelerimizde Zarar Tespit Çalışmalarına Başlandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18929_sel_afetinden_etkilenen_iyidere_ve_pazar_ilcelerimizde_zarar_tespit_calismalarina_baslandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18929_sel_afetinden_etkilenen_iyidere_ve_pazar_ilcelerimizde_zarar_tespit_calismalarina_baslandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19 Eylül Gaziler Günü Kutlu Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18924_19_eylul_gaziler_gunu_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18924_19_eylul_gaziler_gunu_kutlu_olsun.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -80,6 +128,14 @@
             <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Çalışma Arkadaşlarımızdan Sn. Büşra YAVUZ'un Veda Yemeğine Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18923_defterdarimiz_sn._cemil_musevitoglu_calisma_arkadaslarimizdan_sn._busra_yavuzun_veda_yemegine_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18923_defterdarimiz_sn._cemil_musevitoglu_calisma_arkadaslarimizdan_sn._busra_yavuzun_veda_yemegine_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarlığımız Müdür Yardımcılarından Sayın Mehmet BULAN Emekliliğe Ayrılması Dolayısıyla Defterdarımızı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18873_defterdarligimiz_mudur_yardimcilarindan_sayin_mehmet_bulan_emeklilige_ayrilmasi_dolayisiyla_defterdarimizi_ziyaret_etti.</link>
@@ -132,6 +188,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18900_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18900_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn Veysel SEZGİN, Isparta Vali Yardımcısı Sn. Halil İbrahim ERTEKİN'i ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18926_defterdarimiz_sn_veysel_sezgin%2C_isparta_vali_yardimcisi_sn._halil_ibrahim_ertekini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18926_defterdarimiz_sn_veysel_sezgin%2C_isparta_vali_yardimcisi_sn._halil_ibrahim_ertekini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -342,70 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18874_suruc_vergi_dairesi_mudurlugunun_adres_degisikligi_duyurusu</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Ömer ALANLI Emekliye Ayrılan Müdürümüze Plaketini Takdim Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18858_defterdarimiz_sayin_omer_alanli_emekliye_ayrilan_mudurumuze_plaketini_takdim_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18858_defterdarimiz_sayin_omer_alanli_emekliye_ayrilan_mudurumuze_plaketini_takdim_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eskişehir Genelinde 2025 Yılı Vergilendirme Döneminde Adına En Fazla Gelir ve Kurumlar Vergisi Tahakkuk Eden İlk 100 Mükellef Listeleri  Yayınlandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18857_eskisehir_genelinde_2025_yili_vergilendirme_doneminde_adina_en_fazla_gelir_ve_kurumlar_vergisi_tahakkuk_eden_ilk_100_mukellef_listeleri__yayinlandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18857_eskisehir_genelinde_2025_yili_vergilendirme_doneminde_adina_en_fazla_gelir_ve_kurumlar_vergisi_tahakkuk_eden_ilk_100_mukellef_listeleri__yayinlandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Şemdinli Kaymakamı Sayın Fatih ERDOĞAN' ın Defterdarımızı ziyareti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18865_semdinli_kaymakami_sayin_fatih_erdogan_in_defterdarimizi_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18865_semdinli_kaymakami_sayin_fatih_erdogan_in_defterdarimizi_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ANKARA DEFTERDARLIĞI OLARAK ÜÇ YILDIR ÜZERİNDE ÇALIŞTIĞIMIZ PROJE HAYATA GEÇİYOR]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18868_ankara_defterdarligi_olarak_uc_yildir_uzerinde_calistigimiz_proje_hayata_geciyor</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18868_ankara_defterdarligi_olarak_uc_yildir_uzerinde_calistigimiz_proje_hayata_geciyor</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muğla Büyükşehir Belediye Başkanlığına bağlı İtfaiye Dairesi Başkanlığı tarafından Defterdarlığımızda görev yapan personele yönelik olarak "Yangın Söndürme Tatbikatı" gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18907_mugla_buyuksehir_belediye_baskanligina_bagli_itfaiye_dairesi_baskanligi_tarafindan_defterdarligimizda_gorev_yapan_personele_yonelik_olarak_yangin_sondurme_tatbikati_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18907_mugla_buyuksehir_belediye_baskanligina_bagli_itfaiye_dairesi_baskanligi_tarafindan_defterdarligimizda_gorev_yapan_personele_yonelik_olarak_yangin_sondurme_tatbikati_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muğla Büyükşehir Belediye Başkanlığına bağlı İtfaiye Dairesi Başkanlığı tarafından Defterdarlığımızda görev yapan personele yönelik olarak "Yangın Söndürme Tatbikatı" gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18908_mugla_buyuksehir_belediye_baskanligina_bagli_itfaiye_dairesi_baskanligi_tarafindan_defterdarligimizda_gorev_yapan_personele_yonelik_olarak_yangin_sondurme_tatbikati_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18908_mugla_buyuksehir_belediye_baskanligina_bagli_itfaiye_dairesi_baskanligi_tarafindan_defterdarligimizda_gorev_yapan_personele_yonelik_olarak_yangin_sondurme_tatbikati_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2026-2027 Eğitim Öğretim Yılı Hayırlı Olsun.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18870_20262027_egitim_ogretim_yili_hayirli_olsun.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18870_20262027_egitim_ogretim_yili_hayirli_olsun.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gençlik ve Spor İl Müdürü Sayın Mehmet BAŞKÖYLÜ ve Digor İlçe Müdürü Sayın Bahattin İNCE, Defterdarımız Sayın Fatih POLAT'ı Makamında Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18853_genclik_ve_spor_il_muduru_sayin_mehmet_baskoylu_ve_digor_ilce_muduru_sayin_bahattin_ince%2C_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
