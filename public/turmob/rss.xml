@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 10:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 10:44:26 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Orta Vadeli Programın Ekonomik Performansı Üzerine]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/c6760840-91b5-4a39-9b43-b593274010d1/orta-vadeli-programin-ekonomik-performansi-uzerine</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c6760840-91b5-4a39-9b43-b593274010d1/orta-vadeli-programin-ekonomik-performansi-uzerine</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Temel Yapay Zeka Kullanım Eğitimi'nde 4. Dönem Başlıyor]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0a454d56-1218-4386-839a-edbc9962c87f/erteleme-yerinde--simdi-sira-kalici-cozumde</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mesleki ve Kişisel Gelişim Eğitim Serisi EĞİTİM-5: "DUYGUSAL ZEKAYI GELİŞTİRMEK"]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/e70a02fa-24cd-46f8-9104-53672982466f/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-5---duygusal-zekayi-gelistirmek-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e70a02fa-24cd-46f8-9104-53672982466f/mesleki-ve-kisisel-gelisim-egitim-serisi-egitim-5---duygusal-zekayi-gelistirmek-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
