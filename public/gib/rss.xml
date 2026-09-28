@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 11:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 12:51:45 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -24,7 +24,103 @@
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ağrı Genelinde En Fazla Vergi Beyan Eden İlk 100 Mükellef Listeleri Açıklandı]]></title>
+            <title><![CDATA[Sinop genelinde en fazla vergi beyan eden ilk 20 mükellef listeleri açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19024_sinop_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19024_sinop_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz 2025 Yılı Gelir ve Kurumlar Vergisi Vergi Rekortmenleri açıklanmıştır.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19023_ilimiz_2025_yili_gelir_ve_kurumlar_vergisi_vergi_rekortmenleri_aciklanmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19023_ilimiz_2025_yili_gelir_ve_kurumlar_vergisi_vergi_rekortmenleri_aciklanmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samsun Genelinde En Fazla Vergi Beyan Eden İlk 100 Mükellef Listeleri Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19025_samsun_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19025_samsun_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19019_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19019_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teksan Sanayi Sitesi Başkanı Sn. Ramazan KARAMANLI, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19016_teksan_sanayi_sitesi_baskani_sn._ramazan_karamanli%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19016_teksan_sanayi_sitesi_baskani_sn._ramazan_karamanli%2C_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19017_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19017_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çankırı İli 2025 Yılı Vergilendirme Dönemine İlişkin  En Fazla Vergi Beyan Eden Mükellef Listeleri Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19018_cankiri_ili_2025_yili_vergilendirme_donemine_iliskin__en_fazla_vergi_beyan_eden_mukellef_listeleri_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19018_cankiri_ili_2025_yili_vergilendirme_donemine_iliskin__en_fazla_vergi_beyan_eden_mukellef_listeleri_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kırklareli Genelinde En Fazla Vergi Beyan Eden İlk 100 Mükellef Listeleri Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19020_kirklareli_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19020_kirklareli_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19021_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19021_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19022_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19022_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 Yılı Vergilendirme Dönemi Gelir Ve Kurumlar Vergisi Gümüşhane İlk 20 Sıralaması]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19026_2025_yili_vergilendirme_donemi_gelir_ve_kurumlar_vergisi_gumushane_ilk_20_siralamasi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19026_2025_yili_vergilendirme_donemi_gelir_ve_kurumlar_vergisi_gumushane_ilk_20_siralamasi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımızdan Teşekkür Belgesi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19027_defterdarimizdan_tesekkur_belgesi_</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19027_defterdarimizdan_tesekkur_belgesi_</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AĞRI GENELİNDE EN FAZLA VERGİ BEYAN EDEN İLK 100 MÜKELLEF LİSTELERİ AÇIKLANDI]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19010_agri_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19010_agri_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</guid>
@@ -144,10 +240,26 @@
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarımız Sayın Ahmet BALIKCI Yumurtalık Vergi Dairemizi Ziyaret ederek Hizmette 35. Yılını Dolduran Personelimize Teşekkür Belgesi Verdi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19015_defterdarimiz_sayin_ahmet_balikci_yumurtalik_vergi_dairemizi_ziyaret_ederek_hizmette_35._yilini_dolduran_personelimize_tesekkur_belgesi_verdi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19015_defterdarimiz_sayin_ahmet_balikci_yumurtalik_vergi_dairemizi_ziyaret_ederek_hizmette_35._yilini_dolduran_personelimize_tesekkur_belgesi_verdi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alfa Türk Basın Medya Grubu İmtiyaz Sahibi Sn. Mehmet Emin KABALI Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Makamında Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18984_alfa_turk_basin_medya_grubu_imtiyaz_sahibi_sn._mehmet_emin_kabali_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18984_alfa_turk_basin_medya_grubu_imtiyaz_sahibi_sn._mehmet_emin_kabali_defterdarimiz_sn._cemil_musevitoglunu_makaminda_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ZİYARET]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19013_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19013_ziyaret</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
         </item>
@@ -294,118 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18959_defterdarimiz_sn._recep_serdar%2C_yilin_ahisi_secilen_sn._hidayet_kislaliyi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muğla Cumhuriyet Başsavcısı Necati KAYAKÖZÜ , Defterdarımız Sayın İlhan AKÇAY'ı makamlarında ziyaret etmişlerdir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18982_mugla_cumhuriyet_bassavcisi_necati_kayakozu_%2C_defterdarimiz_sayin_ilhan_akcayi_makamlarinda_ziyaret_etmislerdir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18982_mugla_cumhuriyet_bassavcisi_necati_kayakozu_%2C_defterdarimiz_sayin_ilhan_akcayi_makamlarinda_ziyaret_etmislerdir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Devrek Esnaf Ve Sanatkarlar Kredi Kefalet Kooperatifi Başkanlığı'nı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18956_defterdarimiz_sn._recep_serdar%2C_devrek_esnaf_ve_sanatkarlar_kredi_kefalet_kooperatifi_baskanligini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18956_defterdarimiz_sn._recep_serdar%2C_devrek_esnaf_ve_sanatkarlar_kredi_kefalet_kooperatifi_baskanligini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Devrek Esnaf ve Sanatkarlar Odası'nı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18955_defterdarimiz_sn._recep_serdar%2C_devrek_esnaf_ve_sanatkarlar_odasini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18955_defterdarimiz_sn._recep_serdar%2C_devrek_esnaf_ve_sanatkarlar_odasini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU İl Tarım Orman Müdürü Sn. Yüksel ÇİL ve  Çevre Şehircilik İl Müdürü Sn.  Hüseyin Özgür YALÇIN ile Birlikte Osmangazi Üniversitesi Rektörü Sn. Prof. Dr. Emine GÜMÜŞSOY'u Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18961_defterdarimiz_sn._cemil_musevitoglu_il_tarim_orman_muduru_sn._yuksel_cil_ve__cevre_sehircilik_il_muduru_sn.__huseyin_ozgur_yalcin_ile_birlikte_osmangazi_universitesi_rektoru_sn._prof._dr._emine_gumussoyu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18961_defterdarimiz_sn._cemil_musevitoglu_il_tarim_orman_muduru_sn._yuksel_cil_ve__cevre_sehircilik_il_muduru_sn.__huseyin_ozgur_yalcin_ile_birlikte_osmangazi_universitesi_rektoru_sn._prof._dr._emine_gumussoyu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Ekim 2026 Tarihinde Yapılacak Vergi Dairesi Müdürlüğü Sınavına Katılacak Adaylar ile Sınav Giriş Yerleri Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18954_3_ekim_2026_tarihinde_yapilacak_vergi_dairesi_mudurlugu_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18954_3_ekim_2026_tarihinde_yapilacak_vergi_dairesi_mudurlugu_sinavina_katilacak_adaylar_ile_sinav_giris_yerleri_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Zonguldak Esnaf ve Sanatkarlar Odaları Birliği Başkanı Sn. Muharrem COŞKUN'u Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18953_defterdarimiz_sn._recep_serdar%2C_zonguldak_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_coskunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18953_defterdarimiz_sn._recep_serdar%2C_zonguldak_esnaf_ve_sanatkarlar_odalari_birligi_baskani_sn._muharrem_coskunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızdan Emekli Olan 3.Muhasebe Müdürlüğü Müdür Yardımcısı Vekili İçin Düzenlenen Yemek Programı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18993_defterdarligimizdan_emekli_olan_3.muhasebe_mudurlugu_mudur_yardimcisi_vekili_icin_duzenlenen_yemek_programi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18993_defterdarligimizdan_emekli_olan_3.muhasebe_mudurlugu_mudur_yardimcisi_vekili_icin_duzenlenen_yemek_programi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Yüksel Ertekin’den Uşak İl Göç İdaresi Müdürlüğüne Ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18977_defterdarimiz_sayin_yuksel_ertekinden_usak_il_goc_idaresi_mudurlugune_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18977_defterdarimiz_sayin_yuksel_ertekinden_usak_il_goc_idaresi_mudurlugune_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ankara genelinde en fazla vergi beyan eden ilk 100 mükellef listeleri açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18950_ankara_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18950_ankara_genelinde_en_fazla_vergi_beyan_eden_ilk_100_mukellef_listeleri_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18951_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18951_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımızdan Teşekkür Belgesi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18952_defterdarimizdan_tesekkur_belgesi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18952_defterdarimizdan_tesekkur_belgesi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Güngör GÖNÜLTAŞ'a Veda Yemeği Düzenlendi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18949_defterdarimiz_gungor_gonultasa_veda_yemegi_duzenlendi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18949_defterdarimiz_gungor_gonultasa_veda_yemegi_duzenlendi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türk Büro Sen Şube Başkanı Sn. Köksal TUNÇTÜRK; Defterdarımız Sn Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18944_turk_buro_sen_sube_baskani_sn._koksal_tuncturk%3B_defterdarimiz_sn_recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18944_turk_buro_sen_sube_baskani_sn._koksal_tuncturk%3B_defterdarimiz_sn_recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazine ve Maliye Bakanlığı İç Denetim Birimi Başkanlığı İç Denetçileri Sn. Ali Faruk ERDOĞAN ve Sn. Ferhat HOPANCI Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/18941_hazine_ve_maliye_bakanligi_ic_denetim_birimi_baskanligi_ic_denetcileri_sn._ali_faruk_erdogan_ve_sn._ferhat_hopanci_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/18941_hazine_ve_maliye_bakanligi_ic_denetim_birimi_baskanligi_ic_denetcileri_sn._ali_faruk_erdogan_ve_sn._ferhat_hopanci_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
