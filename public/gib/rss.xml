@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 11:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 11:04:00 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,18 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[İlimiz Bor İlçesi Kaymakamı Sayın Gökhan GÖRGÜLÜARSLAN 'a ziyarette bulunuldu.]]></title>
+            <title><![CDATA[Teknofest Güneydoğu Kapsamında İlimize Gelen Gelir İdaresi Başkanımız Sayın Bekir BAYRAKDAR, Defterdarlığımızı Ziyaret Etti]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19115_ilimiz_bor_ilcesi_kaymakami_sayin_gokhan_gorguluarslan_a_ziyarette_bulunuldu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19115_ilimiz_bor_ilcesi_kaymakami_sayin_gokhan_gorguluarslan_a_ziyarette_bulunuldu.</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19116_teknofest_guneydogu_kapsaminda_ilimize_gelen_gelir_idaresi_baskanimiz_sayin_bekir_bayrakdar%2C_defterdarligimizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19116_teknofest_guneydogu_kapsaminda_ilimize_gelen_gelir_idaresi_baskanimiz_sayin_bekir_bayrakdar%2C_defterdarligimizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[İlimiz Bor İlçesi Kaymakamı Sayın Gökhan GÖRGÜLÜARSLAN  ziyaret edildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19115_ilimiz_bor_ilcesi_kaymakami_sayin_gokhan_gorguluarslan__ziyaret_edildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19115_ilimiz_bor_ilcesi_kaymakami_sayin_gokhan_gorguluarslan__ziyaret_edildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19077_defterdarimiz_sayin_halil_ibrahim_temiz%2C_samsun_il_jandarma_komutanligini_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19077_defterdarimiz_sayin_halil_ibrahim_temiz%2C_samsun_il_jandarma_komutanligini_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Çorum Genç İş Adamları Derneği Başkanı Kadir Burak KÜÇÜKBENLİ ve Beraberindeki Heyet, Çorum Defterdarı Sayın Erkan CİĞER’i Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19054_corum_genc_is_adamlari_dernegi_baskani_kadir_burak_kucukbenli_ve_beraberindeki_heyet%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19054_corum_genc_is_adamlari_dernegi_baskani_kadir_burak_kucukbenli_ve_beraberindeki_heyet%2C_corum_defterdari_sayin_erkan_cigeri_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
