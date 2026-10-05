@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 11:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 13:33:21 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denetimde Görevli Personelimiz İle Bilgilendirme ve İstişare Toplantısı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19118_denetimde_gorevli_personelimiz_ile_bilgilendirme_ve_istisare_toplantisi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19118_denetimde_gorevli_personelimiz_ile_bilgilendirme_ve_istisare_toplantisi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3. Çeyrek Birim Amirleri Toplantısı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19117_3._ceyrek_birim_amirleri_toplantisi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19117_3._ceyrek_birim_amirleri_toplantisi_yapildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teknofest Güneydoğu Kapsamında İlimize Gelen Gelir İdaresi Başkanımız Sayın Bekir BAYRAKDAR, Defterdarlığımızı Ziyaret Etti]]></title>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19045_deprem_sehitlerini_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19045_deprem_sehitlerini_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız  Merkez Birimleri ve Merkez Müdürlüklerinde çalışan personele, Hatay Valisi Sayın Mustafa MASATLI tarafından imzalanan başarı belgeleri verildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19069_defterdarligimiz__merkez_birimleri_ve_merkez_mudurluklerinde_calisan_personele%2C_hatay_valisi_sayin_mustafa_masatli_tarafindan_imzalanan_basari_belgeleri_verildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19069_defterdarligimiz__merkez_birimleri_ve_merkez_mudurluklerinde_calisan_personele%2C_hatay_valisi_sayin_mustafa_masatli_tarafindan_imzalanan_basari_belgeleri_verildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Halil İbrahim TEMİZ, Samsun İl Jandarma Komutanlığını Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19077_defterdarimiz_sayin_halil_ibrahim_temiz%2C_samsun_il_jandarma_komutanligini_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19077_defterdarimiz_sayin_halil_ibrahim_temiz%2C_samsun_il_jandarma_komutanligini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
