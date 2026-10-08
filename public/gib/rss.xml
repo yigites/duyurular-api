@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 12:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 12:47:04 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yaş Haddinden Emekli Olan Çalışma Arkadaşımız Sn. Nadiye DEMİRKAYA, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Veda Ziyaretinde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19141_yas_haddinden_emekli_olan_calisma_arkadasimiz_sn._nadiye_demirkaya%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19141_yas_haddinden_emekli_olan_calisma_arkadasimiz_sn._nadiye_demirkaya%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19139_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19139_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Ahmet BALIKCI Pozantı Vergi Dairemizi Ziyaret Etti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19140_defterdarimiz_sayin_ahmet_balikci_pozanti_vergi_dairemizi_ziyaret_etti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19140_defterdarimiz_sayin_ahmet_balikci_pozanti_vergi_dairemizi_ziyaret_etti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Bilinci Eğitimi Gerçekleştirildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi._</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi._</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Mihalıççık Belediye Başkanı Sn. Haydar ÇORUM'u Makamında Ziyaret Etti.]]></title>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19068_aksaray_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19068_aksaray_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Han Belediye Başkanı Sn. Bekir BELCELİ'yi Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19078_defterdarimiz_sn._cemil_musevitoglu%2C_han_belediye_baskani_sn._bekir_belceliyi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19078_defterdarimiz_sn._cemil_musevitoglu%2C_han_belediye_baskani_sn._bekir_belceliyi_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızca sürdürülen hasılat denetimleri kapsamında mükelleflerimiz Işlak Oto Yedek Parça ve Kayışlıoğlu Otomotiv Yedek Parça unvanlı işyerleri ziyaret edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19091_defterdarligimizca_surdurulen_hasilat_denetimleri_kapsaminda_mukelleflerimiz_islak_oto_yedek_parca_ve_kayislioglu_otomotiv_yedek_parca_unvanli_isyerleri_ziyaret_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19091_defterdarligimizca_surdurulen_hasilat_denetimleri_kapsaminda_mukelleflerimiz_islak_oto_yedek_parca_ve_kayislioglu_otomotiv_yedek_parca_unvanli_isyerleri_ziyaret_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaziler ve Şehit Aileleri Dernek Başkanı Mesut YAVUZ ve Beraberindeki Heyet, Defterdarımız Sayın Mustafa KURT'u Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19098_gaziler_ve_sehit_aileleri_dernek_baskani_mesut_yavuz_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19098_gaziler_ve_sehit_aileleri_dernek_baskani_mesut_yavuz_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü Tarafından Bilişim Envanter Yönetim Sistemi (BEYS) ve Bilişim Ürünleri Talep Yönetim Sistemi (BÜTYS) İle İlgili Kars Muhase Müdürlüğüne, Kars Muhakemat Müdürlüğüne ve Sarıkamış 9.Komando Tugayı Saymanlık Müdürlüğüne Saha Ziyareti İçin Görevlendirilen Sayın İlgi KARAPINAR TÖRK İle Birlikte, Kars Muhasebe Müdürümüz Sayın Ferhat GÜNDOĞDU ve Personel ve Diğer Hizmetler Müdür Vekilimiz Sayın Ayşegül YAŞAR Defterdarımız Sayın Fatih POLAT'ı Makamında Ziyaret Etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19103_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_kars_muhase_mudurlugune%2C_kars_muhakemat_mudurlugune_ve_sarikamis_9.komando_tugayi_saymanlik_mudurlugune_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_kars_muhasebe_mudurumuz_sayin_ferhat_gundogdu_ve_personel_ve_diger_hizmetler_mudur_vekilimiz_sayin_aysegul_yasar_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19103_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_kars_muhase_mudurlugune%2C_kars_muhakemat_mudurlugune_ve_sarikamis_9.komando_tugayi_saymanlik_mudurlugune_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_kars_muhasebe_mudurumuz_sayin_ferhat_gundogdu_ve_personel_ve_diger_hizmetler_mudur_vekilimiz_sayin_aysegul_yasar_defterdarimiz_sayin_fatih_polati_makaminda_ziyaret_etmistir._</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
