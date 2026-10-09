@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 12:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 12:32:27 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,50 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Karabük İlim Yayma Cemiyeti Şube Başkanı Sayın İsmail KÖKCÜ ve beraberindeki heyet, Defterdarımız Sayın Reyhan KÖKCÜ'yü makamında ziyarette bulunmuştur.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19147_karabuk_ilim_yayma_cemiyeti_sube_baskani_sayin_ismail_kokcu_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_reyhan_kokcuyu_makaminda_ziyarette_bulunmustur.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19147_karabuk_ilim_yayma_cemiyeti_sube_baskani_sayin_ismail_kokcu_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_reyhan_kokcuyu_makaminda_ziyarette_bulunmustur.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Ekim 2026 Tarihinde Yapılan Devlet Gelir Uzmanlığı Yeterlik Sınavının Yazılı Bölüm Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19145_8_ekim_2026_tarihinde_yapilan_devlet_gelir_uzmanligi_yeterlik_sinavinin_yazili_bolum_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19145_8_ekim_2026_tarihinde_yapilan_devlet_gelir_uzmanligi_yeterlik_sinavinin_yazili_bolum_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şanlıurfa Valimiz Sayın Hasan ŞILDAK, Defterdarımız Sayın Mustafa KURT'u Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19146_sanliurfa_valimiz_sayin_hasan_sildak%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19146_sanliurfa_valimiz_sayin_hasan_sildak%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balıkesir Vergi Mahkemesi Başkanı Burak Han İLHAN 'ın Defterdarlığımıza Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19143_balikesir_vergi_mahkemesi_baskani_burak_han_ilhan_in_defterdarligimiza_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19143_balikesir_vergi_mahkemesi_baskani_burak_han_ilhan_in_defterdarligimiza_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yaş Haddinden Emekli Olan Çalışma Arkadaşımız Sn. Nadiye DEMİRKAYA, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'na Veda Ziyaretinde Bulundu.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19141_yas_haddinden_emekli_olan_calisma_arkadasimiz_sn._nadiye_demirkaya%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19141_yas_haddinden_emekli_olan_calisma_arkadasimiz_sn._nadiye_demirkaya%2C_defterdarimiz_sn._cemil_musevitogluna_veda_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Şanlıurfa Serbest Muhasebeci Mali Müşavirler Odası (SMMMO) Başkanı Mehmet Emin GENÇ ve Yönetim Kurulu Üyeleri, Defterdarımız Sayın Mustafa KURT'u Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19144_sanliurfa_serbest_muhasebeci_mali_musavirler_odasi_smmmo_baskani_mehmet_emin_genc_ve_yonetim_kurulu_uyeleri%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19144_sanliurfa_serbest_muhasebeci_mali_musavirler_odasi_smmmo_baskani_mehmet_emin_genc_ve_yonetim_kurulu_uyeleri%2C_defterdarimiz_sayin_mustafa_kurtu_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -40,10 +80,10 @@
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vergi Bilinci Eğitimi Gerçekleştirildi.]]></title>
+            <title><![CDATA[VERGİ BİLİNCİ EĞİTİMİ GERÇEKLEŞTİRİLDİ.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi._</guid>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19142_vergi_bilinci_egitimi_gerceklestirildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -364,46 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19092_defterdarimiz_sn._cemil_musevitoglu%2C_cifteler_kaymakami_sn._bilal_basriyi_makaminda_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19092_defterdarimiz_sn._cemil_musevitoglu%2C_cifteler_kaymakami_sn._bilal_basriyi_makaminda_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Süleymanpaşa İlçe Müftüsü Sayın İbrahim TÜREDİOĞLU, Defterdarımız Sayın Mustafa TAŞKIRAN’a nezaket ziyaretinde bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19127_suleymanpasa_ilce_muftusu_sayin_ibrahim_turedioglu%2C_defterdarimiz_sayin_mustafa_taskirana_nezaket_ziyaretinde_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19127_suleymanpasa_ilce_muftusu_sayin_ibrahim_turedioglu%2C_defterdarimiz_sayin_mustafa_taskirana_nezaket_ziyaretinde_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız 2026 Ocak-Eylül Dönemi Genel Değerlendirme Toplantısı Yapılmıştır]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19087_defterdarligimiz_2026_ocakeylul_donemi_genel_degerlendirme_toplantisi_yapilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19087_defterdarligimiz_2026_ocakeylul_donemi_genel_degerlendirme_toplantisi_yapilmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Çifteler Şubemizi Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19080_defterdarimiz_sn._cemil_musevitoglu_cifteler_subemizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19080_defterdarimiz_sn._cemil_musevitoglu_cifteler_subemizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Görev Yapan ve Memuriyette 35.Yıllık Hizmet Süresini Dolduran Personelimize Defterdarımız Sayın Fatih POLAT Tarafından Teşekkür Belgesi Takdim Edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19104_defterdarligimizda_gorev_yapan_ve_memuriyette_35.yillik_hizmet_suresini_dolduran_personelimize_defterdarimiz_sayin_fatih_polat_tarafindan_tesekkur_belgesi_takdim_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19104_defterdarligimizda_gorev_yapan_ve_memuriyette_35.yillik_hizmet_suresini_dolduran_personelimize_defterdarimiz_sayin_fatih_polat_tarafindan_tesekkur_belgesi_takdim_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aksaray genelinde en fazla vergi beyan eden ilk 20 mükellef listeleri açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19068_aksaray_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19068_aksaray_genelinde_en_fazla_vergi_beyan_eden_ilk_20_mukellef_listeleri_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
