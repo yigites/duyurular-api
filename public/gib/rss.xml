@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 12:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 11:52:54 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Dairesi Müdür Yardımcılığı Sınavı Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19151_vergi_dairesi_mudur_yardimciligi_sinavi_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19151_vergi_dairesi_mudur_yardimciligi_sinavi_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kurumumuz Personeline Mevzuat Güncelleme Eğitimi Verildi.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19149_kurumumuz_personeline_mevzuat_guncelleme_egitimi_verildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19149_kurumumuz_personeline_mevzuat_guncelleme_egitimi_verildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Karabük İlim Yayma Cemiyeti Şube Başkanı Sayın İsmail KÖKCÜ ve beraberindeki heyet, Defterdarımız Sayın Reyhan KÖKCÜ'yü makamında ziyarette bulunmuştur.]]></title>
@@ -44,6 +60,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19143_balikesir_vergi_mahkemesi_baskani_burak_han_ilhan_in_defterdarligimiza_ziyareti</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19143_balikesir_vergi_mahkemesi_baskani_burak_han_ilhan_in_defterdarligimiza_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Samsun SMMM Odasının Düzenlediği Mesleki Eğitim Seminerine Katılım Sağladı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19150_defterdarligimiz_samsun_smmm_odasinin_duzenledigi_mesleki_egitim_seminerine_katilim_sagladi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19150_defterdarligimiz_samsun_smmm_odasinin_duzenledigi_mesleki_egitim_seminerine_katilim_sagladi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -352,6 +376,14 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü Tarafından Saha Ziyareti İçin Görevlendirilen Sayın İlgi KARAPINAR TÖRK İle Birlikte, Defterdarlığımız BT Birim Amiri, BT Birim ve Alt Birim Sorumlularının Katılımı İle Bilişim Envanter Yönetim Sistemi (BEYS) ve Bilişim Ürünleri Talep Yönetim Sistemi (BÜTYS) İle İlgili Toplantı Düzenlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19148_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_defterdarligimiz_bt_birim_amiri%2C_bt_birim_ve_alt_birim_sorumlularinin_katilimi_ile_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_toplanti_duzenlenmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19148_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_defterdarligimiz_bt_birim_amiri%2C_bt_birim_ve_alt_birim_sorumlularinin_katilimi_ile_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_toplanti_duzenlenmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Adalet Komisyonu Başkanı Sn. Arif Hamdi SAZAK'ı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19093_defterdarimiz_sn._cemil_musevitoglu%2C_adalet_komisyonu_baskani_sn._arif_hamdi_sazaki_ziyaret_etti.</link>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19088_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19088_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19083_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19083_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Vergilendirme Dönemine İlişkin Kocaeli İlinde En Fazla Vergi Beyan Eden Mükellefler Açıklandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19046_2025_vergilendirme_donemine_iliskin_kocaeli_ilinde_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19046_2025_vergilendirme_donemine_iliskin_kocaeli_ilinde_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Veda Yemeği Düzenlendi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19084_veda_yemegi_duzenlendi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19084_veda_yemegi_duzenlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Çifteler Kaymakamı Sn. Bilal BASRİ'yi Makamında Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19092_defterdarimiz_sn._cemil_musevitoglu%2C_cifteler_kaymakami_sn._bilal_basriyi_makaminda_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19092_defterdarimiz_sn._cemil_musevitoglu%2C_cifteler_kaymakami_sn._bilal_basriyi_makaminda_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
