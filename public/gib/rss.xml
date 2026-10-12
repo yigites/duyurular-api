@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 12:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 14:22:34 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,62 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlık Değerlendirme Toplantısı Yapılmıştır]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19161_defterdarlik_degerlendirme_toplantisi_yapilmistir</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19161_defterdarlik_degerlendirme_toplantisi_yapilmistir</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ŞERİFE BACI ANADOLU LİSESİNDE VERGİ BİLİNCİ GELİŞTİRME EĞİTİMİ GERÇEKLEŞTİRİLDİ.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19159_serife_baci_anadolu_lisesinde_vergi_bilinci_gelistirme_egitimi_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19159_serife_baci_anadolu_lisesinde_vergi_bilinci_gelistirme_egitimi_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banaz Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19158_banaz_belediyesinde_bkmys_gecis_calismalari_tamamlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19158_banaz_belediyesinde_bkmys_gecis_calismalari_tamamlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kızılcasöğüt Belediyesi’nde BKMYS Geçiş Çalışmaları Tamamlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19157_kizilcasogut_belediyesinde_bkmys_gecis_calismalari_tamamlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19157_kizilcasogut_belediyesinde_bkmys_gecis_calismalari_tamamlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Eskişehir Organize Sanayi Bölgesi Yönetim Kurulu Başkanı Sn. Nadir KÜPELİ'yi Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19160_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_organize_sanayi_bolgesi_yonetim_kurulu_baskani_sn._nadir_kupeliyi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19160_defterdarimiz_sn._cemil_musevitoglu%2C_eskisehir_organize_sanayi_bolgesi_yonetim_kurulu_baskani_sn._nadir_kupeliyi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YENİ İŞ YERİNE HAYIRLI OLSUN ZİYARETİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19153_yeni_is_yerine_hayirli_olsun_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19153_yeni_is_yerine_hayirli_olsun_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankara Defterdarı Sn. Yüksel DUMAN, Türkiye Esnaf ve Sanatkârları Odası Yönetim Kurulu Başkanı olarak göreve gelen Sn. Mehmet YİĞİNER’e yeni görevi dolayısıyla nezaket ziyaretinde bulunarak, hayırlı olsun dileklerini iletmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19156_ankara_defterdari_sn._yuksel_duman%2C_turkiye_esnaf_ve_sanatk%C3%A2rlari_odasi_yonetim_kurulu_baskani_olarak_goreve_gelen_sn._mehmet_yiginere_yeni_gorevi_dolayisiyla_nezaket_ziyaretinde_bulunarak%2C_hayirli_olsun_dileklerini_iletmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19156_ankara_defterdari_sn._yuksel_duman%2C_turkiye_esnaf_ve_sanatk%C3%A2rlari_odasi_yonetim_kurulu_baskani_olarak_goreve_gelen_sn._mehmet_yiginere_yeni_gorevi_dolayisiyla_nezaket_ziyaretinde_bulunarak%2C_hayirli_olsun_dileklerini_iletmistir.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vergi Usul Kanunu Genel Tebliği (Sıra No: 596) Resmi Gazete’de Yayımlandı]]></title>
@@ -44,6 +100,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19147_karabuk_ilim_yayma_cemiyeti_sube_baskani_sayin_ismail_kokcu_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_reyhan_kokcuyu_makaminda_ziyarette_bulunmustur.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19147_karabuk_ilim_yayma_cemiyeti_sube_baskani_sayin_ismail_kokcu_ve_beraberindeki_heyet%2C_defterdarimiz_sayin_reyhan_kokcuyu_makaminda_ziyarette_bulunmustur.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımız Hukuk İşleri Müdürlüğü Müdür Vekilimiz Sayın Meryem KIZILTAŞ Tarafından 06-08.10.2026 Tarihleri Arası "Tasarrufun İptali Davaları" Konulu Toplantı Düzenlenmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19154_defterdarligimiz_hukuk_isleri_mudurlugu_mudur_vekilimiz_sayin_meryem_kiziltas_tarafindan_0608.10.2026_tarihleri_arasi_tasarrufun_iptali_davalari_konulu_toplanti_duzenlenmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19154_defterdarligimiz_hukuk_isleri_mudurlugu_mudur_vekilimiz_sayin_meryem_kiziltas_tarafindan_0608.10.2026_tarihleri_arasi_tasarrufun_iptali_davalari_konulu_toplanti_duzenlenmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -342,70 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19101_ilimiz_2025_yili_gelir_vergisi_rekortmenleri</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İLİMİZ 2025 YILI KURUMLAR VERGİSİ REKORTMENLERİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19100_ilimiz_2025_yili_kurumlar_vergisi_rekortmenleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19100_ilimiz_2025_yili_kurumlar_vergisi_rekortmenleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11822 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19096_11822_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19096_11822_sayili_cumhurbaskani_karari_resmi_gazetede_yayimlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İlimiz Merkez ve İlçelerinde  mükellef ziyaretlerine devam edildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19105_ilimiz_merkez_ve_ilcelerinde__mukellef_ziyaretlerine_devam_edildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19105_ilimiz_merkez_ve_ilcelerinde__mukellef_ziyaretlerine_devam_edildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkiye Cumhuriyeti Hükümeti ile El Salvador Cumhuriyeti Hükümeti Arasında Çifte Vergilendirmeyi Önleme Anlaşması New York’ta İmzalandı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19097_turkiye_cumhuriyeti_hukumeti_ile_el_salvador_cumhuriyeti_hukumeti_arasinda_cifte_vergilendirmeyi_onleme_anlasmasi_new_yorkta_imzalandi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19097_turkiye_cumhuriyeti_hukumeti_ile_el_salvador_cumhuriyeti_hukumeti_arasinda_cifte_vergilendirmeyi_onleme_anlasmasi_new_yorkta_imzalandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mersin genelinde 2025 Dönemine ilişkin en fazla vergi beyan eden mükellef listeleri açıklandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19095_mersin_genelinde_2025_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellef_listeleri_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19095_mersin_genelinde_2025_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellef_listeleri_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü Tarafından Saha Ziyareti İçin Görevlendirilen Sayın İlgi KARAPINAR TÖRK İle Birlikte, Defterdarlığımız BT Birim Amiri, BT Birim ve Alt Birim Sorumlularının Katılımı İle Bilişim Envanter Yönetim Sistemi (BEYS) ve Bilişim Ürünleri Talep Yönetim Sistemi (BÜTYS) İle İlgili Toplantı Düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19148_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_defterdarligimiz_bt_birim_amiri%2C_bt_birim_ve_alt_birim_sorumlularinin_katilimi_ile_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_toplanti_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19148_hazine_ve_maliye_bakanligi_bilgi_teknolojileri_genel_mudurlugu_tarafindan_saha_ziyareti_icin_gorevlendirilen_sayin_ilgi_karapinar_tork_ile_birlikte%2C_defterdarligimiz_bt_birim_amiri%2C_bt_birim_ve_alt_birim_sorumlularinin_katilimi_ile_bilisim_envanter_yonetim_sistemi_beys_ve_bilisim_urunleri_talep_yonetim_sistemi_butys_ile_ilgili_toplanti_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU, Adalet Komisyonu Başkanı Sn. Arif Hamdi SAZAK'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19093_defterdarimiz_sn._cemil_musevitoglu%2C_adalet_komisyonu_baskani_sn._arif_hamdi_sazaki_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19093_defterdarimiz_sn._cemil_musevitoglu%2C_adalet_komisyonu_baskani_sn._arif_hamdi_sazaki_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 Yılı Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19094_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19094_2025_yili_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
