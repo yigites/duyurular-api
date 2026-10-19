@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 10:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 12:04:13 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -22,6 +22,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19108_aylik_degerlendirme_toplantimizi_gerceklestirdik</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Mükellef Ziyaretleri Kapsamında Eti Gıda Sanayi ve Ticaret A.Ş.'ni Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19221_defterdarimiz_sn._cemil_musevitoglu_mukellef_ziyaretleri_kapsaminda_eti_gida_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19221_defterdarimiz_sn._cemil_musevitoglu_mukellef_ziyaretleri_kapsaminda_eti_gida_sanayi_ve_ticaret_a.s.ni_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gece Klüpleri ve Eğlence Mekanları Denetlendi.]]></title>
@@ -44,6 +52,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19215_defterdarimiz_sn._cemil_musevitoglu%2C_sivrihisar_egitim%2C_kultur_ve_dayanisma_vakfini_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19215_defterdarimiz_sn._cemil_musevitoglu%2C_sivrihisar_egitim%2C_kultur_ve_dayanisma_vakfini_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çorum Defterdarı Sayın Erkan CİĞER, İl Göç İdaresi Müdürü Sayın Mithat AKSEM'i ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19220_corum_defterdari_sayin_erkan_ciger%2C_il_goc_idaresi_muduru_sayin_mithat_aksemi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19220_corum_defterdari_sayin_erkan_ciger%2C_il_goc_idaresi_muduru_sayin_mithat_aksemi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19175_karahalli_belediyesinde_bkmys_gecis_calismalari_tamamlandi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19175_karahalli_belediyesinde_bkmys_gecis_calismalari_tamamlandi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Eskişehir Sanayi Odası'nı Ziyaret Ederek Yönetim Kurulu Başkanı Sn. Celalettin KESİKBAŞ ile Görüştü.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19166_defterdarimiz_sn._cemil_musevitoglu_eskisehir_sanayi_odasini_ziyaret_ederek_yonetim_kurulu_baskani_sn._celalettin_kesikbas_ile_gorustu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19166_defterdarimiz_sn._cemil_musevitoglu_eskisehir_sanayi_odasini_ziyaret_ederek_yonetim_kurulu_baskani_sn._celalettin_kesikbas_ile_gorustu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artvin İl Milli Eğitim Müdürü Sayın Berat ŞAHİN Defterdarımız Sayın Mustafa AYDIN'ı ziyaret etmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19183_artvin_il_milli_egitim_muduru_sayin_berat_sahin_defterdarimiz_sayin_mustafa_aydini_ziyaret_etmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19183_artvin_il_milli_egitim_muduru_sayin_berat_sahin_defterdarimiz_sayin_mustafa_aydini_ziyaret_etmistir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>

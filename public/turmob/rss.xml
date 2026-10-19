@@ -4,7 +4,7 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 10:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 12:04:16 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/61b78753-0e39-4b2e-8388-56fca27cd5fd/webinar---yapay-zeka-caginda-meslek-etigi--hata--sorumluluk-ve-guven---21-ekim-2026</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankara’da Sürdürülebilirlik Eğitimi Başlıyor!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/1bc24540-72e0-4f60-86a2-8bb45ab66234/ankara-da-surdurulebilirlik-egitimi-basliyor-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/1bc24540-72e0-4f60-86a2-8bb45ab66234/ankara-da-surdurulebilirlik-egitimi-basliyor-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Makineler Hesaplar, Meslek Muhakeme Eder]]></title>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/724a5d7c-4579-481e-8985-67c3ab120f78/iesba-etik-kurallar---ornek-olay-18--haksiz-rekabet--mesleki-davranis-ve-etik</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Okul ve İbadethane Bağışlarının Kazançtan ve KDV’den İndirimi]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/9a059edb-132f-4e4f-af3c-d7536b32135d/okul-ve-ibadethane-bagislarinin-kazanctan-ve-kdv-den-indirimi</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/9a059edb-132f-4e4f-af3c-d7536b32135d/okul-ve-ibadethane-bagislarinin-kazanctan-ve-kdv-den-indirimi</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
