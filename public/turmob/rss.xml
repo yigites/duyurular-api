@@ -4,7 +4,7 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 12:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 10:54:18 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/61b78753-0e39-4b2e-8388-56fca27cd5fd/webinar---yapay-zeka-caginda-meslek-etigi--hata--sorumluluk-ve-guven---21-ekim-2026</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yükümlülük Denetimi ve Finansal Suçlar Farkındalık Eğitimi]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/3d2f9542-87f7-465d-b123-2ec7dceca23a/yukumluluk-denetimi-ve-finansal-suclar-farkindalik-egitimi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/3d2f9542-87f7-465d-b123-2ec7dceca23a/yukumluluk-denetimi-ve-finansal-suclar-farkindalik-egitimi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ankara’da Sürdürülebilirlik Eğitimi Başlıyor!]]></title>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/4bd5d64e-625a-47fb-98b4-688d576f685f/degisen-dunyada-meslegimizin-gelecegini-insa-ediyoruz</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IESBA Etik Kurallar | Örnek Olay 18: Haksız Rekabet, Mesleki Davranış ve Etik]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/724a5d7c-4579-481e-8985-67c3ab120f78/iesba-etik-kurallar---ornek-olay-18--haksiz-rekabet--mesleki-davranis-ve-etik</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/724a5d7c-4579-481e-8985-67c3ab120f78/iesba-etik-kurallar---ornek-olay-18--haksiz-rekabet--mesleki-davranis-ve-etik</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
