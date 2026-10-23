@@ -4,9 +4,25 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 11:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 10:58:45 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Meslektaşlarımıza Yeşil Pasaport İçin Kanun Teklifi TBMM'de!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stratejik İnsan Kaynakları Uzmanlığı Sertifika Programı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/37b0b045-30d7-4260-a3f7-45f48bad0334/stratejik-insan-kaynaklari-uzmanligi-sertifika-programi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/37b0b045-30d7-4260-a3f7-45f48bad0334/stratejik-insan-kaynaklari-uzmanligi-sertifika-programi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ceza İle Kusur Arasındaki Denge]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -70,22 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/c6760840-91b5-4a39-9b43-b593274010d1/orta-vadeli-programin-ekonomik-performansi-uzerine</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Temel Yapay Zeka Kullanım Eğitimi'nde 4. Dönem Başlıyor]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/31b4e7fa-a7de-4e5b-bf5e-02c2f6295f54/temel-yapay-zeka-kullanim-egitimi-nde-4--donem-basliyor</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/31b4e7fa-a7de-4e5b-bf5e-02c2f6295f54/temel-yapay-zeka-kullanim-egitimi-nde-4--donem-basliyor</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webinar | KOBİ’ler İçin Finansmana Erişim ve Devlet Destekleri: Yatırım, Dijital ve Yeşil Dönüşüm, İhracat | 23 Eylül 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/e37186d1-651e-4822-947e-e575132a41f7/webinar---kobi-ler-icin-finansmana-erisim-ve-devlet-destekleri--yatirim--dijital-ve-yesil-donusum--i</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/e37186d1-651e-4822-947e-e575132a41f7/webinar---kobi-ler-icin-finansmana-erisim-ve-devlet-destekleri--yatirim--dijital-ve-yesil-donusum--i</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
