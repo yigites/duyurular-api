@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 12:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 12:15:27 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[29 Ekim Cumhuriyet Bayramımız Kutlu Olsun.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19302_29_ekim_cumhuriyet_bayramimiz_kutlu_olsun.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19302_29_ekim_cumhuriyet_bayramimiz_kutlu_olsun.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarlığımızda Meme Kanseri Farkındalık Ayı Kapsamında “Meme Kanserini Doğru Tanıyalım” Konferansı Düzenlendi.]]></title>
@@ -396,14 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19243_defterdarimiz_sayin_servet_yilmaz_baskanliginda_grup_mudurlerimiz_ile_merkez_ve_vergi_dairesi_mudurlerimizin_katilimiyla_tahsilat_ve_genel_durum_degerlendirme_toplantisi_gerceklestirilmistir.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19243_defterdarimiz_sayin_servet_yilmaz_baskanliginda_grup_mudurlerimiz_ile_merkez_ve_vergi_dairesi_mudurlerimizin_katilimiyla_tahsilat_ve_genel_durum_degerlendirme_toplantisi_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteoroloji 10.Bölge Müdürü Sayın Hasan ACAR Defterdarlığımızı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19240_meteoroloji_10.bolge_muduru_sayin_hasan_acar_defterdarligimizi_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19240_meteoroloji_10.bolge_muduru_sayin_hasan_acar_defterdarligimizi_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
