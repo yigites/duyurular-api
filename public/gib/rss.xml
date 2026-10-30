@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 12:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 12:05:42 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,12 +16,44 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[VERGİ BİLİNCİ GELİŞTİRME EĞİTİMLERİ GERÇEKLEŞTİRİLDİ.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19312_vergi_bilinci_gelistirme_egitimleri_gerceklestirildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19312_vergi_bilinci_gelistirme_egitimleri_gerceklestirildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19311_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19311_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19309_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19309_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[29 Ekim Cumhuriyet Bayramımız Kutlu Olsun.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19302_29_ekim_cumhuriyet_bayramimiz_kutlu_olsun.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19302_29_ekim_cumhuriyet_bayramimiz_kutlu_olsun.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızda "Kamusal Alanlarda Hijyen Kuralları" Konulu Eğitim Düzenlendi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19310_defterdarligimizda_kamusal_alanlarda_hijyen_kurallari_konulu_egitim_duzenlendi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19310_defterdarligimizda_kamusal_alanlarda_hijyen_kurallari_konulu_egitim_duzenlendi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defterdarlığımızda Meme Kanseri Farkındalık Ayı Kapsamında “Meme Kanserini Doğru Tanıyalım” Konferansı Düzenlendi.]]></title>
@@ -36,6 +68,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19303_mhp_odunpazari_ilce_baskani_sn._mustafa_unal_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_ettiler.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19303_mhp_odunpazari_ilce_baskani_sn._mustafa_unal_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_ettiler.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denetimde Görevli Personelimiz İle Bilgilendirme ve İstişare Toplantısı Yapıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19307_denetimde_gorevli_personelimiz_ile_bilgilendirme_ve_istisare_toplantisi_yapildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19307_denetimde_gorevli_personelimiz_ile_bilgilendirme_ve_istisare_toplantisi_yapildi.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -100,6 +140,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19296_defterdarimiz_sn._cemil_musevitoglu_eskisehir_ticaret_odasi_yonetim_kurulu_baskani_sn._metin_guler_ve_yonetim_kurulu_uyelerine_yeniden_secilmeleri_nedeniyle_hayirli_olsun_ziyaretinde_bulundu.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19296_defterdarimiz_sn._cemil_musevitoglu_eskisehir_ticaret_odasi_yonetim_kurulu_baskani_sn._metin_guler_ve_yonetim_kurulu_uyelerine_yeniden_secilmeleri_nedeniyle_hayirli_olsun_ziyaretinde_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarlığımızda "Etkili İletişim ve Stres Yönetimi" Konulu Eğitim Düzenlendi]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19308_defterdarligimizda_etkili_iletisim_ve_stres_yonetimi_konulu_egitim_duzenlendi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19308_defterdarligimizda_etkili_iletisim_ve_stres_yonetimi_konulu_egitim_duzenlendi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
         </item>
@@ -358,54 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19250_defterdarligimiza_bagli_vergi_dairesi_mudurluklerince_vergi_bilinci_egitimleri_verilmistir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Toplantı Salonunda 2026 Eylül Ayı İçindeki Mevzuat Değişikliklerine İlişkin Sunum ve Değerlendirme Toplantısı Yapılmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19255_defterdarligimiz_toplanti_salonunda_2026_eylul_ayi_icindeki_mevzuat_degisikliklerine_iliskin_sunum_ve_degerlendirme_toplantisi_yapilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19255_defterdarligimiz_toplanti_salonunda_2026_eylul_ayi_icindeki_mevzuat_degisikliklerine_iliskin_sunum_ve_degerlendirme_toplantisi_yapilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vali Yardımcımız Sayın Murat GÜVEN Defterdarlığımızı Ziyaret Etti]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19263_vali_yardimcimiz_sayin_murat_guven_defterdarligimizi_ziyaret_etti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19263_vali_yardimcimiz_sayin_murat_guven_defterdarligimizi_ziyaret_etti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımıza ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19244_defterdarimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19244_defterdarimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız, İl Müftüsü Sayın Naci ÇAKMAKÇI'ya hayırlı olsun ziyaretinde bulundu.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19246_defterdarimiz%2C_il_muftusu_sayin_naci_cakmakciya_hayirli_olsun_ziyaretinde_bulundu.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19246_defterdarimiz%2C_il_muftusu_sayin_naci_cakmakciya_hayirli_olsun_ziyaretinde_bulundu.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İçişleri Bakanlığı Başkontrolörü Sn. Ahmet ACER, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19241_icisleri_bakanligi_baskontroloru_sn._ahmet_acer%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19241_icisleri_bakanligi_baskontroloru_sn._ahmet_acer%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Servet YILMAZ başkanlığında Grup Müdürlerimiz ile Merkez ve Vergi Dairesi Müdürlerimizin katılımıyla tahsilat ve genel durum değerlendirme toplantısı gerçekleştirilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19243_defterdarimiz_sayin_servet_yilmaz_baskanliginda_grup_mudurlerimiz_ile_merkez_ve_vergi_dairesi_mudurlerimizin_katilimiyla_tahsilat_ve_genel_durum_degerlendirme_toplantisi_gerceklestirilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19243_defterdarimiz_sayin_servet_yilmaz_baskanliginda_grup_mudurlerimiz_ile_merkez_ve_vergi_dairesi_mudurlerimizin_katilimiyla_tahsilat_ve_genel_durum_degerlendirme_toplantisi_gerceklestirilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
