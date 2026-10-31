@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 12:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 11:39:36 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5520 Sayılı Kurumlar Vergisi Kanunu 74 Nolu Sirküler Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19314_5520_sayili_kurumlar_vergisi_kanunu_74_nolu_sirkuler_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19314_5520_sayili_kurumlar_vergisi_kanunu_74_nolu_sirkuler_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ZİYARET]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19313_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19313_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VERGİ BİLİNCİ GELİŞTİRME EĞİTİMLERİ GERÇEKLEŞTİRİLDİ.]]></title>
@@ -388,22 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19251_isgucu_uyum_programi_iup_kura_sonuclari_asilyedek_aday_duyurusu</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19251_isgucu_uyum_programi_iup_kura_sonuclari_asilyedek_aday_duyurusu</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anadolu Üniversitesi İletişim Bilimleri Fakültesi Öğretim Üyesi Dr. Sn. Ayhan ŞENGÖZ Tarafından Verilen Etkili İletişim Teknikleri Semineri Konferans Salonumuzda Gerçekleştirildi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19252_anadolu_universitesi_iletisim_bilimleri_fakultesi_ogretim_uyesi_dr._sn._ayhan_sengoz_tarafindan_verilen_etkili_iletisim_teknikleri_semineri_konferans_salonumuzda_gerceklestirildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19252_anadolu_universitesi_iletisim_bilimleri_fakultesi_ogretim_uyesi_dr._sn._ayhan_sengoz_tarafindan_verilen_etkili_iletisim_teknikleri_semineri_konferans_salonumuzda_gerceklestirildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımıza Bağlı Vergi Dairesi Müdürlüklerince Vergi Bilinci Eğitimleri Verilmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19250_defterdarligimiza_bagli_vergi_dairesi_mudurluklerince_vergi_bilinci_egitimleri_verilmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19250_defterdarligimiza_bagli_vergi_dairesi_mudurluklerince_vergi_bilinci_egitimleri_verilmistir</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
