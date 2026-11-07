@@ -4,9 +4,17 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 13:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 12:25:35 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
+        <item>
+            <title><![CDATA[Hizmet Akdiyle Çalışan Meslek Mensuplarına E-İmzalı Faaliyet Belgesi Kolaylığı]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/13d5b433-e288-4600-8305-ba0ad48a3d55/hizmet-akdiyle-calisan-meslek-mensuplarina-e-imzali-faaliyet-belgesi-kolayligi</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/13d5b433-e288-4600-8305-ba0ad48a3d55/hizmet-akdiyle-calisan-meslek-mensuplarina-e-imzali-faaliyet-belgesi-kolayligi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesleğimizin Temelinde Etik, İmzamızın Arkasında Güven Var]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
@@ -78,14 +86,6 @@
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/6850a12b-7cd0-403d-8733-3823d78d8d3a/makineler-hesaplar--meslek-muhakeme-eder</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Webinar | TÜRMOB Üyelerine CIA CHALLENGE SINAVI Avantajı | 7 Ekim 2026]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/0ef55eeb-b9c0-4633-aeb1-71d2b65ff23a/webinar---turmob-uyelerine-cia-challenge-sinavi-avantaji---7-ekim-2026</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/0ef55eeb-b9c0-4633-aeb1-71d2b65ff23a/webinar---turmob-uyelerine-cia-challenge-sinavi-avantaji---7-ekim-2026</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

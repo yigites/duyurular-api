@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 13:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 12:25:32 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çalışma Arkadaşlarımızla Kahvaltıda Bir Araya Geldik.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19374_calisma_arkadaslarimizla_kahvaltida_bir_araya_geldik.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19374_calisma_arkadaslarimizla_kahvaltida_bir_araya_geldik.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankara Defterdarı Sayın Yüksel DUMAN, Ankara Sanayi Odasına nezaket ziyaretinde bulunmuştur.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19373_ankara_defterdari_sayin_yuksel_duman%2C_ankara_sanayi_odasina_nezaket_ziyaretinde_bulunmustur.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19373_ankara_defterdari_sayin_yuksel_duman%2C_ankara_sanayi_odasina_nezaket_ziyaretinde_bulunmustur.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tahsilat ve Değerlendirme Toplantısı Yapıldı.]]></title>
@@ -272,6 +288,14 @@
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Veda Yemeği.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19372_veda_yemegi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19372_veda_yemegi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Veysel SEZGİN, Gelir İdaresi Grup Müdürü Mehmet BİLGİÇ, Gelir İdaresi Grup Müdürü Tuncay İLHAN, Gelir Müdürü Durmuş İNCE ve Burdur Vergi Dairesi Müdürü Mehmet YAĞCI ile birlikte yeni göreve gelen Burdur Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Sn. Ömer SEMERCİ ve Meclis Başkanı Sn. Mehmet ANIK'ı ziyaret etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19348_defterdarimiz_sn._veysel_sezgin%2C_gelir_idaresi_grup_muduru_mehmet_bilgic%2C_gelir_idaresi_grup_muduru_tuncay_ilhan%2C_gelir_muduru_durmus_ince_ve_burdur_vergi_dairesi_muduru_mehmet_yagci_ile_birlikte_yeni_goreve_gelen_burdur_ticaret_ve_sanayi_odasi_yonetim_kurulu_baskani_sn._omer_semerci_ve_meclis_baskani_sn._mehmet_aniki_ziyaret_etti._</link>
@@ -380,30 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19313_ziyaret</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19313_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Büro Memurları Sendikası Antalya Şubesi Başkanı Ünal HİSARKAYA ve Başkan Yrd. Hayrullah SÖNMEZ Defterdarımız İlhanKKARAYILAN 'ı ziyaret ettiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19321_buro_memurlari_sendikasi_antalya_subesi_baskani_unal_hisarkaya_ve_baskan_yrd._hayrullah_sonmez_defterdarimiz_ilhankkarayilan_i_ziyaret_ettiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19321_buro_memurlari_sendikasi_antalya_subesi_baskani_unal_hisarkaya_ve_baskan_yrd._hayrullah_sonmez_defterdarimiz_ilhankkarayilan_i_ziyaret_ettiler.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 Temmuz Vatan Şehitleri, Gazileri ve Yardımlaşma Derneği Genel Başkanı Zeki Kılınç defterdarımız İlhan KARAYILAN'ı ziyaret etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19320_15_temmuz_vatan_sehitleri%2C_gazileri_ve_yardimlasma_dernegi_genel_baskani_zeki_kilinc_defterdarimiz_ilhan_karayilani_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19320_15_temmuz_vatan_sehitleri%2C_gazileri_ve_yardimlasma_dernegi_genel_baskani_zeki_kilinc_defterdarimiz_ilhan_karayilani_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BES Büro Emekçileri Sendikası Antalya Şube Başkanı Muhammet EVİN ve Şube Örgütlenme ve Eğitim Sek. Abdulkadir TAN Defterdarımız İlhan KARAYILAN'ı ziyaret ettiler.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19319_bes_buro_emekcileri_sendikasi_antalya_sube_baskani_muhammet_evin_ve_sube_orgutlenme_ve_egitim_sek._abdulkadir_tan_defterdarimiz_ilhan_karayilani_ziyaret_ettiler.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19319_bes_buro_emekcileri_sendikasi_antalya_sube_baskani_muhammet_evin_ve_sube_orgutlenme_ve_egitim_sek._abdulkadir_tan_defterdarimiz_ilhan_karayilani_ziyaret_ettiler.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
         </item>
