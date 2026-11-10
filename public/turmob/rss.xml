@@ -4,7 +4,7 @@
         <description><![CDATA[TÜRMOB Haberler sayfasındaki duyuruların RSS versiyonu]]></description>
         <link>https://yigites.github.io/duyurular-api/turmob</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 12:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 14:17:34 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/turmob/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -32,18 +32,18 @@
             <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meslektaşlarımıza Yeşil Pasaport İçin Kanun Teklifi TBMM'de!]]></title>
-            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
-            <link>https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</link>
-            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</guid>
-            <category><![CDATA[TURMOB Haberler]]></category>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stratejik İnsan Kaynakları Uzmanlığı Sertifika Programı]]></title>
             <description><![CDATA[Kaynak: turmob.org.tr]]></description>
             <link>https://www.turmob.org.tr/haberler/37b0b045-30d7-4260-a3f7-45f48bad0334/stratejik-insan-kaynaklari-uzmanligi-sertifika-programi</link>
             <guid isPermaLink="true">https://www.turmob.org.tr/haberler/37b0b045-30d7-4260-a3f7-45f48bad0334/stratejik-insan-kaynaklari-uzmanligi-sertifika-programi</guid>
+            <category><![CDATA[TURMOB Haberler]]></category>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meslektaşlarımıza Yeşil Pasaport İçin Kanun Teklifi TBMM'de!]]></title>
+            <description><![CDATA[Kaynak: turmob.org.tr]]></description>
+            <link>https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</link>
+            <guid isPermaLink="true">https://www.turmob.org.tr/haberler/55e5562d-3bb1-411b-959a-b878c7cb5573/meslektaslarimiza-yesil-pasaport-icin-kanun-teklifi-tbmm-de-</guid>
             <category><![CDATA[TURMOB Haberler]]></category>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
