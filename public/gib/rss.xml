@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 15:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 15:13:04 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,14 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Kdz. Ereğli TSO Yönetim Kurulu Başkanı Sn. Yüksel BALCI'yı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19529_defterdarimiz_sn._recep_serdar%2C_kdz._eregli_tso_yonetim_kurulu_baskani_sn._yuksel_balciyi_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19529_defterdarimiz_sn._recep_serdar%2C_kdz._eregli_tso_yonetim_kurulu_baskani_sn._yuksel_balciyi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eskişehir Vali Yardımcısı Sn. Abdulhamit KARACA, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
@@ -40,10 +48,26 @@
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Denizli Cumhuriyet Başsavcılığı’ndan Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19526_denizli_cumhuriyet_bassavciligindan_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19526_denizli_cumhuriyet_bassavciligindan_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Avukat Sn. Şenol KÖKTÜRK, Defterdarımız Sn. Recep SERDAR'ı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19519_avukat_sn._senol_kokturk%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19519_avukat_sn._senol_kokturk%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sayın Mustafa KURT, Organize Sanayi Bölgesinde Faaliyet Gösteren Aykol Sentetik İşletmesini Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19528_defterdarimiz_sayin_mustafa_kurt%2C_organize_sanayi_bolgesinde_faaliyet_gosteren_aykol_sentetik_isletmesini_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19528_defterdarimiz_sayin_mustafa_kurt%2C_organize_sanayi_bolgesinde_faaliyet_gosteren_aykol_sentetik_isletmesini_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
         </item>
@@ -54,6 +78,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19518_zonguldak_sehit_aileleri_yardimlasma_ve_dayanisma_dernegi_baskani_sn._mustafa_yorulmaz_ve_esnaf_sanatkarlar_odalari_birligi_baskani_sn._muharrem_coskun%2C_defterdarimiz_sn._recep_serdari_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valimizin Defterdarımızı Ziyareti]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19527_valimizin_defterdarimizi_ziyareti</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19527_valimizin_defterdarimizi_ziyareti</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vergi Mahkemesi Başkanlığı’ndan Defterdarlığımıza Ziyaret]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19525_vergi_mahkemesi_baskanligindan_defterdarligimiza_ziyaret</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19525_vergi_mahkemesi_baskanligindan_defterdarligimiza_ziyaret</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eskişehir Ticaret Odası Yönetim Kurulu Başkan Yardımcısı Sn. İsmail ÇAVDAR, Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
@@ -232,6 +272,14 @@
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Defterdarlığımız ve Denizli Çalışma ve İş Kurumu İl Müdürlüğü arasında İşgücü Uyum Programı (İUP) protokolü imzalandı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19524_defterdarligimiz_ve_denizli_calisma_ve_is_kurumu_il_mudurlugu_arasinda_isgucu_uyum_programi_iup_protokolu_imzalandi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19524_defterdarligimiz_ve_denizli_calisma_ve_is_kurumu_il_mudurlugu_arasinda_isgucu_uyum_programi_iup_protokolu_imzalandi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sayın Mustafa KURT, Suruç Kaymakamı Sayın Muhammed Furkan TUNA'yı ve Suruç Vergi Dairesi Müdürlüğünü Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19482__defterdarimiz_sayin_mustafa_kurt%2C_suruc_kaymakami_sayin_muhammed_furkan_tunayi_ve_suruc_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
@@ -358,54 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19478_ula_kaymakami_murat_ekinci%2C_defterdarimiz_sayin_ilhan_akcayi_makamlarinda_ziyaret_etmislerdir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Değerlendirme Toplantısı yapıldı.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19480_defterdarligimizda_degerlendirme_toplantisi_yapildi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19480_defterdarligimizda_degerlendirme_toplantisi_yapildi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Başsavcı Sayın Ufuk TURAN' dan Defterdarımıza ziyaret]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19485_bassavci_sayin_ufuk_turan_dan_defterdarimiza_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19485_bassavci_sayin_ufuk_turan_dan_defterdarimiza_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[31 Ekim 2026 Tarihinde Yapılan Vergi Dairesi Müdür Yardımcılığı Sınavının Yazılı Bölüm Sonucu Güncellenmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19464_31_ekim_2026_tarihinde_yapilan_vergi_dairesi_mudur_yardimciligi_sinavinin_yazili_bolum_sonucu_guncellenmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19464_31_ekim_2026_tarihinde_yapilan_vergi_dairesi_mudur_yardimciligi_sinavinin_yazili_bolum_sonucu_guncellenmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımızda Muhasebe Müdürü olarak görev yapmakta iken Bilgi Teknolojileri Kurumu Daire Başkanlığına atanan Sayın Yahya ŞAHİN, Defterdarımız Sayın Reyhan KÖKCÜ ve Muhasebe Müdürlüğü Personelleri tarafından yeni görev yerine uğurlanmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19461_defterdarligimizda_muhasebe_muduru_olarak_gorev_yapmakta_iken_bilgi_teknolojileri_kurumu_daire_baskanligina_atanan_sayin_yahya_sahin%2C_defterdarimiz_sayin_reyhan_kokcu_ve_muhasebe_mudurlugu_personelleri_tarafindan_yeni_gorev_yerine_ugurlanmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19461_defterdarligimizda_muhasebe_muduru_olarak_gorev_yapmakta_iken_bilgi_teknolojileri_kurumu_daire_baskanligina_atanan_sayin_yahya_sahin%2C_defterdarimiz_sayin_reyhan_kokcu_ve_muhasebe_mudurlugu_personelleri_tarafindan_yeni_gorev_yerine_ugurlanmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AĞRI AVM İNŞAATINA ZİYARET]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19457_agri_avm_insaatina_ziyaret</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19457_agri_avm_insaatina_ziyaret</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vergi Bilincini Geliştirme Etkinlikleri]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19459_vergi_bilincini_gelistirme_etkinlikleri</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19459_vergi_bilincini_gelistirme_etkinlikleri</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
