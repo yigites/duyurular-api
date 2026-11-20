@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 15:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 14:51:45 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -16,10 +16,58 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gelir İdaresi Başkanlığı Personeli Görevde Yükselme (VHKİ) Sınavı Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19536_gelir_idaresi_baskanligi_personeli_gorevde_yukselme_vhki_sinavi_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19536_gelir_idaresi_baskanligi_personeli_gorevde_yukselme_vhki_sinavi_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elektronik Tebligat Sistemine İlişkin Rehber, İnfografik ve Video Yayımlandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19534_elektronik_tebligat_sistemine_iliskin_rehber%2C_infografik_ve_video_yayimlandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19534_elektronik_tebligat_sistemine_iliskin_rehber%2C_infografik_ve_video_yayimlandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ETKİLİ İLETİŞİM EĞİTİMİ]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19530_etkili_iletisim_egitimi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19530_etkili_iletisim_egitimi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eskişehir Ticaret Borsası Başkanı Sn. Ahmet OĞUZ, Meclis Başkanı Sn. Emrah YARDIMCI ve Yönetim Kurulu Üyeleri Defterdarımız Sn. Cemil MÜSEVİTOĞLU'nu Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19533_eskisehir_ticaret_borsasi_baskani_sn._ahmet_oguz%2C_meclis_baskani_sn._emrah_yardimci_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19533_eskisehir_ticaret_borsasi_baskani_sn._ahmet_oguz%2C_meclis_baskani_sn._emrah_yardimci_ve_yonetim_kurulu_uyeleri_defterdarimiz_sn._cemil_musevitoglunu_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antalya İl Müftüsü Aydın YIĞMAN Defterdarımız İlhan KARAYILAN'ı ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19532_antalya_il_muftusu_aydin_yigman_defterdarimiz_ilhan_karayilani_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19532_antalya_il_muftusu_aydin_yigman_defterdarimiz_ilhan_karayilani_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defterdarımız Sn. Recep SERDAR, Kdz. Ereğli TSO Yönetim Kurulu Başkanı Sn. Yüksel BALCI'yı Ziyaret Etti.]]></title>
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19529_defterdarimiz_sn._recep_serdar%2C_kdz._eregli_tso_yonetim_kurulu_baskani_sn._yuksel_balciyi_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19529_defterdarimiz_sn._recep_serdar%2C_kdz._eregli_tso_yonetim_kurulu_baskani_sn._yuksel_balciyi_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antalya Yeminli Mali Müşavirler Odası Başkanı Ahmet KAHRAMANOĞLU Defterdarımız İlhanKARAYILAN'ı ziyaret etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19531_antalya_yeminli_mali_musavirler_odasi_baskani_ahmet_kahramanoglu_defterdarimiz_ilhankarayilani_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19531_antalya_yeminli_mali_musavirler_odasi_baskani_ahmet_kahramanoglu_defterdarimiz_ilhankarayilani_ziyaret_etti.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
@@ -356,54 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19473_defterdarimiz_sayin_mustafa_kurt%2C_bozova_kaymakami_sayin_resit_ozer_ozdemiri_ve_bozova_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19473_defterdarimiz_sayin_mustafa_kurt%2C_bozova_kaymakami_sayin_resit_ozer_ozdemiri_ve_bozova_vergi_dairesi_mudurlugunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Hülya YELİMLİEŞ Başkanlığında, Grup Müdürümüz ve Birim Müdürlerimiz ile beraber 11.11.2026 tarihinde Defterdarlığımız toplantı salonunda tahsilat toplantısı yapılmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19466_defterdarimiz_sayin_hulya_yelimlies_baskanliginda%2C_grup_mudurumuz_ve_birim_mudurlerimiz_ile_beraber_11.11.2026_tarihinde_defterdarligimiz_toplanti_salonunda_tahsilat_toplantisi_yapilmistir._</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19466_defterdarimiz_sayin_hulya_yelimlies_baskanliginda%2C_grup_mudurumuz_ve_birim_mudurlerimiz_ile_beraber_11.11.2026_tarihinde_defterdarligimiz_toplanti_salonunda_tahsilat_toplantisi_yapilmistir._</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Hülya YELİMLİEŞ, 11.11.2026 tarihinde '' Geleceğe Nefes Dünyaya Barış'' diyerek Milli ağaçlandırma gününde fidan dikme programına katılmıştır.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19465_defterdarimiz_sayin_hulya_yelimlies%2C_11.11.2026_tarihinde__gelecege_nefes_dunyaya_baris_diyerek_milli_agaclandirma_gununde_fidan_dikme_programina_katilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19465_defterdarimiz_sayin_hulya_yelimlies%2C_11.11.2026_tarihinde__gelecege_nefes_dunyaya_baris_diyerek_milli_agaclandirma_gununde_fidan_dikme_programina_katilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gençliğin Üretim Çağı Bölgesel Kariyer Fuarına Katılım]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19469_gencligin_uretim_cagi_bolgesel_kariyer_fuarina_katilim</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19469_gencligin_uretim_cagi_bolgesel_kariyer_fuarina_katilim</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kocaeli Oto Galericiler Sitesi Ziyaret Edilmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19472_kocaeli_oto_galericiler_sitesi_ziyaret_edilmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19472_kocaeli_oto_galericiler_sitesi_ziyaret_edilmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afet Zarar Tespit Planı Toplantısı]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19476_afet_zarar_tespit_plani_toplantisi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19476_afet_zarar_tespit_plani_toplantisi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ula Kaymakamı Murat EKİNCİ, Defterdarımız Sayın İlhan AKÇAY'ı makamlarında ziyaret etmişlerdir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19478_ula_kaymakami_murat_ekinci%2C_defterdarimiz_sayin_ilhan_akcayi_makamlarinda_ziyaret_etmislerdir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19478_ula_kaymakami_murat_ekinci%2C_defterdarimiz_sayin_ilhan_akcayi_makamlarinda_ziyaret_etmislerdir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
