@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 14:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 14:10:50 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,22 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afet Zarar Tespit Hizmet Grubu Yerel Düzey Operasyonel Planı Güncelleme Toplantısı Yapıldı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19535_afet_zarar_tespit_hizmet_grubu_yerel_duzey_operasyonel_plani_guncelleme_toplantisi_yapildi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19535_afet_zarar_tespit_hizmet_grubu_yerel_duzey_operasyonel_plani_guncelleme_toplantisi_yapildi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lüleburgaz Kaymakamı  Sayın  Ayhan IŞIK  Defterdarımız Sayın Doğan ADIGÜZEL'e iade-i ziyarette bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19537_luleburgaz_kaymakami__sayin__ayhan_isik__defterdarimiz_sayin_dogan_adiguzele_iadei_ziyarette_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19537_luleburgaz_kaymakami__sayin__ayhan_isik__defterdarimiz_sayin_dogan_adiguzele_iadei_ziyarette_bulundu.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gelir İdaresi Başkanlığı Personeli Görevde Yükselme (VHKİ) Sınavı Sonucu Açıklandı]]></title>
@@ -36,6 +52,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19530_etkili_iletisim_egitimi</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19530_etkili_iletisim_egitimi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Körfez Ticaret Odası (KTO) Ziyaret Edilmiştir.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19538_korfez_ticaret_odasi_kto_ziyaret_edilmistir.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19538_korfez_ticaret_odasi_kto_ziyaret_edilmistir.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
         </item>
@@ -68,6 +92,14 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19531_antalya_yeminli_mali_musavirler_odasi_baskani_ahmet_kahramanoglu_defterdarimiz_ilhankarayilani_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19531_antalya_yeminli_mali_musavirler_odasi_baskani_ahmet_kahramanoglu_defterdarimiz_ilhankarayilani_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kocaeli Vali Yardımcısı Sayın Dr. Mustafa AYHAN, Kocaeli Defterdarlığı ve Kocaeli Denetim Daire Başkanlığı Yeni Hizmet Binasının İnşaatında İncelemelerde Bulundu.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19539_kocaeli_vali_yardimcisi_sayin_dr._mustafa_ayhan%2C_kocaeli_defterdarligi_ve_kocaeli_denetim_daire_baskanligi_yeni_hizmet_binasinin_insaatinda_incelemelerde_bulundu.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19539_kocaeli_vali_yardimcisi_sayin_dr._mustafa_ayhan%2C_kocaeli_defterdarligi_ve_kocaeli_denetim_daire_baskanligi_yeni_hizmet_binasinin_insaatinda_incelemelerde_bulundu.</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
@@ -374,38 +406,6 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19487_defterdarligimiz_personeline_yonelik_afet_farkindalik_egitimi_duzenlendi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın İlhan AKÇAY, Mükelleflerimizden Demay Limited Şirketini ziyaret etmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19517_defterdarimiz_sayin_ilhan_akcay%2C_mukelleflerimizden_demay_limited_sirketini_ziyaret_etmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19517_defterdarimiz_sayin_ilhan_akcay%2C_mukelleflerimizden_demay_limited_sirketini_ziyaret_etmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[İrfan Ağaçlı  İlkokulunda Eğitim Verildi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19474_irfan_agacli__ilkokulunda_egitim_verildi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19474_irfan_agacli__ilkokulunda_egitim_verildi</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Veda Yemeği Düzenlendi.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19471_veda_yemegi_duzenlendi.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19471_veda_yemegi_duzenlendi.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarımız Sayın Mustafa KURT, Bozova Kaymakamı Sayın Reşit Özer ÖZDEMİR'İ ve Bozova Vergi Dairesi Müdürlüğünü Ziyaret Etti.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19473_defterdarimiz_sayin_mustafa_kurt%2C_bozova_kaymakami_sayin_resit_ozer_ozdemiri_ve_bozova_vergi_dairesi_mudurlugunu_ziyaret_etti.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19473_defterdarimiz_sayin_mustafa_kurt%2C_bozova_kaymakami_sayin_resit_ozer_ozdemiri_ve_bozova_vergi_dairesi_mudurlugunu_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
