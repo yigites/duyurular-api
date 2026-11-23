@@ -4,7 +4,7 @@
         <description><![CDATA[Gelir İdaresi Başkanlığı güncel duyurularından oluşan RSS]]></description>
         <link>https://yigites.github.io/duyurular-api/gib</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 14:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 17:20:24 GMT</lastBuildDate>
         <atom:link href="https://yigites.github.io/duyurular-api/gib/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[tr]]></language>
         <item>
@@ -14,6 +14,38 @@
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19081_2025_vergilendirme_donemine_iliskin_en_fazla_vergi_beyan_eden_mukellefler_aciklandi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21 Kasım 2026 Tarihinde Yapılan Gelir İdaresi Grup Müdürlüğü Sınavının Yazılı Bölüm Sonucu Açıklandı]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19543_21_kasim_2026_tarihinde_yapilan_gelir_idaresi_grup_mudurlugu_sinavinin_yazili_bolum_sonucu_aciklandi</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19543_21_kasim_2026_tarihinde_yapilan_gelir_idaresi_grup_mudurlugu_sinavinin_yazili_bolum_sonucu_aciklandi</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Çalışma Arkadaşlarımızdan Ezgi Beste TOGAN'ın Ankara'ya Atanması Sebebiyle Düzenlenen Veda Yemeğine Defterdarımız Sn. Cemil MÜSEVİTOĞLU'da Katıldı.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19542_calisma_arkadaslarimizdan_ezgi_beste_toganin_ankaraya_atanmasi_sebebiyle_duzenlenen_veda_yemegine_defterdarimiz_sn._cemil_musevitogluda_katildi.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19542_calisma_arkadaslarimizdan_ezgi_beste_toganin_ankaraya_atanmasi_sebebiyle_duzenlenen_veda_yemegine_defterdarimiz_sn._cemil_musevitogluda_katildi.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defterdarımız Sn. Cemil MÜSEVİTOĞLU Türk Hava Kurumu Eskişehir Şube Başkanı Sn. Gökhan ÇALIŞKAN'ı Ziyaret Etti.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19540_defterdarimiz_sn._cemil_musevitoglu_turk_hava_kurumu_eskisehir_sube_baskani_sn._gokhan_caliskani_ziyaret_etti.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19540_defterdarimiz_sn._cemil_musevitoglu_turk_hava_kurumu_eskisehir_sube_baskani_sn._gokhan_caliskani_ziyaret_etti.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sanayi ve Teknoloji İl Müdürü Sayın Metin BİTİM ve Şube Müdürü Sayın Metin OĞUZ'dan Defterdarımız Sayın Ahmet BALIKCI'ya Makamında Ziyaret.]]></title>
+            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
+            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19541_sanayi_ve_teknoloji_il_muduru_sayin_metin_bitim_ve_sube_muduru_sayin_metin_oguzdan_defterdarimiz_sayin_ahmet_balikciya_makaminda_ziyaret.</link>
+            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19541_sanayi_ve_teknoloji_il_muduru_sayin_metin_bitim_ve_sube_muduru_sayin_metin_oguzdan_defterdarimiz_sayin_ahmet_balikciya_makaminda_ziyaret.</guid>
+            <category><![CDATA[Güncel]]></category>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afet Zarar Tespit Hizmet Grubu Yerel Düzey Operasyonel Planı Güncelleme Toplantısı Yapıldı]]></title>
@@ -372,38 +404,6 @@
             <description><![CDATA[Kaynak: gib.gov.tr]]></description>
             <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19481_samsun_bolge_idare_mahkemesi_baskani_defterdarligimizi_ziyaret_etti.</link>
             <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19481_samsun_bolge_idare_mahkemesi_baskani_defterdarligimizi_ziyaret_etti.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ODA ZİYARETİ]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19479_oda_ziyareti</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19479_oda_ziyareti</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Merkez ve İlçe Vergi Dairesi Müdürlükleri İle Genel Durum Değerlendirme Toplantısı Düzenlenmiştir.]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19491_defterdarligimiz_merkez_ve_ilce_vergi_dairesi_mudurlukleri_ile_genel_durum_degerlendirme_toplantisi_duzenlenmistir.</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19491_defterdarligimiz_merkez_ve_ilce_vergi_dairesi_mudurlukleri_ile_genel_durum_degerlendirme_toplantisi_duzenlenmistir.</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["LÖSEV’in Toplumsal Sorumluluk Çalışmaları ve Faaliyetleri" Konulu Seminer Düzenlenmiştir]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19486_losevin_toplumsal_sorumluluk_calismalari_ve_faaliyetleri_konulu_seminer_duzenlenmistir</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19486_losevin_toplumsal_sorumluluk_calismalari_ve_faaliyetleri_konulu_seminer_duzenlenmistir</guid>
-            <category><![CDATA[Güncel]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defterdarlığımız Personeline Yönelik Afet Farkındalık Eğitimi Düzenlendi]]></title>
-            <description><![CDATA[Kaynak: gib.gov.tr]]></description>
-            <link>https://www.gib.gov.tr/duyuru-arsivi/guncel/19487_defterdarligimiz_personeline_yonelik_afet_farkindalik_egitimi_duzenlendi</link>
-            <guid isPermaLink="true">https://www.gib.gov.tr/duyuru-arsivi/guncel/19487_defterdarligimiz_personeline_yonelik_afet_farkindalik_egitimi_duzenlendi</guid>
             <category><![CDATA[Güncel]]></category>
             <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
         </item>
